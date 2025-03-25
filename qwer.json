@@ -1,0 +1,122 @@
+[
+    {
+        "query": "Em quais circunstâncias a aprovação no ENEM pode ser utilizada para a remição de pena? É possível que a aprovação no ENEM gere direito à remição de pena mesmo que o condenado tenha concluído o ensino médio antes da prisão?",
+        "trecho_referencia": "No que tange à remição de pena, a aprovação no ENEM só gera direito ao benefício quando há demonstração de estudo autodidata ou atividades educacionais realizadas durante o cumprimento da pena, voltadas à conclusão do ensino médio. O agravante, entretanto, já possuía diploma de Ensino Médio antes de sua prisão, de modo que a aprovação no exame não atende ao requisito de esforço educacional intramuros.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.9176899404534098
+    },
+    {
+        "query": "Em quais circunstâncias a aprovação no ENEM pode ser utilizada para a remição de pena? É possível que a aprovação no ENEM gere direito à remição de pena mesmo que o condenado tenha concluído o ensino médio antes da prisão?",
+        "trecho_referencia": "No que tange à remição de pena, a aprovação no ENEM só gera direito ao benefício quando há demonstração de estudo autodidata ou atividades educacionais realizadas durante o cumprimento da pena, voltadas à conclusão do ensino médio. O agravante, entretanto, já possuía diploma de Ensino Médio antes de sua prisão, de modo que a aprovação no exame não atende ao requisito de esforço educacional intramuros.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.9359303302491574
+    },
+    {
+        "query": "Em que circunstâncias a fundamentação per relationem é considerada válida em um acórdão, e como a dosimetria da pena deve ser realizada de acordo com a jurisprudência do STJ?",
+        "trecho_referencia": "A fundamentação per relationem é válida e admitida no acórdão recorrido, não havendo negativa de prestação jurisdicional, e a dosimetria da pena deve ser feita de acordo com os princípios da proporcionalidade e razoabilidade, considerando as circunstâncias judiciais e a fração de diminuição atinente à modalidade tentada.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.9048244350910599
+    },
+    {
+        "query": "Em que circunstâncias a fundamentação per relationem é considerada válida em um acórdão, e como a dosimetria da pena deve ser realizada de acordo com a jurisprudência do STJ?",
+        "trecho_referencia": "A fundamentação per relationem é válida e admitida no acórdão recorrido, não havendo negativa de prestação jurisdicional, e a dosimetria da pena deve ser feita de acordo com os princípios da proporcionalidade e razoabilidade, considerando as circunstâncias judiciais e a fração de diminuição atinente à modalidade tentada.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.933926331109508
+    },
+    {
+        "query": "Em caso de infração tributária ocorrida durante a vigência de uma apólice de seguro garantia, mas após o término do contrato principal (regime especial do ICMS), é possível exigir a indenização do seguro garantia?",
+        "trecho_referencia": "A possibilidade de exigir a indenização de seguro garantia que visa garantir pagamento de crédito tributário não pode estar atrelada estritamente ao prazo de vigência do contrato principal (regime especial de ICMS), mas sim à vigência da própria apólice de seguro garantia, ainda que o auto de infração seja lavrado em data posterior.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.9427336307898323
+    },
+    {
+        "query": "Em caso de infração tributária ocorrida durante a vigência de uma apólice de seguro garantia, mas após o término do contrato principal (regime especial do ICMS), é possível exigir a indenização do seguro garantia?",
+        "trecho_referencia": "A possibilidade de exigir a indenização de seguro garantia que visa garantir pagamento de crédito tributário não pode estar atrelada estritamente ao prazo de vigência do contrato principal (regime especial de ICMS), mas sim à vigência da própria apólice de seguro garantia, ainda que o auto de infração seja lavrado em data posterior.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.9478357102022272
+    },
+    {
+        "query": "Em um crime de roubo majorado, a aplicação cumulativa de duas causas de aumento de pena, como o envolvimento de um adolescente e a condução de veículo por pessoa não habilitada, é válida mesmo sem a presença de outras circunstâncias agravantes?",
+        "trecho_referencia": "A aplicação cumulativa das causas de aumento foi fundamentada adequadamente, considerando a quantidade de agentes, todos armados, e a organização da ação criminosa, o que demonstra a gravidade concreta do fato. A quantidade de agentes (4 agentes), todos armados, expôs a maior risco a vida e a integridade física das vítimas, impossibilidade a reação delas. A quantidade de agentes, a divisão de tarefas entre eles, a organização da ação criminosa e o emprego de múltiplas armas de fogo validam a conclusão de que a periculosidade do fato extravasou o ordinário.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.7197416080583894
+    },
+    {
+        "query": "Em um crime de roubo majorado, a aplicação cumulativa de duas causas de aumento de pena, como o envolvimento de um adolescente e a condução de veículo por pessoa não habilitada, é válida mesmo sem a presença de outras circunstâncias agravantes?",
+        "trecho_referencia": "A aplicação cumulativa das causas de aumento foi fundamentada adequadamente, considerando a quantidade de agentes, todos armados, e a organização da ação criminosa, o que demonstra a gravidade concreta do fato. A quantidade de agentes (4 agentes), todos armados, expôs a maior risco a vida e a integridade física das vítimas, impossibilidade a reação delas. A quantidade de agentes, a divisão de tarefas entre eles, a organização da ação criminosa e o emprego de múltiplas armas de fogo validam a conclusão de que a periculosidade do fato extravasou o ordinário.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.8539574616544547
+    },
+    {
+        "query": "Em um caso de roubo majorado com aplicação cumulativa de causas de aumento na dosimetria da pena, a aplicação cumulativa viola o art. 68 do Código Penal quando não fundamentada na gravidade da conduta?",
+        "trecho_referencia": "A aplicação cumulativa das causas de aumento está devidamente fundamentada, com base na quantidade de agentes, uso de arma de fogo, divisão de tarefas e restrição da liberdade das vítimas, o que justifica a gravidade concreta da conduta.  Consoante jurisprudência desta Corte, havendo continuidade delitiva específica, a fração de aumento é definida, de forma combinada, com base em elementos objetivos - quantidade de crimes dolosos praticados contra vítimas diferentes, com violência ou grave ameaça a pessoa - e subjetivos, consistentes na análise da culpabilidade, dos antecedentes, da conduta social, da personalidade do agente, dos motivos e das circunstâncias do crime. Previsão do art. 71, parágrafo único, do Código Penal.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.8292614037226562
+    },
+    {
+        "query": "Em um caso de roubo majorado com aplicação cumulativa de causas de aumento na dosimetria da pena, a aplicação cumulativa viola o art. 68 do Código Penal quando não fundamentada na gravidade da conduta?",
+        "trecho_referencia": "A aplicação cumulativa das causas de aumento está devidamente fundamentada, com base na quantidade de agentes, uso de arma de fogo, divisão de tarefas e restrição da liberdade das vítimas, o que justifica a gravidade concreta da conduta.  Consoante jurisprudência desta Corte, havendo continuidade delitiva específica, a fração de aumento é definida, de forma combinada, com base em elementos objetivos - quantidade de crimes dolosos praticados contra vítimas diferentes, com violência ou grave ameaça a pessoa - e subjetivos, consistentes na análise da culpabilidade, dos antecedentes, da conduta social, da personalidade do agente, dos motivos e das circunstâncias do crime. Previsão do art. 71, parágrafo único, do Código Penal.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.8897490857942161
+    },
+    {
+        "query": "Em um recurso exclusivo da defesa, o tribunal pode realocar uma causa de aumento para a primeira fase da dosimetria da pena, mesmo que isso não aumente a pena final, sem configurar reformatio in pejus?",
+        "trecho_referencia": "Não há ilegalidade na utilização das causas de aumento não utilizadas na terceira fase dosimétria para majorar a pena-base, como circunstâncias judiciais desfavoráveis. No caso, o Tribunal de Justiça, em recurso exclusivo da defesa, realocou a causa de aumento do concurso de pessoas, da terceira para a primeira fase, chumbando as circunstâncias do crime. Essa operação afastou a aplicação em cascata de duas causas de aumento e beneficiou os recorrentes.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.8375196824681729
+    },
+    {
+        "query": "Em um recurso exclusivo da defesa, o tribunal pode realocar uma causa de aumento para a primeira fase da dosimetria da pena, mesmo que isso não aumente a pena final, sem configurar reformatio in pejus?",
+        "trecho_referencia": "Não há ilegalidade na utilização das causas de aumento não utilizadas na terceira fase dosimétria para majorar a pena-base, como circunstâncias judiciais desfavoráveis. No caso, o Tribunal de Justiça, em recurso exclusivo da defesa, realocou a causa de aumento do concurso de pessoas, da terceira para a primeira fase, chumbando as circunstâncias do crime. Essa operação afastou a aplicação em cascata de duas causas de aumento e beneficiou os recorrentes.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.8888558179682565
+    },
+    {
+        "query": "A aplicação do princípio da insignificância em um caso de furto simples, com restituição do valor subtraído à vítima, é impedida pela existência de outra ação penal em andamento contra o agente?",
+        "trecho_referencia": "A subtração de valor insignificante, sem violência ou grave ameaça, e com restituição à vítima, pode ser considerada atípica pela aplicação do princípio da insignificância, independentemente da existência de outras ações penais em andamento contra o agente.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.9018276287995552
+    },
+    {
+        "query": "A aplicação do princípio da insignificância em um caso de furto simples, com restituição do valor subtraído à vítima, é impedida pela existência de outra ação penal em andamento contra o agente?",
+        "trecho_referencia": "A subtração de valor insignificante, sem violência ou grave ameaça, e com restituição à vítima, pode ser considerada atípica pela aplicação do princípio da insignificância, independentemente da existência de outras ações penais em andamento contra o agente.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.9223767996765491
+    },
+    {
+        "query": "Em um caso de furto qualificado de um bem de valor ínfimo e inservível à vítima, o princípio da insignificância pode ser aplicado para absolver o acusado?",
+        "trecho_referencia": "O princípio da insignificância exclui a tipicidade penal no crime de furto qualificado quando o bem subtraído é de valor ínfimo, inservível à vítima e não justifica a intervenção penal, considerando a mínima ofensividade, periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão jurídica.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.9349754084177189
+    },
+    {
+        "query": "Em um caso de furto qualificado de um bem de valor ínfimo e inservível à vítima, o princípio da insignificância pode ser aplicado para absolver o acusado?",
+        "trecho_referencia": "O princípio da insignificância exclui a tipicidade penal no crime de furto qualificado quando o bem subtraído é de valor ínfimo, inservível à vítima e não justifica a intervenção penal, considerando a mínima ofensividade, periculosidade social, reduzido grau de reprovabilidade e inexpressividade da lesão jurídica.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.9215805288521609
+    },
+    {
+        "query": "Em um caso de tráfico de drogas, como a pena-base deve ser fixada em relação à quantidade de droga apreendida e ao uso de aplicativos para divulgação do comércio ilícito?",
+        "trecho_referencia": "A fixação da pena no tráfico de drogas deve considerar as circunstâncias do delito, como o uso de aplicativos para divulgação do comércio ilícito, e a quantidade de droga apreendida, sendo adequada a redução de 1/6 da pena-base em casos de apreensão de grandes quantidades de droga, como mais de 8 kg de maconha.",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.8994640793624201
+    },
+    {
+        "query": "Em um caso de tráfico de drogas, como a pena-base deve ser fixada em relação à quantidade de droga apreendida e ao uso de aplicativos para divulgação do comércio ilícito?",
+        "trecho_referencia": "A fixação da pena no tráfico de drogas deve considerar as circunstâncias do delito, como o uso de aplicativos para divulgação do comércio ilícito, e a quantidade de droga apreendida, sendo adequada a redução de 1/6 da pena-base em casos de apreensão de grandes quantidades de droga, como mais de 8 kg de maconha.",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.9295307522927791
+    },
+    {
+        "query": "Em um caso de furto simples, quando o valor do bem furtado supera 10% do salário mínimo vigente à época dos fatos, é possível aplicar o princípio da insignificância para absolver o acusado?",
+        "trecho_referencia": "A jurisprudência desta Corte firmou-se no sentido de ser incabível, em regra, a aplicação do princípio da insignificância quando o valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos (AgRg no HC n. 904.609/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024).",
+        "model_name": "textmultilingualembedding002",
+        "similaridade_cosseno_query_reference": 0.8578598292309458
+    },
+    {
+        "query": "Em um caso de furto simples, quando o valor do bem furtado supera 10% do salário mínimo vigente à época dos fatos, é possível aplicar o princípio da insignificância para absolver o acusado?",
+        "trecho_referencia": "A jurisprudência desta Corte firmou-se no sentido de ser incabível, em regra, a aplicação do princípio da insignificância quando o valor da res furtiva superar o percentual de 10% do salário mínimo vigente à época dos fatos (AgRg no HC n. 904.609/DF, relator Ministro Reynaldo Soares da Fonseca, Quinta Turma, julgado em 21/5/2024, DJe de 28/5/2024).",
+        "model_name": "multilinguale5large",
+        "similaridade_cosseno_query_reference": 0.9063226172119745
+    }
+]

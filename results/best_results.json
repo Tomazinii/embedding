@@ -1,0 +1,30 @@
+{
+    "best_results": [
+        [
+            {
+                "query": "Em quais situações a aprovação no ENEM pode ser utilizada para remição de pena em regime de cumprimento de pena privativa de liberdade?",
+                "doc_id": "2223155",
+                "reference_context": "No que tange à remição de pena, a aprovação no ENEM só gera direito ao benefício quando há demonstração de estudo autodidata ou atividades educacionais realizadas durante o cumprimento da pena, voltadas à conclusão do ensino médio. O agravante, entretanto, já possuía diploma de Ensino Médio antes de sua prisão, de modo que a aprovação no exame não atende ao requisito de esforço educacional intramuros.",
+                "best_config": {
+                    "embedding_model": "textembeddinglargeexp0307",
+                    "chunk_method": "chunk_fixed_size_30"
+                },
+                "best_score": 0.8235294117485582,
+                "score_key_used": "harmonic_mean",
+                "metrics": {
+                    "faithfulness": 1.0,
+                    "context_precision_with_reference": 0.6999999999766667,
+                    "context_precision_without_reference": 0.6999999999766667,
+                    "context_recall": 1.0
+                },
+                "context_retrieved": [
+                    "anescente, a gravidade dos crimes praticados e o histórico carcerário do apenado. III. RAZÕES DE DECIDIR\n3. No que tange à remição de pena, a aprovação no ENEM só gera direito ao benefício quando há demonstração de estudo autodidata ou atividades educacionais realizadas durante o cumprimento da pena, voltadas à conclus",
+                    "dos requisitos legais. II. QUESTÃO EM DISCUSSÃO\n2. Há duas questões em discussão: (i) verificar se a aprovação no ENEM, mesmo tendo o agravante concluído o ensino médio antes da prisão, gera direito à remição de pena; (ii) analisar a viabilidade da concessão da visita periódica ao lar, considerando o tempo de pena rem",
+                    "SSUAL PENAL. EXECUÇÃO PENAL. REMIÇÃO DE PENA PELA APROVAÇÃO NO ENEM. ENSINO MÉDIO CONCLUÍDO ANTES DA PRISÃO. INVIABILIDADE. VISITA PERIÓDICA AO LAR. GRAVIDADE DOS CRIMES, TEMPO REMANESCENTE DA PENA E HISTÓRICO CARCERÁRIO. INDEFERIMENTO. DECISÃO\nFUNDAMENTADA E EM CONFORMIDADE COM A LEGISLAÇÃO E JURISPRUDÊNCIA. AGRAVO CO",
+                    "NHECIDO E RECURSO ESPECIAL NÃO PROVIDO. I. CASO EM EXAME\n1. Agravo interposto contra decisão que inadmitiu recurso especial em que a defesa pleiteia: (i) a remição de pena pela aprovação no Exame Nacional do Ensino Médio (ENEM) e (ii) a concessão do benefício de visita periódica ao lar, sob o argumento de preenchimento",
+                    "ão do ensino médio. O agravante, entretanto, já possuía diploma de Ensino Médio antes de sua prisão, de modo que a aprovação no exame não atende ao requisito de esforço educacional intramuros. A interpretação dada pela instância de origem está em conformidade com a Recomendação nº 391/2021 do CNJ e com o art. 126 da Le"
+                ]
+            }
+        ]
+    ]
+}

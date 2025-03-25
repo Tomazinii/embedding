@@ -1,0 +1,98 @@
+query: Em quais situações a fundamentação per relationem é considerada válida em um acórdão? 
+doc_id:2567211 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: É possível cobrar a indenização de um seguro garantia que garante o pagamento de um débito fiscal, mesmo após a revogação do regime especial de ICMS que gerou o débito, caso a infração que gerou o débito tenha ocorrido durante a vigência da apólice? 
+ doc_id:2678907 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: Em um crime de roubo majorado com a participação de um adolescente, a aplicação cumulativa de duas causas de aumento de pena, considerando a gravidade concreta do fato, é válida? A aplicação dessas causas de aumento viola o art. 59 do Código Penal? 
+ doc_id:2601334 
+ -------> best config: {'chunk_method': 'document_inteiro', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um caso de roubo majorado com continuidade delitiva, a aplicação cumulativa de causas de aumento na dosimetria da pena e a fração de aumento pela continuidade delitiva, considerando a prática de dois crimes de roubo, violam o Código Penal? 
+ doc_id:2601509 
+ -------> best config: {'chunk_method': 'document_inteiro', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: Em qual situação a aprovação no ENEM garante a remição de pena e quando a visita periódica ao lar é negada? 
+ doc_id:2223155 
+ -------> best config: {'chunk_method': 'document_inteiro', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um recurso exclusivo da defesa, o Tribunal de Justiça realocou a causa de aumento do concurso de agentes da terceira para a primeira fase da dosimetria da pena, sem aumentar a pena final. Essa realocação configura reformatio in pejus? 
+ doc_id:2567211 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: A existência de outras ações penais em andamento impede a aplicação do princípio da insignificância em um caso de furto de valor ínfimo, sem violência e com restituição da coisa subtraída? 
+ doc_id:2485652 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um caso de furto qualificado, a aplicação do princípio da insignificância é possível se o bem subtraído for de valor ínfimo e inservível à vítima, mesmo que a lei tipifique o crime como qualificado? 
+ doc_id:2356465 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em casos de tráfico de drogas, qual o impacto da utilização de aplicativos para divulgação do comércio ilícito na dosimetria da pena? 
+ doc_id:2720764 
+ -------> best config: {'chunk_method': 'document_inteiro', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um caso de furto simples, quando é possível aplicar o princípio da insignificância e qual o critério utilizado para avaliar a relevância do bem furtado? 
+ doc_id:2356465 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+
+
+
+
+
+
+---------------------
+
+
+
+
+
+
+query: Em quais situações a fundamentação per relationem é considerada válida em um acórdão? 
+ doc_id:2480415 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: É possível cobrar a indenização de um seguro garantia que garante o pagamento de um débito fiscal, mesmo após a revogação do regime especial de ICMS que gerou o débito, caso a infração que gerou o débito tenha ocorrido durante a vigência da apólice? 
+ doc_id:2678907 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um crime de roubo majorado com a participação de um adolescente, a aplicação cumulativa de duas causas de aumento de pena, considerando a gravidade concreta do fato, é válida? A aplicação dessas causas de aumento viola o art. 59 do Código Penal? 
+ doc_id:2601334 
+ -------> best config: {'chunk_method': 'document_inteiro', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um caso de roubo majorado com continuidade delitiva, a aplicação cumulativa de causas de aumento na dosimetria da pena e a fração de aumento pela continuidade delitiva, considerando a prática de dois crimes de roubo, violam o Código Penal? 
+ doc_id:2601509 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: Em qual situação a aprovação no ENEM garante a remição de pena e quando a visita periódica ao lar é negada? 
+ doc_id:2223155 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'multilinguale5large'}
+---------------------------------------------------------
+query: Em um recurso exclusivo da defesa, o Tribunal de Justiça realocou a causa de aumento do concurso de agentes da terceira para a primeira fase da dosimetria da pena, sem aumentar a pena final. Essa realocação configura reformatio in pejus? 
+ doc_id:2567211 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: A existência de outras ações penais em andamento impede a aplicação do princípio da insignificância em um caso de furto de valor ínfimo, sem violência e com restituição da coisa subtraída? 
+ doc_id:2485652 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textembeddinglargeexp0307'}
+---------------------------------------------------------
+query: Em um caso de furto qualificado, a aplicação do princípio da insignificância é possível se o bem subtraído for de valor ínfimo e inservível à vítima, mesmo que a lei tipifique o crime como qualificado? 
+ doc_id:2356465 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em casos de tráfico de drogas, qual o impacto da utilização de aplicativos para divulgação do comércio ilícito na dosimetria da pena? 
+ doc_id:2720764 
+ -------> best config: {'chunk_method': 'chunk_fixed_size_320', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+query: Em um caso de furto simples, quando é possível aplicar o princípio da insignificância e qual o critério utilizado para avaliar a relevância do bem furtado? 
+ doc_id:2466455 
+ -------> best config: {'chunk_method': 'document_inteiro', 'embedding_model': 'textmultilingualembedding002'}
+---------------------------------------------------------
+
+
+
+
+

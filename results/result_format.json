@@ -1,0 +1,48 @@
+
+
+{
+    "results":
+            [
+                {
+                        "id":1,
+                        "query":"teste",
+             
+                        "paths":[
+                            {
+                            "config": {
+                                "embedding_model":"A",
+                                "chunk_method":"sliding",
+                                "context_retrieved":[],
+                                "trecho_referencia":[]
+                            },
+                            "metrics": {
+                                "context_recall":0.2,
+                                "context_recall1":0.2,
+                                "context_recall2":0.2
+                            },
+                            "score_a": 0.8,
+                            "score_b": 0.8,
+                            "score_c": 0.8,
+                            "score_d": 0.8
+                    }, {
+                        "config": {
+                            "embedding_model":"B",
+                            "chunk_method":"sliding"
+                        },
+                        "metrics": {
+                            "context_recall":0.2,
+                            "context_recall1":0.2,
+                            "context_recall2":0.2
+                        },
+                        "score_a": 0.8,
+                        "score_b": 0.8,
+                        "score_c": 0.8,
+                        "score_d": 0.8
+                }
+
+                ]
+                }
+                
+            ]
+    
+}
