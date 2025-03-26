@@ -1,0 +1,982 @@
+[
+    {
+        "query": "Quais são os requisitos para a admissão de embargos de divergência no Superior Tribunal de Justiça?",
+        "resposta": "Para a admissão dos embargos de divergência, é necessário comprovar a existência de dissídio jurisprudencial, com a demonstração de similitude fático-jurídica entre os acórdãos confrontados.",
+        "trecho_referencia": "A admissão dos embargos de divergência exige a comprovação do dissídio jurisprudencial, com a demonstração de similitude fático-jurídica entre os acórdãos confrontados.",
+        "número": "1910582",
+        "link": "https://processo.stj.jus.br/processo/show/1910582?tipo=agr",
+        "processo": "AgInt nos EREsp 1910582 / PR",
+        "relator": "LUIS FELIPE SALOMÃO",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Qual a natureza jurídica do prazo de 120 dias para impetração de mandado de segurança previsto no art. 23 da Lei 12.016/2009?",
+        "resposta": "O prazo de 120 dias para a impetração de mandado de segurança, previsto no art. 23 da Lei 12.016/2009, tem natureza decadencial. O seu descumprimento resulta na extinção do processo sem resolução do mérito, conforme entendimento sumulado pelo STF na Súmula 632/STF.",
+        "trecho_referencia": "O prazo de 120 dias para impetração de mandado de segurança, previsto no art. 23 da Lei 12.016/2009, tem natureza decadencial, e seu descumprimento resulta na extinção do processo sem resolução do mérito, conforme entendimento sumulado pelo STF na Súmula 632/STF.",
+        "número": "1492505",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db2d3",
+        "processo": "AgInt no AgInt no AREsp 1492505 / PA",
+        "relator": "Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5)",
+        "data_julgamento": "06/06/2022"
+    },
+    {
+        "query": "Em que situações é possível o redirecionamento da execução fiscal para pessoa jurídica não identificada no ato de lançamento?",
+        "resposta": "O redirecionamento da execução fiscal para pessoa jurídica não identificada no ato de lançamento é possível somente em casos de abuso de personalidade jurídica, caracterizado por desvio de finalidade ou confusão patrimonial, de acordo com o art. 50 do Código Civil.",
+        "trecho_referencia": "O acórdão paradigma entendeu necessária a instauração do incidente de desconsideração da personalidade jurídica, previsto no art. 133 do CPC/2015, para fins de redirecionamento da Execução Fiscal contra pessoa jurídica não identificada no ato de lançamento ou não enquadrada nas hipóteses dos arts. 134 e 135 do CTN, dependendo da comprovação do abuso de personalidade, caracterizado pelo desvio de finalidade ou confusão patrimonial, tal como consta do art. 50 do Código Civil.",
+        "número": "1940081",
+        "link": "https://processo.stj.jus.br/processo/show/1940081",
+        "processo": "AgInt nos EREsp 1940081 / SC",
+        "relator": "BENEDITO GONÇALVES",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em relação a empresas atuantes na área da SUDENE e beneficiárias da isenção do imposto de renda prevista na Lei 4.239/1963, qual o efeito da portaria da SUDENE que reconhece o direito à isenção?",
+        "resposta": "A portaria da SUDENE que reconhece o direito à isenção de uma empresa que atende aos requisitos da Lei 4.239/1963 tem efeito meramente declaratório. A isenção surge da lei e a portaria apenas reconhece esse direito já existente.",
+        "trecho_referencia": "Segundo a jurisprudência deste Superior Tribunal de Justiça, entende-se que \"a portaria da SUDENE que reconhece o direito à isenção de empresa que preencheu os requisitos para o gozo do benefício, de acordo com os ditames da lei, não é constitutiva daquele direito, tendo efeito meramente declaratório do direito à isenção que nasceu da incidência da Lei\" (REsp 1.040.629/PE, Rel. Ministro Francisco Falcão, Primeira Turma, julgado em 26/08/2008, DJe 04/09/2008).",
+        "número": "1680801",
+        "link": "https://processo.stj.jus.br/processo/showDocumento/NTIyMzQzMg==",
+        "processo": "AgInt no AgInt no REsp 1680801 / PE",
+        "relator": "Ministro GURGEL DE FARIA",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "É necessário que o débito tributário esteja consolidado para que os descontos previstos no art. 1º, § 3º, I, da Lei n. 11.941/2009 sejam aplicados?",
+        "resposta": "Sim, a jurisprudência do STJ exige a consolidação do débito tributário antes da aplicação dos descontos previstos no art. 1º, § 3º, I, da Lei n. 11.941/2009. A redução dos juros de mora em 45% deve ser aplicada sobre o montante devido originalmente a esse título, após a consolidação da dívida. A exclusão de 100% da multa de mora e de ofício não implica exclusão proporcional dos juros de mora, pois a lei não define isso expressamente.",
+        "trecho_referencia": "Pacificou-se na Primeira Seção do STJ o entendimento pela necessidade de consolidação do débito antes da aplicação dos descontos previstos no art. 1º, § 3º, I, da Lei n. 11.941/2009, ou seja, \"a redução dos juros de mora em 45% deve ser aplicada, após a consolidação da dívida, sobre o próprio montante devido originalmente a esse título (juros de mora), faltando amparo legal para que a exclusão de 100% da multa de mora e de ofício implique exclusão proporcional dos juros de mora, sem que a lei assim o tenha definido de modo expresso\" (EREsp 1.404.931/RS, Rel. Ministro Herman Benjamin, Primeira Seção, DJe 04/08/2021).",
+        "número": "1875077",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db342",
+        "processo": "EREsp 1875077",
+        "relator": "SÉRGIO KUKINA",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em quais situações a entidade de classe possui legitimidade para substituir pensionistas de servidor falecido antes do ajuizamento da ação de conhecimento?",
+        "resposta": "O STJ entende que a entidade de classe não possui legitimidade para substituir pensionistas de servidor falecido antes do ajuizamento da ação de conhecimento, conforme entendimento da Primeira Turma do STJ.",
+        "trecho_referencia": "2. Caso em que a embargante em suas razões assevera que a Primeira Turma possui entendimento \"diametralmente\" oposto ao exarado no acórdão embargado, no sentido de que a entidade de classe não tem legitimidade para substituir pensionistas de servidor falecido antes do ajuizamento da ação de conhecimento. Para tanto, colaciona como paradigma o julgado de minha relatoria proferido nos autos do AgInt no REsp n. 1.623.812/RS.",
+        "número": "1883100",
+        "link": "https://processo.stj.jus.br/processo/showDocument/index.seam?processo.processoId=1883100&processo.sequencial=834832&processo.tipoDocumento=AI",
+        "processo": "AgInt nos EREsp 1883100 / RN",
+        "relator": "Ministro BENEDITO GONÇALVES",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em cobranças de dívidas líquidas com termo certo, quando se inicia a incidência da correção monetária?",
+        "resposta": "A correção monetária em cobranças de dívidas líquidas com termo certo incide a partir do vencimento da obrigação.",
+        "trecho_referencia": "Nas hipóteses de cobrança de dívida líquida com termo certo, a correção monetária incide a partir do vencimento da obrigação.",
+        "número": "2005562",
+        "link": "https://processo.stj.jus.br/processo/showDocument/index.seam?processo.processoId=2005562&tipo=AGRAVO%20INTERNO&numero=2005562&origem=AGRAVO%20INTERNO%20NO%20AGRAVO%20INTERNO%20NO%20AGRAVO%20EM%20RECURSO%20ESPECIAL",
+        "processo": "AgInt no AgInt no AREsp 2005562 / RS",
+        "relator": "Ministro ANTONIO CARLOS FERREIRA",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em caso de rescisão unilateral e imotivada de um contrato de plano de saúde coletivo, o beneficiário que estiver em tratamento médico tem direito à manutenção do plano de saúde?",
+        "resposta": "Sim. O STJ entende que, mesmo em caso de rescisão unilateral e imotivada de contrato de plano de saúde coletivo, o beneficiário em tratamento médico tem direito à manutenção do plano de saúde, em respeito aos princípios da boa-fé, da segurança jurídica e da dignidade da pessoa humana.",
+        "trecho_referencia": "Segundo a jurisprudência do STJ, \"não obstante seja possível a resilição unilateral e imotivada do contrato de plano de saúde coletivo, deve ser resguardado o direito daqueles beneficiários que estejam internados ou em pleno tratamento médico, observando-se, assim, os princípios da boa-fé, da segurança jurídica e da dignidade da pessoa humana\" (REsp n. 1.818.495/SP, Relator Ministro MARCO AURÉLIO BELLIZZE, TERCEIRA TURMA, julgado em 08/10/2019, DJe 11/10/2019). Precedentes.",
+        "número": "1923972",
+        "link": "https://processo.stj.jus.br/processo/show/5176482",
+        "processo": "AgInt no AgInt no AREsp 1923972 / SP",
+        "relator": "Ministro ANTONIO CARLOS FERREIRA",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em que casos o STJ exige o prequestionamento da tese jurídica em um recurso especial?",
+        "resposta": "O STJ exige que a tese jurídica seja previamente discutida no Tribunal de origem, sob pena de aplicação das Súmulas 282 e 356 do STF. O prequestionamento se configura quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria regida pelo dispositivo legal, mesmo que não o mencione diretamente. Também é vedado o revolvimento de cláusulas contratuais e do acervo fático-probatório do recurso especial.",
+        "trecho_referencia": "A jurisprudência consolidada neste Superior Tribunal firmou-se no sentido de que a análise de tese no âmbito do recurso especial exige a prévia discussão perante o Tribunal de origem, sob pena de incidirem as Súmulas 282 e 356 do Supremo Tribunal Federal.\n1.1. O entendimento j urisprudencial desta Corte é de que se têm como prequestionados os dispositivos legais de forma implícita, ou seja, ainda que não referidos diretamente, quando o acórdão recorrido emite juízo de valor fundamentado acerca da matéria por eles regida, o que não se verifica no caso.\n2. Reverter a conclusão do colegiado originário, para acolher a pretensão recursal, demandaria o revolvimento de cláusulas contratuais e do acervo fático-probatório dos autos, o que se mostra impossível dada a natureza excepcional da via eleita, consoante enunciado das Súmulas n. 5 e 7 do Superior Tribunal de Justiça.",
+        "número": "2000978",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db379?q=2000978&pagina=1&tipoPesquisa=NUMPROC",
+        "processo": "AgInt no AgInt no AREsp 2000978 / SP",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "06/06/2022"
+    },
+    {
+        "query": "Quais são os requisitos para a admissibilidade dos Embargos de Divergência no Código de Processo Civil de 2015?",
+        "resposta": "O Código de Processo Civil de 2015 exige, para a admissibilidade dos Embargos de Divergência, a demonstração de que os acórdãos embargado e paradigma sejam de mérito ou que um deles tenha apreciado a controvérsia, que a divergência seja atual, que haja similitude entre as premissas fáticas dos casos e que as soluções jurídicas sejam conflitantes.",
+        "trecho_referencia": "O art. 1.043, I, III e § 4º, do Código de Processo Civil de 2015 dispõe que para que os Embargos de Divergência sejam admitidos, faz-se necessário demonstrar, entre outros requisitos: (i) que os acórdãos embargado e paradigma sejam de mérito, ou que um deles, embora não conhecendo do recurso, tenha apreciado a controvérsia; (ii) que a divergência seja atual; (iii) que haja similitude entre as premissas fáticas que envolvem os casos enfrentados no acórdão embargado e no paradigma; (iv) que as soluções jurídicas conferidas a esses casos sejam conflitantes.",
+        "número": "1764345",
+        "link": "https://processo.stj.jus.br/processo/show/1764345",
+        "processo": "AgInt nos EREsp 1764345",
+        "relator": "REGINA HELENA COSTA",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias os Embargos de Divergência são incabíveis, especificamente quando se trata de divergência de decisões sobre o valor de honorários advocatícios?",
+        "resposta": "Os Embargos de Divergência são incabíveis para discutir a irrisoriedade ou exorbitância do valor fixado a título de honorários advocatícios, pois a análise dessa questão exige o exame das peculiaridades de cada caso.",
+        "trecho_referencia": "A Corte especial tem posicionamento consolidado segundo o qual são incabíveis os Embargos de Divergência para discutir irrisoriedade ou exorbitância do valor fixado a título de honorários advocatícios, tendo em vista a necessidade de examinarem-se as peculiaridades de cada caso.",
+        "número": "1897305",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db3b8",
+        "processo": "AgInt nos EREsp 1897305 / SP",
+        "relator": "Ministra REGINA HELENA COSTA",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "A prescrição de fundo de direito se aplica à revisão de proventos de aposentadoria com base na paridade entre ativos e inativos?",
+        "resposta": "A jurisprudência do STJ é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República.",
+        "trecho_referencia": "A jurisprudência do STJ é firme no sentido de que não se opera a prescrição de fundo de direito nos casos em que se objetive a revisão dos proventos de aposentadoria, com base na paridade entre ativos e inativos, nos termos do art. 40, § 8º, da Constituição da República.",
+        "número": "1920465",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeor.do?processo.codigo=1920465&documentid=78827&tipo=inteiroteor",
+        "processo": "AgInt nos EREsp 1920465 / RS",
+        "relator": "FRANCISCO FALCÃO",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em que situações é possível utilizar a fundamentação per relationem para a prorrogação da medida de interceptação telefônica?",
+        "resposta": "O STJ entende que a fundamentação per relationem pode ser utilizada para a prorrogação da medida de interceptação telefônica, desde que não implique em nulidade.",
+        "trecho_referencia": "Para a prorrogação da medida que autoriza a interceptação telefônica, é possível adotar-se a fundamentação per relationem, sem que tal proceder implique nulidade.",
+        "número": "1800259",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db419",
+        "processo": "AgRg nos EDcl no AREsp 1800259 / MS",
+        "relator": "Ministra LAURITA VAZ",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "Quais são os requisitos para a admissão de embargos de divergência no Superior Tribunal de Justiça?",
+        "resposta": "Para a admissão de embargos de divergência, é necessário comprovar o dissídio jurisprudencial, demonstrando a similitude fático-jurídica entre os casos confrontados e a adoção de soluções diversas aos litígios.",
+        "trecho_referencia": "A admissão dos embargos de divergência reclama a comprovação do dissídio jurisprudencial na forma prevista no RISTJ, com a demonstração das circunstâncias fáticas e processuais que assemelham os casos confrontados, bem como a adoção de soluções diversas aos litígios.",
+        "número": "1953180",
+        "link": "https://www.stj.jus.br/processo/pesquisa/1953180/0",
+        "processo": "AgInt nos EREsp 1953180 / SP",
+        "relator": "LUIS FELIPE SALOMÃO",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em que casos a cobrança de juros remuneratórios superiores a 12% ao ano é considerada abusiva?",
+        "resposta": "A cobrança de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade. A abusividade se configura quando há uma grande distorção entre a taxa prevista no contrato e a apurada pelo Bacen, na época da contratação.",
+        "trecho_referencia": "Conforme sedimentado por esta Corte Superior, a cobrança de juros remuneratórios superiores a 12% ao ano, por si só, não indica abusividade. Deve-se verificar, em cada caso, uma grande distorção entre a taxa prevista na avença e a apurada pelo Bacen, na época da contratação, para que se configure a abusividade dos juros, o que não ocorreu na espécie, consoante o acórdão recorrido.",
+        "número": "2005573",
+        "link": "https://processo.stj.jus.br/processo/show/2005573",
+        "processo": "AgInt no AgInt no AREsp 2005573 / RS",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias o STF tem competência para analisar a constitucionalidade de uma Resolução da ANS, como a Resolução n. 195/2009, que regulamenta os serviços de planos de saúde?",
+        "resposta": "O STF tem competência para analisar a constitucionalidade de atos normativos, como resoluções, quando a análise envolve a verificação de eventual contrariedade entre a norma e a Constituição Federal, ou seja, quando há questionamento sobre a compatibilidade entre a norma e a Carta Magna. No caso da Resolução n. 195/2009 da ANS, o STF teria competência caso houvesse alegação de que a resolução violasse a Constituição Federal, por exemplo, ao invadir competência privativa da União ou ao ferir direitos fundamentais.",
+        "trecho_referencia": "Em que pesem as alegações da insurgente, a análise da pretensão não pode ser revista em recurso especial, na medida em que se trata de matéria de cunho constitucional, ou seja, há necessidade de perquirir eventual contrariedade de lei ordinária (Lei n. 9.656/1998) em face de edição da Resolução Normativa n. 195/2009 pela Agência Nacional de Saúde, que regulamentou os serviços de planos de saúde, sob pena de usurpação da competência do Supremo Tribunal Federal.",
+        "número": "1473680",
+        "link": "https://processo.stj.jus.br/processo/show/1473680?classe=AGRAVO%20INTERNO%20NO%20AGRAVO%20INTERNO%20NO%20RECURSO%20ESPECIAL",
+        "processo": "AgInt no AgInt no REsp 1473680 / SC",
+        "relator": "Ministro OG FERNANDES",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "É possível utilizar um acórdão proferido em habeas corpus para comprovar a divergência em um recurso especial?",
+        "resposta": "O Superior Tribunal de Justiça (STJ) entende que acórdãos proferidos em habeas corpus não servem para comprovação de divergência em recursos especiais.",
+        "trecho_referencia": "É pacífico o entendimento desta Corte de que acórdãos proferidos em habeas corpus não servem para comprovação da divergência.",
+        "número": "1984986",
+        "link": "https://processo.stj.jus.br/processo/showDocument/documento/OTk4NDk4Ni8yMDIxLzA3ODk4MS84MzQ4MzI=",
+        "processo": "AgRg nos EAREsp 1984986 / RN",
+        "relator": "ROGERIO SCHIETTI CRUZ",
+        "data_julgamento": "23/03/2022"
+    },
+    {
+        "query": "Em quais casos a intempestividade do agravo em recurso especial pode ser afastada durante a pandemia de COVID-19?",
+        "resposta": "A intempestividade do agravo em recurso especial não pode ser afastada na ausência de comprovação da suspensão dos prazos processuais durante a pandemia de COVID-19, conforme exigido pela jurisprudência. A suspensão dos prazos deveria ter sido comprovada no momento da interposição do recurso, sendo inviável a comprovação posterior em sede de agravo interno.",
+        "trecho_referencia": "A intempestividade do agravo em recurso especial não pode ser afastada na ausência de comprovação da suspensão dos prazos processuais durante a pandemia de COVID-19, conforme exigido pela jurisprudência.",
+        "número": "1984986",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db453",
+        "processo": "AgRg nos EDcl no AREsp 1984986 / RN",
+        "relator": "REYNALDO SOARES DA FONSECA",
+        "data_julgamento": "14/12/2021"
+    },
+    {
+        "query": "Em que casos a norma do art. 239, § 1º, do CPC/2015 se aplica para o termo inicial do prazo de contestação?",
+        "resposta": "A norma do art. 239, § 1º, do CPC/2015 se aplica unicamente às situações em que o réu toma conhecimento do processo na fase de conhecimento, e não na fase de cumprimento de sentença. No cumprimento de sentença, o comparecimento espontâneo do réu implica a reabertura do prazo para o oferecimento de impugnação, momento em que pode ser suscitado o vício de citação, de acordo com o art. 525, § 1º, I, do CPC/2015.",
+        "trecho_referencia": "Trata-se de distinção fática relevante entre o acórdão embargado e paradigma, pois pacificada nesta Corte orientação no sentido de que a norma do art. 239, § 1º, do CPC/2015 é voltada unicamente às hipóteses em que o réu toma conhecimento do processo ainda na sua fase de conhecimento, e não na fase de cumprimento de sentença, em que o comparecimento espontâneo implica a reabertura do prazo para o oferecimento de impugnação, ocasião em que poderá suscitar o vício de citação, a teor do art. 525, § 1º, I, do CPC/2015.",
+        "número": "1930225",
+        "link": "https://processo.stj.jus.br/processo/showDocumento/documento/78973/1/false",
+        "processo": "AgInt nos EREsp 1930225 / SP",
+        "relator": "LUIS FELIPE SALOMÃO",
+        "data_julgamento": "31/05/2022"
+    },
+    {
+        "query": "Em um recurso especial sobre previdência privada, é possível o reexame de matéria fático-probatória e a interpretação de cláusulas contratuais?",
+        "resposta": "O Superior Tribunal de Justiça (STJ) decidiu que, em recurso especial, não cabe o reexame de matéria fático-probatória e a interpretação de cláusulas contratuais, conforme as Súmulas 5 e 7/STJ.",
+        "trecho_referencia": "Não cabe, em recurso especial, reexaminar matéria fático-probatória e a interpretação de cláusulas contratuais (Súmulas 5 e 7/STJ).",
+        "número": "1963134",
+        "link": "https://s3.amazonaws.com/jurisprudencia/files/original/AREsp%201963134.pdf",
+        "processo": "AgInt no AgInt no AREsp 1963134 / SP",
+        "relator": "Ministra MARIA ISABEL GALLOTTI",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em um caso de estupro de vulnerável com condenação por continuidade delitiva, é possível que o STJ revise a decisão das instâncias ordinárias sobre a quantidade de aumento da pena?",
+        "resposta": "O STJ entende que não é possível rever a decisão das instâncias ordinárias sobre a quantidade de aumento da pena por continuidade delitiva no âmbito do recurso especial, pois isso implicaria em reexame do quadro fático-probatório, o que é vedado pelo enunciado sumular 7/STJ. O Tribunal Superior também confirma que o quantum de aumento deve ser proporcional ao número de infrações cometidas, de acordo com a jurisprudência consolidada.",
+        "trecho_referencia": "II - Deve ser mantido o decisum monocrático reprochado pois, como dito, o eg. Tribunal recorrido, após percuciente análise das provas carreadas aos autos de origem, concluiu pela manutenção da condenação do ora agravante. Na hipótese, a reforma do entendimento demandaria, inevitavelmente, o reexame do quadro fático-probatório, sendo, todavia, vedada a modificação das premissas fáticas firmadas pelas instâncias ordinárias no âmbito do recurso especial (Enunciado Sumular n. 7/STJ).",
+        "número": "2073902",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/5015324/2073902",
+        "processo": "AgRg nos EDcl no AREsp 2073902 / SP",
+        "relator": "JESUÍNO RISSATO (DESEMBARGADOR CONVOCADO DO TJDFT)",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "Em um recurso especial, é possível que o STJ revise as conclusões do Tribunal de origem e reexamine cláusulas contratuais e o acervo fático-probatório dos autos?",
+        "resposta": "O STJ entende que a revisão das conclusões do Tribunal de origem em recurso especial, que envolva o reexame de cláusulas contratuais e do acervo fático-probatório dos autos, é impossível, devido à natureza excepcional da via eleita.",
+        "trecho_referencia": "A revisão das conclusões do Tribunal de origem em recurso especial demandaria o reexame de cláusulas contratuais e do acervo fático-probatório dos autos, o que é impossível ante a natureza excepcional da via eleita, conforme enunciados das Súmulas n. 5 e 7 do STJ.",
+        "número": "1982305",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/834832",
+        "processo": "AgInt no AgInt no AREsp 1982305 / RS",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias é possível a revisão da indenização por danos morais em caso de demora no atendimento por plano de saúde que resultou em óbito do paciente?",
+        "resposta": "A revisão da indenização por danos morais em caso de demora no atendimento por plano de saúde que resultou em óbito do paciente é possível apenas quando o valor fixado for exorbitante ou irrisório, conforme entendimento do STJ.",
+        "trecho_referencia": "A revisão da indenização por danos morais em caso de demora no atendimento por plano de saúde que resultou em óbito do paciente é possível apenas quando o valor fixado for exorbitante ou irrisório, conforme entendimento do STJ. No caso específico, o valor de R$ 150.000,00 não é considerado excessivo nem desproporcional aos danos sofridos.",
+        "número": "1908310",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/1908310",
+        "processo": "AgInt no AgInt no AREsp 1908310 / SP",
+        "relator": "Ricardo Villas Bôas Cueva",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Qual o prazo prescricional para ação de indenização por desapropriação indireta quando o Poder Público realiza obras no local ou atribui natureza de utilidade pública ou de interesse social ao imóvel?",
+        "resposta": "O prazo prescricional para ação de indenização por desapropriação indireta, quando o Poder Público realiza obras no local ou atribui natureza de utilidade pública ou de interesse social ao imóvel, é de 10 anos.",
+        "trecho_referencia": "O prazo prescricional aplicável à desapropriação indireta, na hipótese em que o Poder Público tenha realizado obras no local ou atribuído natureza de utilidade pública ou de interesse social ao imóvel, é de 10 anos.",
+        "número": "1245657",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=79162&tipodocumento=11",
+        "processo": "AgInt no AgInt no AREsp 1245657 / GO",
+        "relator": "Ministro FRANCISCO FALCÃO",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em caso de reincidência, é possível aplicar a minorante prevista no § 4º do art. 33 da Lei 11.343/2006, que trata do tráfico de drogas?",
+        "resposta": "A jurisprudência do STJ considera que a reincidência impede a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, pois a primariedade do acusado é um requisito para a aplicação da minorante.",
+        "trecho_referencia": "A reincidência impede a aplicação da minorante prevista no § 4º do art. 33 da Lei 11.343/2006, porquanto um dos requisitos legais para a sua incidência é a primariedade do acusado",
+        "número": "2026736",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/2021/0390357-7",
+        "processo": "AgRg no AgRg no AREsp 2026736 / SP",
+        "relator": "Ministro ANTONIO SALDANHA PALHEIRO",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "Em uma execução de título executivo oriundo de ação coletiva, o percentual a ser aplicado aos vencimentos dos servidores deve ser definido na fase de liquidação de sentença?",
+        "resposta": "Sim. De acordo com a jurisprudência do STF e do STJ, o percentual a ser aplicado aos vencimentos dos servidores em execução de título executivo oriundo de ação coletiva deve ser apurado em liquidação de sentença.",
+        "trecho_referencia": "VII - Ademais, o acórdão proferido na Corte de origem está em conformidade com a jurisprudência desta Corte no sentido de que eventual defasagem remuneratória ou reestruturação financeira da carreira dos servidores será apurada no âmbito da liquidação de sentença, nos termos da jurisprudência do Supremo Tribunal Federal e desta Corte Superior., o que enseja a incidência do enunciado n. 83 da Súmula desta Corte.",
+        "número": "1694425",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202000953740&dt_publicacao=24/05/2022&tipo_documento=AC&formato=PDF",
+        "processo": "AREsp 1694425 / MA",
+        "relator": "Ministro FRANCISCO FALCÃO",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias o STJ pode rever uma decisão de um tribunal estadual sobre reembolso de despesas médico-hospitalares fora da rede credenciada de plano de saúde?",
+        "resposta": "O STJ não pode reexaminar fatos e provas para alterar decisão de instância inferior sobre reembolso de despesas médico-hospitalares fora da rede credenciada de plano de saúde, conforme as Súmulas nºs 5 e 7 do STJ.",
+        "trecho_referencia": "O Superior Tribunal de Justiça não pode reexaminar fatos e provas para alterar decisão de instância inferior sobre reembolso de despesas médico-hospitalares fora da rede credenciada de plano de saúde, conforme as Súmulas nºs 5 e 7 do STJ.",
+        "número": "1948293",
+        "link": "https://processo.stj.jus.br/processo/show/1948293",
+        "processo": "AgInt no AgInt no AREsp 1948293 / SP",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "30/05/2022"
+    },
+    {
+        "query": "Em que situações o princípio da insignificância é inaplicável ao crime de contrabando de cigarros?",
+        "resposta": "O princípio da insignificância é inaplicável ao crime de contrabando de cigarros, pois a conduta, além de lesar a atividade arrecadatória do Estado, atinge outros bens jurídicos, como a saúde, segurança e moralidade pública.",
+        "trecho_referencia": "É inaplicável o princípio da insignificância ao crime de contrabando de cigarros, pois a conduta não se limita à lesão da atividade arrecadatória do Estado, atingindo outros bens jurídicos, como a saúde, segurança e moralidade pública.",
+        "número": "2053171",
+        "link": "https://processo.stj.jus.br/processo/show/2053171",
+        "processo": "AAGARESP 2053171",
+        "relator": "Ministro RIBEIRO DANTAS",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "Em um Embargo de Divergência, é possível alegar divergência entre um acórdão que aprecia o mérito da demanda e outro que apenas analisa a admissibilidade do recurso?",
+        "resposta": "Não é possível alegar divergência jurisprudencial entre um acórdão que adentra ao mérito da demanda e outro que não ultrapassa o juízo de admissibilidade, pois há óbice processual.",
+        "trecho_referencia": "Não se conhece da divergência jurisprudencial entre julgado que adentra ao mérito da demanda e outro que não ultrapassa o juízo de admissibilidade, ante a verificação de óbice processual.",
+        "número": "1805369",
+        "link": "https://www.stj.jus.br/processo/pesquisa/1805369",
+        "processo": "AgInt nos EREsp 1805369 / PB",
+        "relator": "SÉRGIO KUKINA",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "A citação em ação possessória improcedente interrompe a prescrição aquisitiva?",
+        "resposta": "A citação em ação possessória julgada improcedente não interrompe a prescrição aquisitiva.",
+        "trecho_referencia": "Segundo a jurisprudência desta Corte, a citação efetuada em ação possessória julgada improcedente não é hábil à interrupção da prescrição aquisitiva. Precedentes.",
+        "número": "1863294",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db653",
+        "processo": "AgInt no AgInt no AREsp 1863294 / RS",
+        "relator": "NANCY ANDRIGHI",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "A redução de juros de mora prevista no REFINAN (Lei n. 11.941/09) deve ser aplicada sobre o valor total dos juros de mora, incluindo a multa de mora e de ofício?",
+        "resposta": "O STJ decidiu que a redução de juros de mora do REFINAN (Lei n. 11.941/09) deve ser aplicada sobre o valor total dos juros de mora, independentemente da exclusão da multa de mora e de ofício, pois a lei não prevê redução proporcional dos juros de mora.",
+        "trecho_referencia": "A Primeira Seção deste e. STJ, ao concluir o julgamento dos Embargos de Divergência no Recurso Especial n. 1.404.931/RS, de relatoria do Ministro Herman Benjamin, firmou o entendimento de que, no âmbito de incidência da Lei n. 11.941/09, a redução dos juros de mora deve ser realizada, após a consolidação da dívida, sobre o próprio montante devido originalmente a título de juros, faltando amparo legal para que a exclusão de 100% da multa de mora e de ofício implique exclusão proporcional dos juros de mora, sem que a lei assim o tenha definido de modo expresso.",
+        "número": "1932754",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/79478/1932754",
+        "processo": "AgInt no AgInt no REsp 1932754 / PR",
+        "relator": "MAURO CAMPBELL MARQUES",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em caso de tratamento médico para doença coberta por plano de saúde, a negativa de cobertura pelo plano por não constar no rol de procedimentos da ANS é abusiva?",
+        "resposta": "Sim, a negativa de cobertura pelo plano de saúde para tratamento médico prescrito por profissional habilitado, mesmo que o tratamento não conste no rol de procedimentos da ANS, é considerada abusiva. O STJ considera o rol da ANS meramente exemplificativo e não limitativo.",
+        "trecho_referencia": "A Terceira Turma desta Corte Superior reafirmou a jurisprudência no sentido do caráter meramente exemplificativo do rol de procedimentos da Agência Nacional de Saúde Suplementar (ANS), reputando abusiva a negativa da cobertura, pelo plano de saúde, do tratamento considerado apropriado para resguardar a saúde e a vida do paciente.",
+        "número": "1935909",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/2021/0130522-2",
+        "processo": "AgInt no AgInt no REsp 1935909 / SP",
+        "relator": "RICARDO VILLAS BÔAS CUEVA",
+        "data_julgamento": "16/05/2022"
+    },
+    {
+        "query": "É possível interpor agravo regimental contra decisão proferida por órgão colegiado no Superior Tribunal de Justiça?",
+        "resposta": "Não é possível interpor agravo regimental contra decisão proferida por órgão colegiado no Superior Tribunal de Justiça, conforme o art. 258 do Regimento Interno do STJ. Tal recurso é considerado manifestamente incabível, configurando erro grosseiro.",
+        "trecho_referencia": "A interposição de agravo regimental em face de decisão proferida por órgão Colegiado é manifestamente incabível, configurando erro grosseiro, conforme o art. 258 do Regimento Interno do Superior Tribunal de Justiça - RISTJ.",
+        "número": "1844663",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/5195784/1",
+        "processo": "AgRg no AgRg no AREsp 1844663 / PR",
+        "relator": "JOEL ILAN PACIORNIK",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "É possível penhorar o imóvel adquirido por um promissário-comprador em ação de cobrança de débitos condominiais que foi proposta apenas contra o promitente-vendedor?",
+        "resposta": "Não é possível penhorar o imóvel adquirido pelo promissário-comprador em ação de cobrança de débitos condominiais que foi proposta apenas contra o promitente-vendedor. A jurisprudência do STJ aplica a Súmula 83/STJ, que impede a penhora nesse caso.",
+        "trecho_referencia": "A jurisprudência desta Casa não tem admitido a penhora de imóvel adquirido pelo promissário-comprador quando a ação de cobrança de débitos condominiais foi proposta apenas contra o promitente-vendedor. Incidência da Súmula 83/STJ.",
+        "número": "1822809",
+        "link": "https://processo.stj.jus.br/processo/show/1822809",
+        "processo": "AgInt no AgInt no REsp 1822809 / SP",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em caso de embargos de declaração intempestivos, o prazo para interposição de agravo regimental é interrompido?",
+        "resposta": "O prazo para interposição de agravo regimental não é interrompido pela oposição intempestiva de embargos de declaração.",
+        "trecho_referencia": "No caso em tela, a oposição intempestiva de embargos de declaração não tem o condão de interromper o prazo para a interposição do agravo regimental.",
+        "número": "2073821",
+        "link": "https://processo.stj.jus.br/processo/2073821",
+        "processo": "AgRg nos EDcl no AREsp 2073821 / SP",
+        "relator": "JOEL ILAN PACIORNIK",
+        "data_julgamento": "24/05/2022"
+    },
+    {
+        "query": "Em caso de decisão judicial posteriormente modificada, a dupla conformidade entre sentença e acórdão impede a exigibilidade da devolução de valores recebidos? ",
+        "resposta": "Sim, a dupla conformidade entre sentença e acórdão gera a expectativa legítima de titularidade do direito, advinda de ordem judicial com força definitiva, que caracteriza a boa-fé exigida de quem recebe a verba de natureza alimentar posteriormente cassada.",
+        "trecho_referencia": "A dupla conformidade entre a sentença e o acórdão gera a expectativa legítima de titularidade do direito, advinda de ordem judicial com força definitiva, que caracteriza a boa-fé exigida de quem recebe a verba de natureza alimentar posteriormente cassada.",
+        "número": "1955341",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db677",
+        "processo": "AgInt no AgInt no AREsp 1955341 / MG",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em quais situações o reembolso de despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada do plano de saúde é admitido?",
+        "resposta": "O reembolso de despesas médico-hospitalares efetuadas pelo beneficiário fora da rede credenciada do plano de saúde somente é admitido em situações excepcionais, como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento.",
+        "trecho_referencia": "O reembolso das despesas médico-hospitalares efetuadas pelo beneficiário com tratamento/atendimento de saúde fora da rede credenciada pode ser admitido somente em hipóteses excepcionais, tais como a inexistência ou insuficiência de estabelecimento ou profissional credenciado no local e urgência ou emergência do procedimento.",
+        "número": "1829813",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db6d6",
+        "processo": "AgInt no AgInt no AREsp 1829813 / DF",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em quais situações a aquisição de bens ou serviços não dá direito a crédito de PIS e COFINS?",
+        "resposta": "De acordo com o inciso II do § 3º das Leis n. 10.637/2002 e n. 10.833/2003, a aquisição de bens ou serviços não sujeitos ao pagamento da contribuição ao PIS e COFINS não dá direito a crédito.",
+        "trecho_referencia": "Conforme prevê o inciso II do § 3º das Leis n. 10.637/2002 e n. 10.833/2003, não dá direito a crédito o valor da aquisição de bens ou serviços não sujeitos ao pagamento da contribuição ao PIS e da\nCOFINS",
+        "número": "1574270",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/834834/false",
+        "processo": "AgInt no AgInt no REsp 1574270 / RS",
+        "relator": "GURGEL DE FARIA",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "É possível interpor agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo?",
+        "resposta": "Não, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.",
+        "trecho_referencia": "Segundo a jurisprudência do STJ, é incabível o agravo do art. 1.042 do CPC/2015 contra decisão que nega seguimento a recurso especial com base na aplicação de tese firmada em sede de recurso repetitivo, publicada a partir de 18 de março de 2016, quando entrou em vigor o CPC/2015, sendo apenas possível a interposição do agravo interno constante do art. 1.030, § 2º, do CPC/2015.",
+        "número": "1847878",
+        "link": "https://processo.stj.jus.br/processo/show/1847878",
+        "processo": "AgInt no AgInt no AREsp 1847878",
+        "relator": "Ministro GURGEL DE FARIA",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Qual o prazo prescricional para a pretensão de cessação de descontos e repetição de valores indevidamente pagos a título de contribuição a fundo de previdência privada?",
+        "resposta": "A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos, com base no artigo 205 do Código Civil.",
+        "trecho_referencia": "A pretensão de cessação de descontos combinada com a repetição de valores vertidos indevidamente a título de contribuição a fundo de previdência privada prescreve em 10 (dez) anos - artigo 205 do Código Civil -, seja porque há causa jurídica (relação obrigacional prévia em que se debate a legalidade da cobrança), seja porque a ação de repetição de indébito é específica.",
+        "número": "1710251",
+        "link": "https://processo.stj.jus.br/processo/show/1710251",
+        "processo": "AgInt nos EREsp 1710251 / SP",
+        "relator": "PAULO DE TARSO SANSEVERINO",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em um caso de crime do art. 359-G do CP, com pena de 2 anos de reclusão, excluído o aumento pela continuidade delitiva, quando a denúncia foi recebida em 9/2/2015 e os embargos de declaração que complementaram a sentença condenatória foram julgados em 28/2/2019, a prescrição da pretensão punitiva estatal ocorreu?",
+        "resposta": "Sim, a prescrição da pretensão punitiva estatal ocorreu, pois o prazo prescricional de 4 anos (art. 109, V, do CP) foi ultrapassado entre a data do recebimento da denúncia (9/2/2015) e a data do julgamento dos embargos de declaração (28/2/2019).",
+        "trecho_referencia": "Considerando a pena aplicada, 2 anos de reclusão, excluído o aumento pela continuidade delitiva, tem-se o prazo prescricional de 4 anos (art. 109, V, do CP). Assim, verifica-se que entre a data decisão que recebeu a denúncia (9/2/2015) e a data da decisão que julgou os embargos de declaração, que complementou a sentença condenatória (28/2/2019), transcorreu prazo superior a 4 anos entre os marcos interruptivos, acarretando, por fim, a prescrição da pretensão punitiva estatal.",
+        "número": "2055174",
+        "link": "https://processo.stj.jus.br/processo/show/2055174",
+        "processo": "AgRg no AgRg no AREsp 2055174 / RJ",
+        "relator": "REYNALDO SOARES DA FONSECA",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em quais casos os Embargos de Divergência são inadmissíveis para confrontar julgados que interpretam o art. 1.022 do CPC/2015?",
+        "resposta": "Os Embargos de Divergência são inadmissíveis quando o acórdão paradigma conhece do recurso e adentra o mérito, enquanto o acórdão embargado não ultrapassa o juízo de admissibilidade. ",
+        "trecho_referencia": "Embargos de divergência são inadmissíveis para confrontar julgados que interpretam o art. 1.022 do CPC/2015, sendo necessário que o acórdão paradigma conheça do recurso e adentre o mérito, enquanto o acórdão embargado não ultrapassa o juízo de admissibilidade.",
+        "número": "1881692",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?id=44995255&tipo=inteiroTeor&imprimir=false",
+        "processo": "AgInt nos EREsp 1881692 / RJ",
+        "relator": "Ministra REGINA HELENA COSTA",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em um caso de lesão corporal decorrente de violência doméstica, a interposição de um recurso especial que não foi conhecido impede o trânsito em julgado da decisão condenatória e, consequentemente, a prescrição da pretensão punitiva?",
+        "resposta": "A interposição de um recurso especial que não foi conhecido não impede o trânsito em julgado da decisão condenatória, pois a decisão que inadmite o recurso possui natureza jurídica eminentemente declaratória e retroage à data do escoamento do prazo para a interposição do recurso admissível. Sendo assim, o acórdão condenatório interrompe a prescrição e a pretensão punitiva permanece hígida.",
+        "trecho_referencia": "II - Outrossim, a Terceira Seção pacificou o entendimento de que não é a interposição de recurso dentro do prazo legal que impede o trânsito em julgado da decisão judicial, mas sim a interposição de recurso admissível. Assim, a decisão que inadmite o recurso especial ou extraordinário possui natureza jurídica eminentemente declaratória, com efeitos ex tunc, retroagindo o trânsito em julgado à data de escoamento do prazo para a interposição do recurso admissível (AgRg no AREsp n. 952.507/BA, Quinta Turma, Rel. Min. Ribeiro Dantas, DJe de 03/11/2020).",
+        "número": "2035453",
+        "link": "https://processo.stj.jus.br/processo/show/588268",
+        "processo": "AgRg nos EDcl no AREsp 2035453 / SP",
+        "relator": "JESUÍNO RISSATO",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em um processo monitório baseado em contrato de abertura de crédito em conta corrente, é necessário a apresentação de extratos bancários para subsidiar a demanda?",
+        "resposta": "O Superior Tribunal de Justiça (STJ) entende que não é necessário apresentar extratos bancários para subsidiar a demanda em um processo monitório baseado em contrato de abertura de crédito em conta corrente. O contrato, acompanhado do demonstrativo de débito, já constitui documento hábil para o ajuizamento da ação, conforme a Súmula 274/STJ.",
+        "trecho_referencia": "\u001aO contrato de abertura de crédito em conta corrente, acompanhado do demonstrativo de débito, constitui documento hábil para o ajuizamento da ação monitória.\u001a (Súmula n. 274/STJ).",
+        "número": "2016811",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=2016811&dt_publicacao=23/05/2022&tipo_documento=AI&num_processo=2016811&numero_do_acordo=834836",
+        "processo": "AgInt no AgInt no AREsp 2016811 / MG",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em caso de seguro de vida, o consumo de bebida alcoólica por parte do segurado, levando à embriaguez, isenta a seguradora do pagamento do seguro?",
+        "resposta": "O STJ decidiu que o consumo de bebida alcoólica pelo segurado não isenta a seguradora do pagamento do seguro de vida, mesmo em caso de embriaguez, conforme a Súmula 620/STJ.",
+        "trecho_referencia": "1. A jurisprudência desta Corte Superior, firmada na Súmula 620/STJ, manifesta-se no sentido de que o consumo de bebida alcoólica, o estado de confusão mental e a utilização de substâncias tóxicas não afastam o dever da seguradora de repassar o pagamento do seguro de vida contratado.",
+        "número": "1963884",
+        "link": "https://s3.tjsc.jus.br/jurisprudencia/2021/0258092-4/AAINTARESP_1963884_2021_0258092_4.html",
+        "processo": "AgInt no AgInt no AREsp 1963884 / SC",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em um crime de roubo circunstanciado, é possível utilizar uma majorante sobejante na primeira fase da dosimetria da pena se as demais majorantes já foram consideradas nas outras fases?",
+        "resposta": "Sim, a jurisprudência do STJ reconhece a possibilidade de valorar uma majorante sobejante na primeira fase da dosimetria da pena, desde que justificada pela culpabilidade e pelas circunstâncias judiciais, como crueldade, violência excessiva e prejuízo que extrapola o razoável, mesmo que outras majorantes tenham sido consideradas nas outras fases.",
+        "trecho_referencia": "Na dosimetria da pena para o crime de roubo circunstanciado, é possível valorar uma majorante sobejante na primeira fase, desde que justificada pela culpabilidade e circunstâncias judiciais, como a crueldade e a violência excessiva empregadas, além do prejuízo que extrapola o razoável. O aumento da pena-base não se mostra desproporcional quando devidamente fundamentado pelas circunstâncias do crime.",
+        "número": "1990966",
+        "link": "https://processo.stj.jus.br/processo/showDocument/1990966",
+        "processo": "AgRg no AgRg no AREsp 1990966 / TO",
+        "relator": "OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO)",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "É válida a imposição de limite etário para o provimento de cargo público em ato normativo infralegal?",
+        "resposta": "A imposição de limite etário para o provimento em cargo público por meio de ato normativo infralegal é inválida, devendo ser prevista em lei.",
+        "trecho_referencia": "A estipulação de requisitos para o provimento em cargo público, como a limitação etária, deve ser prevista em lei, não sendo válida a sua imposição por ato normativo infralegal.",
+        "número": "1774766",
+        "link": "https://processo.stj.jus.br/processo/showDocument/2020/0267548-7",
+        "processo": "AREsp 1774766",
+        "relator": "MAURO CAMPBELL MARQUES",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em um crime de tráfico de drogas, qual o critério para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006?",
+        "resposta": "O STJ entende que a dedicação à atividade criminosa, demonstrada pela confissão de prática continuada da mercancia ilícita, é fundamento idôneo para afastar a minorante do art. 33, § 4º, da Lei n. 11.343/2006.",
+        "trecho_referencia": "Há fundamento idôneo para afastar a minorante prevista no art. 33, § 4º, da Lei n. 11.343/2006 quando o acusado demonstra dedicação à atividade criminosa, como evidenciado pela confissão de prática continuada da mercancia ilícita.",
+        "número": "1993182",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?processo=1993182&numero=202103304249&dt_publicacao=17/05/2022&tipo_documento=AGRAVO%20REGIMENTAL%20NO%20AGRAVO%20REGIMENTAL%20NO%20AGRAVO%20EM%20RECURSO%20ESPECIAL&tipo_julgamento=J&dt_julgamento=17/05/2022&relator=OLINDO%20MENEZES",
+        "processo": "AAGARESP 1993182",
+        "relator": "OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO)",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias a Presidência do STJ pode não conhecer de um recurso, e isso viola o princípio do juiz natural?",
+        "resposta": "A Presidência do STJ pode não conhecer de um recurso quando ele for inadmissível, prejudicado ou não impugnar todos os fundamentos da decisão recorrida, nos termos do art. 21-E, V, do RISTJ. Isso não viola o princípio do juiz natural.",
+        "trecho_referencia": "1. A Presidência do Superior Tribunal de Justiça possui competência para não conhecer de recurso inadmissível, prejudicado ou que não tenha impugnado especificamente todos os fundamentos da decisão recorrida, nos termos do art. 21-E, V, do RISTJ, descabendo falar em ofensa ao princípio do juiz natural. Precedentes.",
+        "número": "1990180",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63db863",
+        "processo": "AgInt no AgInt no AREsp 1990180 / PA",
+        "relator": "GURGEL DE FARIA",
+        "data_julgamento": "23/05/2022"
+    },
+    {
+        "query": "Em que casos os embargos de divergência são cabíveis em relação a decisões que não conhecem do recurso, com base no art. 1.043, III, do NCPC?",
+        "resposta": "Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão. De acordo com o art. 1.043, III, do NCPC, mesmo quando um dos acórdãos não conhece do recurso, é preciso que a controvérsia tenha sido apreciada, o que não ocorre quando o acórdão embargado deixa de analisar o mérito por causa de um óbice processual.",
+        "trecho_referencia": "Os embargos de divergência são cabíveis apenas quando os acórdãos, embargado e paradigma, dirimirem o mérito da questão. \n3. Embora o art. 1.043, III, do NCPC, estabeleça o cabimento de embargos de divergência, sendo os acórdãos confrontados um de mérito e outro que não tenha conhecido do recurso, dispõe expressamente que neste último deverá ter sido apreciada a controvérsia.\n4. No caso em exame, o acórdão embargado não adentrou no mérito da questão, em virtude do óbice da Súmula nº 7 do STJ.",
+        "número": "1926110",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=44549800",
+        "processo": "AgInt nos EREsp 1926110 / SP",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias a suspensão de prazos processuais em razão de atos de Tribunais locais deve ser comprovada no momento da interposição do recurso, e quais os documentos que podem ser utilizados para comprovar essa suspensão?",
+        "resposta": "A suspensão de prazos processuais em razão de atos de Tribunais locais deve ser comprovada no momento da interposição do recurso, conforme o art. 1.003, § 6.º, do Código de Processo Civil, aplicável aos feitos criminais por força do art. 3.º do Código de Processo Penal. A mera notoriedade do fato ou a expedição de certidão por servidor da instância ordinária não são suficientes para comprovar a suspensão.",
+        "trecho_referencia": "É necessária a comprovação da suspensão dos prazos processuais decorrentes de ato de Tribunal local no momento da interposição do recurso, conforme disposto no art. 1.003, § 6.º, do Código de Processo Civil, aplicável aos feitos criminais por força do art. 3.º do Código de Processo Penal, não sendo suficiente a notoriedade do fato ou a expedição de certidão por servidor da instância ordinária.",
+        "número": "2030451",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?processo=2030451&numero=202103933531&tipo=AREsp",
+        "processo": "2030451",
+        "relator": "LAURITA VAZ",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em quais situações a inquirição de testemunhas da acusação a destempo não configura nulidade?",
+        "resposta": "A inquirição de testemunhas da acusação a destempo, conforme o art. 209 do CPP, não configura nulidade se houver preclusão e ausência de demonstração de prejuízo, em respeito à busca da verdade real. Além disso, a nulidade pela inversão da ordem de interrogatório, prevista no art. 400 do CPP, também está sujeita à preclusão e à necessidade de demonstração de prejuízo.",
+        "trecho_referencia": "A inquirição de testemunhas da acusação a destempo, conforme o art. 209 do CPP, não configura nulidade se houver preclusão e ausência de demonstração de prejuízo, em respeito à busca da verdade real. Além disso, a nulidade pela inversão da ordem de interrogatório, prevista no art. 400 do CPP, também está sujeita à preclusão e à necessidade de demonstração de prejuízo.",
+        "número": "2006684",
+        "link": "https://processo.stj.jus.br/processo/showDocument/documento/urn:eproc:STJ:2021/0353783-1?q=AGARESP+2006684",
+        "processo": "AgRg no AgRg no AREsp 2006684 / PR",
+        "relator": "Ministro JOEL ILAN PACIORNIK",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "É cabível agravo interno contra decisão colegiada no âmbito do Superior Tribunal de Justiça?",
+        "resposta": "Não é cabível agravo interno contra decisão colegiada no Superior Tribunal de Justiça, conforme o disposto no art. 1.021, caput, do Código de Processo Civil.",
+        "trecho_referencia": "Não cabe agravo interno contra decisão colegiada (art. 1.021, caput, do Código de Processo Civil).",
+        "número": "1916106",
+        "link": "https://processo.stj.jus.br/processo/show/1916106",
+        "processo": "AAINTARESP 1916106",
+        "relator": "Mauro Campbell Marques",
+        "data_julgamento": "16/05/2022"
+    },
+    {
+        "query": "Qual o termo final para a cobrança de juros remuneratórios na restituição do empréstimo compulsório sobre o consumo de energia elétrica?",
+        "resposta": "Os juros remuneratórios, previstos no art. 2º do Decreto-Lei n. 1.512/76, na restituição do empréstimo compulsório, devem ser calculados até a data da Assembleia Geral Extraordinária que autorizou a conversão dos créditos dos consumidores industriais de energia em ações do capital social da Eletrobrás.",
+        "trecho_referencia": "A incidência dos juros remuneratórios, previstos no art. 2º do Decreto-Lei n. 1.512/76, na hipótese de restituição do empréstimo compulsório, não pode ultrapassar a data da Assembleia Geral Extraordinária autorizadora da conversão dos créditos dos consumidores industriais de energia em ações do capital social da Eletrobrás, conforme diretrizes dos REsp's 1.003955 e 1.028.592.",
+        "número": "1601122",
+        "link": "https://processo.stj.jus.br/processo/show/1601122",
+        "processo": "AgInt nos EREsp 1601122",
+        "relator": "BENEDITO GONÇALVES",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em que situações o julgador pode deixar de responder a todas as questões levantadas pelas partes?",
+        "resposta": "O julgador não precisa responder a todas as questões levantadas pelas partes, desde que tenha encontrado motivo suficiente para proferir a decisão, mesmo que outras questões não tenham sido analisadas.",
+        "trecho_referencia": "O julgador não está obrigado a responder a todas as questões suscitadas pelas partes, quando já tenha encontrado motivo suficiente para proferir a decisão. Precedentes.",
+        "número": "1854466",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/834836/1854466",
+        "processo": "AgInt no AgInt no AREsp 1854466 / PR",
+        "relator": "MAURO CAMPBELL MARQUES",
+        "data_julgamento": "16/05/2022"
+    },
+    {
+        "query": "Em que situações a alegação de exacerbo ou irrisoriedade do valor indenizatório em recurso especial é considerada insuficiente para fins de análise pelo STJ?",
+        "resposta": "O STJ entende que a alegação de exacerbo ou irrisoriedade do valor indenizatório deve ser fundamentada de forma concreta e específica, com elementos que demonstrem o descompasso jurídico da reparação fixada na origem. Alegações genéricas, comparações descontextualizadas ou ausência de elementos fáticos e jurídicos para a comparação com outros casos ensejam a aplicação da Súmula 7/STJ, pois configuram mera reexame de prova.",
+        "trecho_referencia": "A alegação de exacerbo ou irrisoriedade do valor indenizatório deve ser tecida de modo a viabilizar a esta Corte vislumbrar, por meio de elementos concretos, o descompasso jurídico da reparação fixada na origem. Meras alegações genéricas acerca do valor abstrato ou comparações descontextualizadas entre casos esparsos não se prestam a dar tal concretude ou propor parâmetros de comparação.",
+        "número": "1167259",
+        "link": "http://www.stj.jus.br/SC/jsp/sc/jurisprudencia/index.jsp?num_registro=834836&dt_publicacao=03%2F05%2F2022&tipo_julgado=AGRAVO%20INTERNO%20NO%20AGRAVO%20INTERNO%20NO%20AGRAVO%20EM%20RECURSO%20ESPECIAL&numero_processo=1167259&origem=AGRAVO%20INTERNO%20NO%20AGRAVO%20INTERNO%20NO%20AGRAVO%20EM%20RECURSO%20ESPECIAL",
+        "processo": "AREsp 1167259 / SP",
+        "relator": "Ministro OG FERNANDES (1139)",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em um processo envolvendo imunidade tributária de uma sociedade de economia mista, o Tribunal a quo deixou de analisar as provas apresentadas pela autora, condicionando a solução definitiva da causa à comprovação dos requisitos do art. 14 do CTN. Qual a decisão do STJ nesse caso?",
+        "resposta": "O STJ, por meio da 2ª Turma, determinou o retorno dos autos à origem para que o Tribunal a quo se manifeste expressamente sobre a tese jurídica da parte recorrente (Município) de ausência de oportunidade de se desincumbir do ônus da prova, em novo julgamento dos Embargos de Declaração.",
+        "trecho_referencia": "Mantida a decisão anterior, que deu provimento ao Recurso Especial e determinou o retorno dos autos à origem, a fim de que, em novo julgamento dos Aclaratórios, o Tribunal a quo se manifeste expressamente acerca da tese jurídica do Município de ausência de oportunidade de se desincumbir do ônus da prova.",
+        "número": "1765647",
+        "link": "https://processo.stj.jus.br/processo/showDocument.do?processo.processoId=202002497752&processo.numero=1765647&processo.tipo=AAINTARESP",
+        "processo": "2020/0249775-2",
+        "relator": "HERMAN BENJAMIN",
+        "data_julgamento": "31/05/2021"
+    },
+    {
+        "query": "Em quais circunstâncias a gratuidade de justiça para pessoa jurídica pode ser indeferida?",
+        "resposta": "O indeferimento da gratuidade de justiça para pessoa jurídica depende de prévia intimação para que a parte requerente junte documentos que comprovem sua hipossuficiência, conforme o art. 99, § 2º, do CPC/2015.",
+        "trecho_referencia": "O indeferimento da gratuidade da justiça depende de prévia intimação para que a parte requerente proceda à juntada de documentos hábeis a comprovar a sua hipossuficiência, conforme determina o art. 99, § 2º, do CPC/2015.",
+        "número": "1921390",
+        "link": "https://processo.stj.jus.br/processo/show/1921390",
+        "processo": "AgInt no AgInt no AREsp 1921390 / SP",
+        "relator": "Ministro MANOEL ERHARDT (DESEMBARGADOR CONVOCADO DO TRF5)",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Em relação à cobrança de dívidas líquidas com termo certo, qual é a data de início da incidência de juros de mora, de acordo com o STJ?",
+        "resposta": "O Superior Tribunal de Justiça (STJ) entende que, na cobrança de dívidas líquidas com termo certo, os juros de mora incidem a partir do vencimento da obrigação.",
+        "trecho_referencia": "Nas hipóteses de cobrança de dívida líquida com termo certo, os juros de mora incidem a partir do vencimento da obrigação.",
+        "número": "2005576",
+        "link": "https://processo.stj.jus.br/processo/show/80532/2005576",
+        "processo": "AgInt no AgInt no AREsp 2005576 / RS",
+        "relator": "ANTONIO CARLOS FERREIRA",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Em caso de pensão por morte, a má-fé de quem instituiu o benefício, mas não é o beneficiário, impede a decadência do prazo para anulação do ato?",
+        "resposta": "A má-fé do instituidor do benefício não impede a decadência do prazo para anulação do ato de concessão de pensão por morte, pois a decadência visa proteger a confiança do beneficiário do ato, não a de terceiros.",
+        "trecho_referencia": "1. Apenas a má-fé do beneficiário do ato tem o condão de afastar a incidência do prazo decadencial, não a má-fé de terceiros. Isso porque o prazo decadencial de cinco anos previsto no art. 54 da Lei 9.784/1999 visa resguardar a legítima confiança dos beneficiários dos atos administrativos, em razão da estabilização das relações jurídicas entre os sujeitos de direito.",
+        "número": "1890557",
+        "link": "https://processo.stf.jus.br/processo/ expediente/recurso-especial/2021/0134641-0",
+        "processo": "AREsp 1890557",
+        "relator": "Ministro OG FERNANDES",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em que situações os embargos de divergência são cabíveis em um recurso especial, considerando a jurisprudência do STJ?",
+        "resposta": "Embargos de divergência são cabíveis em recursos especiais quando o acórdão embargado e o acórdão paradigma tratam do mérito da questão (art. 1.043, inc. I do CPC), ou quando um deles trata do mérito e o outro não conhece do recurso, mas aprecia a controvérsia (art. 1.043, inc. III do CPC). O STJ também considera que a divergência para a aplicação do direito material ou processual, conforme o § 2º do art. 1.043 do CPC, não autoriza embargos de divergência contra decisões que não conhecem do recurso especial por ausência de requisitos de admissibilidade.",
+        "trecho_referencia": "Cabem embargos de divergência para atacar acórdão de órgão fracionário que divergir do julgamento de qualquer outro órgão do mesmo tribunal, em duas hipóteses: 1) sendo os acórdãos, embargado e paradigma, de mérito (art. 1.043, inc. I); ou 2) sendo um acórdão de mérito e outro que não tenha conhecido do recurso, embora tenha apreciado a controvérsia (art. 1.043, inc. III). Nenhuma destas é a hipótese dos autos. Precedentes do STJ.",
+        "número": "1874758",
+        "link": "https://processo.stj.jus.br/processo/show/1874758?origem=pesq",
+        "processo": "AgInt nos EREsp 1874758 / RS",
+        "relator": "Ministro OG FERNANDES",
+        "data_julgamento": "20/04/2022"
+    },
+    {
+        "query": "Em que circunstâncias a quantidade de droga apreendida pode ser usada para afastar o redutor do tráfico?",
+        "resposta": "A quantidade de droga apreendida, isoladamente considerada, não é suficiente para afastar o redutor do tráfico. É necessário haver outras circunstâncias fáticas que evidenciem a dedicação do agente à atividade criminosa ou sua integração a organização criminosa.",
+        "trecho_referencia": "Entende esta Corte que a quantidade de droga apreendida, isoladamente considerada, não é suficiente ao afastamento da benesse, sendo necessária a indicação de outras circunstâncias fáticas e idôneas a evidenciar que o agente se dedica a atividades criminosas e/ou integra organização criminosa.",
+        "número": "2003807",
+        "link": "https://sjt.jusbrasil.com.br/jurisprudencia/779681562/agravoregimental-no-agravo-regimental-no-agravo-em-recurso-especial-agrg-no-agrg-no-aresp-2003807-mg-stj-t6-s6-turma",
+        "processo": "AREsp 2003807",
+        "relator": "OLINDO MENEZES",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em quais situações a busca e apreensão em domicílio sem mandado judicial é válida?",
+        "resposta": "A busca e apreensão em domicílio sem mandado judicial é válida quando há justa causa fundamentada em razões que indiquem a situação de flagrante delito.",
+        "trecho_referencia": "A busca e apreensão sem mandado judicial em domicílio alheio é válida quando há justa causa fundamentada em razões que indiquem a situação de flagrante delito, e a prisão em flagrante delito pode ser realizada por guardas municipais, mesmo que não desempenhem função de policiamento ostensivo.",
+        "número": "2084715",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeor?processo=2084715&tipo=AGRESP&num_registro=202200681161",
+        "processo": "AREsp 2084715",
+        "relator": "REYNALDO SOARES DA FONSECA",
+        "data_julgamento": "17/05/2022"
+    },
+    {
+        "query": "Em um recurso especial interposto sob a égide do NCPC, é possível a correção de erro material em decisão judicial?",
+        "resposta": "Sim, a correção de erro material não se sujeita aos institutos da preclusão e da coisa julgada, pois é matéria de ordem pública cognoscível de ofício pelo julgador.",
+        "trecho_referencia": "A jurisprudência desta Corte possui o entendimento de que a correção de erro material não se sujeita aos institutos da preclusão e da coisa julgada por constituir matéria de ordem pública cognoscível de ofício pelo julgador (AgRg no AREsp 176.573/PR, Rel. Ministra MARIA ISABEL GALLOTTI, Quarta Turma, julgado em 17/5/2021, DJe 20/5/2021). É o caso.",
+        "número": "1970815",
+        "link": "https://processo.stj.jus.br/processo/show/2021/0255550-6",
+        "processo": "AgInt no AgInt no AREsp 1970815 / RJ",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "16/05/2022"
+    },
+    {
+        "query": "É necessário o recolhimento de custas para o processamento de embargos de divergência em matéria criminal?",
+        "resposta": "O processamento de embargos de divergência em matéria criminal não depende de preparo, ou seja, não é necessário o recolhimento de custas.",
+        "trecho_referencia": "O processamento de embargos de divergência em matéria criminal não depende de preparo. Precedentes.",
+        "número": "1830699",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/1830699",
+        "processo": "AgRg nos EAREsp 1830699 / PA",
+        "relator": "Ministra MARIA ISABEL GALLOTTI",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias é possível utilizar os embargos de divergência no STJ para confrontar julgados que interpretam o art. 1.022 do CPC/2015 e o art. 619 do CPP?",
+        "resposta": "A Corte Especial do STJ entende que não é possível utilizar embargos de divergência para confrontar julgados que interpretam o art. 1.022 do CPC/2015 e o art. 619 do CPP, pois não há similitude fática e jurídica entre as teses confrontadas. A finalidade dos embargos de divergência é dirimir divergências jurisprudenciais sobre teses de mérito, o que exige identidade ou similitude fática e jurídica entre os julgados confrontados.",
+        "trecho_referencia": "A Corte Especial deste Tribunal Superior no sentido da inadequação de confrontar em embargos de divergência julgados que interpretem o art. 1.022 do CPC/2015 (art. 535 do CPC/1973) e o art. 619 do Código de Processo Penal, pois inexistente a necessária similitude fática e jurídica das teses confrontadas.",
+        "número": "1685360",
+        "link": "https://processo.stj.jus.br/processo/showDocumento/101000000000000/1685360",
+        "processo": "AREsp 1685360",
+        "relator": "MAURO CAMPBELL MARQUES",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em crimes contra a ordem tributária, a propositura de ação cível discutindo a exigibilidade do crédito tributário impede o prosseguimento da ação penal?",
+        "resposta": "A propositura de ação cível discutindo a exigibilidade do crédito tributário não impede o prosseguimento da ação penal em crimes materiais contra a ordem tributária. A jurisprudência do STJ entende que a ação penal pode seguir seu curso mesmo que a ação cível esteja em andamento.",
+        "trecho_referencia": "Nos termos da jurisprudência desta Corte, havendo lançamento definitivo, a propositura de ação cível discutindo a exigibilidade do crédito tributário não obsta o prosseguimento da ação penal que apura a ocorrência de crime contra a ordem tributária, tendo em vista a independência das esferas cível e penal. (AgRg no REsp 1390734/PR, Rel. Ministro FELIX FISCHER, Quinta Turma, DJe 21/3/2018).",
+        "número": "2015662",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63dbb08",
+        "processo": "AgRg no AgRg no AREsp 2015662 / RO",
+        "relator": "REYNALDO SOARES DA FONSECA",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em que situações a negativa de cobertura de tratamento médico por parte de plano de saúde pode ensejar danos morais?",
+        "resposta": "A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente.",
+        "trecho_referencia": "A negativa administrativa ilegítima de cobertura para tratamento médico por parte da operadora de saúde só enseja danos morais na hipótese de agravamento da condição de dor, abalo psicológico e demais prejuízos à saúde já fragilizada do paciente.",
+        "número": "2009936",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=834859",
+        "processo": "AgInt no AgInt no AREsp 2009936 / SC",
+        "relator": "NANCY ANDRIGHI",
+        "data_julgamento": "16/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias a extinção da punibilidade pode ser declarada de ofício em razão da prescrição, de acordo com o AgRg nos EDcl no AREsp 2012531 / PA?",
+        "resposta": "A extinção da punibilidade pode ser declarada de ofício em razão da prescrição da pretensão punitiva, conforme art. 61 do CPP, quando a decisão agravada não for especificamente impugnada no agravo regimental, como ocorreu no AgRg nos EDcl no AREsp 2012531 / PA.",
+        "trecho_referencia": "A impugnação específica dos fundamentos da decisão agravada é requisito para o conhecimento do agravo regimental. A extinção da punibilidade deve ser declarada de ofício em razão da prescrição da pretensão punitiva, conforme art. 61 do CPP.",
+        "número": "2012531",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63dbb20",
+        "processo": "AgRg nos EDcl no AREsp 2012531 / PA",
+        "relator": "Ministro JOEL ILAN PACIORNIK",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em que casos a reincidência específica pode ser utilizada para aumentar a pena em relação à atenuante da confissão espontânea?",
+        "resposta": "O STJ entende que a reincidência específica não pode ser utilizada para aumentar a pena quando incidir de forma isolada na segunda fase da dosimetria, especialmente quando confrontada com a atenuante da confissão espontânea, pois não possui maior desvalor.",
+        "trecho_referencia": "Alinhado à jurisprudência que se firmou no âmbito da Terceira Seção, extrai-se que a reincidência específica, justamente por não possuir maior desvalor no confronto com a atenuante da confissão espontânea, também não pode ensejar maior incremento da pena quando incidir, de forma isolada, na segunda fase da dosimetria.",
+        "número": "1955008",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=81091&tipo=2&imprimir=true&sigla=AREsp&numero=1955008&dt_publicacao=03/05/2022",
+        "processo": "AREsp 1955008",
+        "relator": "Ministro RIBEIRO DANTAS",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em quais situações a cláusula de eleição de foro em contratos de adesão pode ser anulada?",
+        "resposta": "A jurisprudência do STJ admite a anulação da cláusula de eleição de foro em contratos de adesão quando a parte demonstra vulnerabilidade e a cláusula dificulta o acesso à justiça.",
+        "trecho_referencia": "A jurisprudência desta Corte é pela possibilidade de anulação da cláusula de eleição de foro nos contratos de adesão quando verificada a vulnerabilidade da parte e a dificultação do acesso à Justiça.",
+        "número": "2009489",
+        "link": "https://processo.stj.jus.br/processo/showDocument/documento/OTMwNDY0",
+        "processo": "AgInt no AgInt no AREsp 2009489 / SC",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "É possível a interposição de agravo interno contra decisão colegiada em ação rescisória, interrompendo o prazo para interposição de outros recursos?",
+        "resposta": "O agravo interno não é cabível contra decisão proferida por órgão colegiado, como a decisão em ação rescisória. A interposição de recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição de outro recurso.",
+        "trecho_referencia": "A jurisprudência desta Corte é uníssona em afirmar que a interposição de recurso manifestamente incabível não suspende nem interrompe o prazo para a interposição de outro recurso.\nSegundo entendimento do Superior Tribunal de Justiça, \"nos termos do art. 1.021, caput, do CPC/2015, o agravo interno somente é cabível contra decisão monocrática, não sendo, portanto, possível sua interposição contra decisão proferida por órgão colegiado, como ocorrido na espécie\" (AgInt no AREsp 1.756.479/SP, Rel. Ministro Ricardo Villas Bôas Cueva, Terceira Turma, julgado em 22/06/2021, DJe 30/06/2021).",
+        "número": "1849099",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/1849099",
+        "processo": "AgInt no AgInt no AREsp 1849099 / RJ",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Em um acidente de ônibus, a autora sofreu lesões que resultaram em invalidez parcial permanente. O Tribunal de origem fixou uma indenização e um pensionamento. A recorrente questiona o valor da indenização e do pensionamento. A revisão desses valores é possível?",
+        "resposta": "A revisão do valor indenizatório e do pensionamento mensal fixados pelo Tribunal de origem demandaria o reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7 do STJ.",
+        "trecho_referencia": "A revisão do valor indenizatório e do pensionamento mensal fixados pelo Tribunal de origem demandaria o reexame de matéria fático-probatória, o que é vedado pela Súmula n. 7 do STJ.",
+        "número": "1948561",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202102328203&dt_publicacao=09/05/2022&tipo_documento=ACÓRDÃO&num_acao=1948561&classe_processo=AGRAVO%20INTERNO%20NO%20AGRAVO%20INTERNO%20NO%20AGRAVO%20EM%20RECURSO%20ESPECIAL",
+        "processo": "AgInt no AgInt no AREsp 1948561 / RJ",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Em caso de estupro de vulnerável, a causa de aumento de pena prevista no art. 226, II, do Código Penal é aplicável quando o agente exerce autoridade momentânea sobre a vítima, mesmo por um curto período, e as consequências psicológicas graves sofridas pela vítima excedem os efeitos típicos do crime?",
+        "resposta": "O STJ entende que a causa de aumento de pena prevista no art. 226, II, do Código Penal é aplicável em caso de estupro de vulnerável, mesmo que o agente exerça autoridade momentânea sobre a vítima por um curto período. Além disso, as consequências psicológicas graves sofridas pela vítima, que excedem os efeitos típicos do crime, justificam a manutenção da condenação.",
+        "trecho_referencia": "2. \"É adequada a incidência da causa de aumento do art. 226, II, do Código Penal na hipótese em que o agente exerce autoridade, ainda que momentânea e por breve período, sobre a vítima\" (AgRg no AREsp 852.911/RS, Rel. Ministro SEBASTIÃO REIS JÚNIOR, SEXTA TURMA, julgado em 14/06/2016, DJe 27/06/2016). \n3. As consequências do crime sofridas pela vítima - intenso abalo psicológico sofrido pela ofendida, que naquele ano veio a ser reprovada na escola e, mesmo após anos do ocorrido, chora quando o assunto vem à tona -, não podem ser consideradas inerentes ao tipo penal do estupro de vulnerável, pois denotam resultado gravíssimo, que transborda, em muito, do contido no tipo penal mencionado.",
+        "número": "1925340",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=51962093",
+        "processo": "AREsp 1925340",
+        "relator": "OLINDO MENEZES",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias a oposição de Embargos de Declaração é suficiente para o prequestionamento de uma questão em recurso especial?",
+        "resposta": "A mera oposição de Embargos de Declaração não configura prequestionamento, mesmo que o Tribunal de origem não se manifeste sobre as teses debatidas. É preciso que o Tribunal de origem analise a questão específica suscitada no recurso especial, sob pena de não haver prequestionamento e, consequentemente, a análise do recurso ser inviabilizada.",
+        "trecho_referencia": "Essa Corte aceita o prequestionamento explícito e implícito, contudo, não admite o chamado 'prequestionamento ficto', que se daria com a mera oposição de embargos de declaração, sem que o Tribunal de origem tenha efetivamente emitido juízo de valor sobre as teses debatidas.",
+        "número": "1946261",
+        "link": "https://processo.stj.jus.br/processo/show/2021/0242165-5",
+        "processo": "AgRg no AgRg no AREsp 1946261 / ES",
+        "relator": "OLINDO MENEZES (DESEMBARGADOR CONVOCADO DO TRF 1ª REGIÃO)",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em uma ação de partilha de bens, quando é possível a revaloração da prova em recurso especial?",
+        "resposta": "A revaloração da prova em recurso especial é possível se baseada em fatos incontroversos, ou seja, aqueles reconhecidos e admitidos pelas instâncias ordinárias.",
+        "trecho_referencia": "No tocante à valoração das provas dos autos, a fim de que seja realizada a partilha de bens do casal, cumpre ressaltar que a revaloração da prova consiste em atribuir o devido valor jurídico a fato incontroverso, sobejamente reconhecido nas instâncias ordinárias, prática francamente aceita em sede de recurso especial, como bem observou o E. Ministro Felix Fischer: \"A revaloração da prova ou de dados explicitamente admitidos e delineados no decisório recorrido não implica no vedado reexame do material de conhecimento\" (REsp 683702/RS, QUINTA TURMA, julgado em 01.03.2005).",
+        "número": "998655",
+        "link": "https://processo.stj.jus.br/processo/show/processo/67b3ddf2aef3db31b63dbc15",
+        "processo": "AgInt no AgInt no AREsp 998655 / BA",
+        "relator": "MARCO BUZZI",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Quais são os requisitos para a comprovação de dissenso jurisprudencial em Embargos de Divergência?",
+        "resposta": "Para comprovar o dissenso jurisprudencial em Embargos de Divergência, a parte recorrente deve, na petição, adotar uma das seguintes providências em relação aos paradigmas indicados: (i) juntar certidões; (ii) apresentar cópias do inteiro teor dos acórdãos apontados; (iii) citar o repositório oficial, autorizado ou credenciado onde os acórdãos estão publicados, incluindo mídia eletrônica; ou (iv) reproduzir o julgado disponível na internet, com a indicação da fonte.",
+        "trecho_referencia": "É requisito indispensável para a comprovação ou configuração do alegado dissenso jurisprudencial a adoção pela parte recorrente, na petição dos embargos de divergência, de uma das seguintes providências, quanto aos paradigmas indicados: (i) a juntada de certidões; (ii) a apresentação de cópias do inteiro teor dos acórdãos apontados; (iii) a citação do repositório oficial, autorizado ou credenciado nos quais eles se achem publicados, inclusive em mídia eletrônica; e (iv) a reprodução de julgado disponível na rede mundial de computadores, com a indicação da respectiva fonte na Internet.",
+        "número": "1903273",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/81346/2020/0284879-7/REsp/1903273/PR",
+        "processo": "AgInt nos EREsp 1903273 / PR",
+        "relator": "Ministro LUIS FELIPE SALOMÃO",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em crimes de natureza sexual, qual o valor probatório da palavra da vítima?",
+        "resposta": "A palavra da vítima possui relevante valor probatório em crimes de natureza sexual, tendo em vista que tais crimes, geralmente, não deixam vestígios e são praticados sem a presença de testemunhas.",
+        "trecho_referencia": "Consoante a jurisprudência desta Corte, em crimes de natureza sexual, a palavra da vítima possui relevante valor probatório, uma vez que nem sempre deixam vestígios e geralmente são praticados sem a presença de testemunhas. Precedentes.",
+        "número": "2012206",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/processo/67b3ddf2aef3db31b63dbcbc",
+        "processo": "AgRg no AgRg no AREsp 2012206 / SP",
+        "relator": "Ministro JOEL ILAN PACIORNIK",
+        "data_julgamento": "26/04/2022"
+    },
+    {
+        "query": "Em quais situações é possível utilizar um acórdão da mesma Turma como paradigma em embargos de divergência?",
+        "resposta": "A jurisprudência do STJ considera inadmissível a utilização de acórdão proferido pela mesma Turma como paradigma em Embargos de Divergência, salvo se houver alteração de mais da metade dos membros do órgão colegiado entre o julgamento do acórdão paradigma e o julgamento do acórdão recorrido.",
+        "trecho_referencia": "É inviável a indicação, em sede de embargos de divergência, de acórdão da mesma Turma julgadora como paradigma, se, entre a data do julgamento do acórdão paradigma e a data do julgamento do acórdão recorrido, não houve alteração de mais da metade dos membros do órgão colegiado.",
+        "número": "1990692",
+        "link": "https://processo.stj.jus.br/processo/show/1990692",
+        "processo": "AgRg nos EAREsp 1990692 / SC",
+        "relator": "Ministro SEBASTIÃO REIS JÚNIOR",
+        "data_julgamento": "27/04/2022"
+    },
+    {
+        "query": "Em um crime de tortura, a condenação lastreada em provas colhidas no inquérito policial e em juízo viola o art. 155 do CPP? A exasperação da pena-base é válida quando baseada em circunstâncias concretas do fato criminoso, sem desproporcionalidade? A aplicação da agravante do art. 1º, § 4º, III, da Lei n. 9.455/1997 está demonstrada pelas provas dos autos?",
+        "resposta": "A condenação por crime de tortura, lastreada em provas colhidas no inquérito policial e em juízo, não viola o art. 155 do CPP. A dosimetria da pena, com exasperação da pena-base, é válida quando baseada em circunstâncias concretas do fato criminoso, sem desproporcionalidade, e a aplicação da agravante do art. 1º, § 4º, III, da Lei n. 9.455/1997 está demonstrada pelas provas dos autos.",
+        "trecho_referencia": "A condenação por crime de tortura, lastreada em provas colhidas no inquérito policial e em juízo, não viola o art. 155 do CPP. A dosimetria da pena, com exasperação da pena-base, é válida quando baseada em circunstâncias concretas do fato criminoso, sem desproporcionalidade, e a aplicação da agravante do art. 1º, § 4º, III, da Lei n. 9.455/1997 está demonstrada pelas provas dos autos.",
+        "número": "2011487",
+        "link": "https://processo.stj.jus.br/processo/pesquisa/aresp/2011487",
+        "processo": "AgRg no AgRg no AREsp 2011487 / MG",
+        "relator": "Ministro JOEL ILAN PACIORNIK",
+        "data_julgamento": "26/04/2022"
+    },
+    {
+        "query": "Em crimes de peculato-desvio, quando a pena aplicada é superior a quatro anos, a prescrição da pretensão punitiva estatal ocorre em 12 anos.  Considerando que os fatos ocorreram em 1996 e 1997, a denúncia foi recebida em 8 de abril de 2005, a sentença condenatória em 2 de julho de 2012 e o acórdão recorrido em 19 de maio de 2019, a prescrição da pretensão punitiva estatal ocorreu nesse caso?",
+        "resposta": "A prescrição da pretensão punitiva estatal não ocorreu no caso concreto. Os réus foram condenados a penas superiores a quatro anos, o que implica um prazo prescricional de doze anos. Esse prazo não foi ultrapassado entre a data dos fatos e o recebimento da denúncia, nem entre a data do recebimento da denúncia e a sentença condenatória, nem entre a publicação da sentença condenatória e a publicação do acórdão recorrido.",
+        "trecho_referencia": "A prescrição da pretensão punitiva estatal deve ser analisada de ofício, e não ocorreu no caso concreto, pois os réus foram condenados a penas superiores a quatro anos, o que implica um prazo prescricional de doze anos, que não foi ultrapassado entre a data dos fatos e o recebimento da denúncia, nem entre a data do recebimento da denúncia e a sentença condenatória, nem entre a publicação da sentença condenatória e a publicação do acórdão recorrido.",
+        "número": "1936018",
+        "link": "https://processo.stj.jus.br/processo/showDocument/1045320/AREsp+1936018",
+        "processo": "AgRg nos EDcl no AREsp 1936018 / SP",
+        "relator": "JOEL ILAN PACIORNIK",
+        "data_julgamento": "26/04/2022"
+    },
+    {
+        "query": "Em quais situações é possível inadmitir embargos de divergência, de acordo com a jurisprudência do STJ?",
+        "resposta": "A jurisprudência do STJ permite a inadmissão de embargos de divergência quando a jurisprudência desta Corte Superior estiver no mesmo sentido do acórdão atacado, com base na Súmula nº 168/STJ.",
+        "trecho_referencia": "É possível, com base na Súmula nº 168/STJ, inadmitir embargos de divergência quando a jurisprudência desta Corte Superior estiver no mesmo sentido do acórdão atacado.",
+        "número": "1418771",
+        "link": "https://processo.stj.jus.br/processo/show/1418771",
+        "processo": "AgInt nos EREsp 1418771 / DF",
+        "relator": "RICARDO VILLAS BÔAS CUEVA",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Quais são os requisitos para a admissão de embargos de divergência, de acordo com o STJ?",
+        "resposta": "Para a admissão dos embargos de divergência, os acórdãos embargados e paradigmas devem possuir similitude fática e conclusões jurídicas discrepantes.",
+        "trecho_referencia": "Para a admissão dos embargos de divergência, os acórdãos embargados e paradigmas devem possuir similitude fática e conclusões jurídicas discrepantes.",
+        "número": "1639267",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/1639267",
+        "processo": "AgInt nos EREsp 1639267 / RS",
+        "relator": "Ministra REGINA HELENA COSTA",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em relação à repetição de indébito por cobrança indevida de valores contratuais, qual é o prazo prescricional aplicável e por quê?",
+        "resposta": "A repetição de indébito por cobrança indevida de valores contratuais, em razão da existência de causa jurídica contratual adjacente, está sujeita ao prazo prescricional decenal, não ao trienal.",
+        "trecho_referencia": "A discussão envolvendo repetição de indébito, por cobrança indevida de valores contratuais, não se enquadra no conceito de enriquecimento ilícito, em razão da existência de causa jurídica contratual adjacente, de modo que se aplica a prescrição decenal e não a trienal.",
+        "número": "1942834",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeorDoAcordao?num_registro=202101759215&dt_publicacao=03/05/2022&cd_processo=1942834&tipo_documento=AI&origem=STJ",
+        "processo": "AgInt nos EREsp 1942834 / MG",
+        "relator": "Ministra MARIA ISABEL GALLOTTI",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em um recurso especial manejado sob a égide do NCPC, é possível o uso de assinatura digitalizada ou escaneada no instrumento procuratório para a interposição de recurso de apelação?",
+        "resposta": "O STJ entende que a assinatura digitalizada ou escaneada no instrumento procuratório é inadmissível, levando ao não conhecimento do recurso por ausência de poderes de representação nos autos.",
+        "trecho_referencia": "A jurisprudência do STJ é firme no sentido de ser inadmissível assinatura digitalizada ou escaneada no instrumento procuratório, por se tratar de mera inserção de imagem em documento, ensejando o não conhecimento do recurso assinado pelo advogado pela ausência de poderes de representação nos autos, como ocorre no presente caso (AgInt no AREsp nº 1.372.728/PE, Rel Ministro LUÍS FELIPE SALOMÃO, Quarta Turma, j. 21/10/2019, DJe 28/10/2019).",
+        "número": "1602592",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=1000348678&tipo=ext&local=ext",
+        "processo": "AgInt no AgInt no REsp 1602592 / PB",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "02/05/2022"
+    },
+    {
+        "query": "Em um processo de cumprimento de sentença, a penhora realizada antes da recuperação judicial deve ser realizada pelo juízo da recuperação judicial ou pelo juízo da execução?",
+        "resposta": "O STJ decidiu que a penhora realizada antes da recuperação judicial deve ser realizada pelo juízo da recuperação judicial, pois o juízo da execução já não tem competência para o caso. A decisão se baseia na aplicação do NCPC, que exige o cumprimento dos requisitos de admissibilidade recursal na forma do novo CPC para os recursos interpostos com fundamento no CPC/2015, e no óbice da Súmula nº 7 do STJ, que impede o reexame de provas em recurso.",
+        "trecho_referencia": "O juízo da recuperação judicial é competente para a penhora realizada antes da recuperação judicial, pois o juízo da execução já não tem competência para o caso.",
+        "número": "1957117",
+        "link": "https://processo.stj.jus.br/processo/show/67b3ddf2aef3db31b63dbd7d",
+        "processo": "AREsp 1957117",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "02/05/2022"
+    },
+    {
+        "query": "A contribuição previdenciária incide sobre férias gozadas e décimo terceiro salário proporcional ao aviso prévio indenizado?",
+        "resposta": "O STJ decidiu que a contribuição previdenciária incide sobre férias gozadas e décimo terceiro salário proporcional ao aviso prévio indenizado.  Entretanto, o salário maternidade está isento de tal contribuição.",
+        "trecho_referencia": "V - Juízo de retratação exercido para dar provimento parcial ao agravo interno para conhecer do Agravo em Recurso Especial e dar provimento parcial ao recurso especial interposto pela FAZENDA NACIONAL para reconhecer a incidência da contribuição previdenciária sobre as férias gozadas e sobre o décimo terceiro salário proporcional ao aviso prévio indenizado, excluindo-se a incidência do tributo, no entanto, sobre o salário maternidade.",
+        "número": "684226",
+        "link": "https://processo.stj.jus.br/processo/show/AgRg+nos+EDcl+no+AREsp+684226+RN?origem=pesquisa&pesquisa=684226",
+        "processo": "AgRg nos EDcl no AREsp 684226 / RN",
+        "relator": "Ministro FRANCISCO FALCÃO",
+        "data_julgamento": "10/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias o recurso especial é considerado intempestivo?",
+        "resposta": "O recurso especial é considerado intempestivo quando interposto fora do prazo de 15 dias corridos, conforme o art. 994, VI, c/c os arts. 1.003, § 5º e 1.029, todos do Código de Processo Civil, e também art. 798 do Código de Processo Penal.",
+        "trecho_referencia": "É intempestivo o recurso especial interposto fora do prazo de 15 dias corridos, nos termos do art. 994, VI, c/c os arts. 1.003, § 5º e 1.029, todos do Código de Processo Civil, e também art. 798 do Código de Processo Penal (AgRg no AREsp 1215894/SP, Rel. Ministro NEFI CORDEIRO, SEXTA TURMA, DJe 29/6/2018).",
+        "número": "1868527",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/7000000/AREsp/2021/0001868527/index.html",
+        "processo": "AgRg nos EDcl no AREsp 1868527 / SP",
+        "relator": "JOEL ILAN PACIORNIK",
+        "data_julgamento": "26/04/2022"
+    },
+    {
+        "query": "Em que situações é possível o uso de embargos de divergência em recurso especial?",
+        "resposta": "Os embargos de divergência são cabíveis em casos idênticos ou assemelhados. Não podem ser utilizados para examinar regras técnicas relacionadas ao conhecimento do recurso especial.",
+        "trecho_referencia": "Os embargos de divergência constituem a última etapa da uniformização jurisprudencial e pressupõem casos idênticos ou assemelhados (EREsp 1.177.349/ES, Corte Especial, Rel. Min. Ari Pargendler, DJe de 29.5.2013).\n2. No caso concreto não há similitude entre o acórdão recorrido e os arestos indicados como paradigmas, sobretudo porque o acórdão embargado não analisou o mérito do recurso em razão da aplicação das Súmulas nºs 7 do STJ e 280 e 283 do STF. Na prática, a análise dos presentes embargos de divergência implicaria exame de regras técnicas alusivas ao conhecimento do recurso especial, hipótese de cabimento não abarcada pelo nem pelo art. 266 do RISTJ nem pela jurisprudência desta Corte.",
+        "número": "1716606",
+        "link": "https://processo.stj.jus.br/processo/show/1716606?classe=AgIntEREsp",
+        "processo": "AgInt nos EREsp 1716606 / SP",
+        "relator": "MAURO CAMPBELL MARQUES",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias os embargos de divergência podem ser admitidos?",
+        "resposta": "Os embargos de divergência somente serão admitidos se houver demonstração de similitude fático-jurídica entre os julgados confrontados.",
+        "trecho_referencia": "A admissão dos embargos de divergência exige a demonstração de similitude fático-jurídica entre os julgados confrontados, sendo impossível o conhecimento dos embargos na ausência dessa similitude.",
+        "número": "1935385",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/1935385",
+        "processo": "AgInt nos EREsp 1935385 / DF",
+        "relator": "LUIS FELIPE SALOMÃO",
+        "data_julgamento": "27/04/2022"
+    },
+    {
+        "query": "É possível uma cooperativa de trabalho médico negar o ingresso de um novo associado alegando falta de vagas, mesmo que ele preencha os requisitos estatutários?",
+        "resposta": "Sim, uma cooperativa de trabalho médico pode negar o ingresso de um novo associado, mesmo que ele preencha os requisitos estatutários, se houver critérios objetivos e impessoais que limitem o número de associados, como a capacidade de absorção e a viabilidade financeira da cooperativa. A cooperativa deve justificar a recusa com base em estudos técnicos que demonstrem a impossibilidade de prestar serviços adequados com o aumento do número de associados.",
+        "trecho_referencia": "A negativa de ingresso de profissional na cooperativa de trabalho médico não pode se dar somente em virtude de presunções acerca da suficiência numérica de associados na região exercendo a mesma especialidade, havendo necessidade de estudos técnicos de viabilidade. Por outro lado, atingida a capacidade máxima de prestação de serviços pela cooperativa, aferível por critérios objetivos e verossímeis, impedindo-a de cumprir sua finalidade, é admissível a recusa de novos associados.",
+        "número": "1915392",
+        "link": "https://processo.stj.jus.br/processo/show/1915392?origem=pesquisa&pesquisa=AgInt+no+AgInt+no+REsp+1915392&tipoPesquisa=processo",
+        "processo": "REsp 1915392",
+        "relator": "Ricardo Villas Bôas Cueva",
+        "data_julgamento": "25/04/2022"
+    },
+    {
+        "query": "Em caso de loteamento irregular, o Estado pode ser responsabilizado solidariamente com o Município pela regularização e reparação dos danos ambientais, mesmo que a Lei 6.766/1979 não contenha comando normativo específico para isentar o Estado da responsabilidade?",
+        "resposta": "Sim, o STJ entende que o Estado pode ser responsabilizado solidariamente com o Município pela regularização de loteamentos irregulares e reparação dos danos ambientais, mesmo que a Lei 6.766/1979 não contenha comando normativo específico para isentar o Estado da responsabilidade. Essa decisão se baseia na jurisprudência do STJ, que considera a responsabilidade do Estado compatível com dispositivos constitucionais e com precedentes anteriores.",
+        "trecho_referencia": "A responsabilidade solidária do Estado e do Município pela regularização de parcelamento de solo clandestino e reparação de danos ambientais é possível e compatível com a jurisprudência do STJ, mesmo que o art. 40 da Lei n. 6.766/1979 não contenha comando normativo suficiente para isentar o Estado dessa responsabilidade.",
+        "número": "1929577",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeor.do?processo=1929577&numero=202102017093&tipo=AREsp&data=20220503",
+        "processo": "AREsp 1929577",
+        "relator": "FRANCISCO FALCÃO",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "A prescrição intercorrente de três anos prevista na Lei n. 9.873/1999 se aplica aos procedimentos administrativos de Estados e municípios?",
+        "resposta": "A prescrição intercorrente de três anos prevista na Lei n. 9.873/1999 não se aplica aos procedimentos administrativos de Estados e municípios, devendo-se adotar o prazo previsto no Decreto 20.910/1932 em ausência de regra específica.",
+        "trecho_referencia": "A prescrição intercorrente de três anos prevista na Lei n. 9.873/1999 não se aplica aos procedimentos administrativos de Estados e municípios, devendo-se adotar o prazo previsto no Decreto 20.910/1932 em ausência de regra específica.",
+        "número": "1986713",
+        "link": "https://scon.stj.jus.br/SCON/GetInteiroTeor.do?processo=AREsp+1986713+SP",
+        "processo": "AREsp 1986713",
+        "relator": "Francisco Falcão",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias a Súmula 7 do STJ é aplicável em recurso especial?",
+        "resposta": "A Súmula 7 do STJ é aplicável em recurso especial quando a pretensão recursal envolve o reexame de provas e fatos.",
+        "trecho_referencia": "A alteração das conclusões do acórdão recorrido exige reapreciação do acervo fático-probatório da demanda, o que faz incidir o óbice da Súmula nº 7 do STJ.",
+        "número": "1671131",
+        "link": "https://www.stj.jus.br/processo/pesquisa/processo/834877",
+        "processo": "AgInt no AgInt no AREsp 1671131 / SP",
+        "relator": "MOURA RIBEIRO",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Em relação a créditos não tributários, a oferta de seguro garantia ou fiança bancária suspende a exigibilidade do débito? ",
+        "resposta": "Sim, a oferta de seguro garantia ou fiança bancária suspende a exigibilidade de créditos não tributários, conforme jurisprudência do STJ. A Súmula 112/STJ, que exige depósito integral em dinheiro para suspensão da exigibilidade de crédito tributário, não se aplica a créditos não tributários.",
+        "trecho_referencia": "II - Apesar do entendimento firmado na Súmula n. 112/STJ, no sentido de que o depósito somente suspende a exigibilidade do crédito tributário se for integral e em dinheiro, a jurisprudência desta Corte Superior também firmou o posicionamento de que, quanto aos créditos não tributários, a oferta de seguro garantia ou fiança bancária tem o efeito de suspender a exigibilidade destes créditos, não se aplicando, portando, a citada súmula.",
+        "número": "1932380",
+        "link": "https://scon.stj.jus.br/SCON/getDocumento.do?documentid=81779",
+        "processo": "AREsp 1932380 / SP",
+        "relator": "Ministro FRANCISCO FALCÃO",
+        "data_julgamento": "03/05/2022"
+    },
+    {
+        "query": "Em quais situações o encerramento irregular de uma sociedade e a falta de bens penhoráveis justificam a desconsideração da personalidade jurídica para alcançar o patrimônio dos sócios?",
+        "resposta": "O Superior Tribunal de Justiça entende que o encerramento irregular de uma sociedade e a falta de bens penhoráveis não são suficientes para autorizar a desconsideração da personalidade jurídica e o acesso ao patrimônio dos sócios.",
+        "trecho_referencia": "1. A orientação do Superior Tribunal de Justiça é no sentido de que não se pode desconsiderar a personalidade jurídica de sociedade empresária devedora para alcançar o patrimônio dos seus sócios com base apenas no seu encerramento irregular e na ausência de bens penhoráveis.",
+        "número": "1778746",
+        "link": "https://processo.stj.jus.br/processo/showDocument/index.jsp?processoId=66964838",
+        "processo": "AgInt no AgInt no AREsp 1778746 / SP",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "02/05/2022"
+    },
+    {
+        "query": "Em que circunstâncias o STJ considera que o mero descumprimento contratual pode gerar danos morais?",
+        "resposta": "O STJ entende que o mero descumprimento contratual não gera dano moral, a menos que haja uma situação específica que justifique a violação de direitos da personalidade. No caso em questão, o atraso de 22 anos na entrega do imóvel foi considerado uma situação específica que gerou dano moral.",
+        "trecho_referencia": "A jurisprudência consolidada do Superior Tribunal de Justiça entende inexistir dano moral pelo mero descumprimento contratual, exceto quando verificada situação peculiar, apta a justificar o reconhecimento de violação a direitos da personalidade.\n5.1. Na hipótese, analisando os fundamentos adotados pela Corte originária para justificar a condenação ao pagamento de danos morais, verifica-se existir descrição de situação específica que aponta violação grave a direito da personalidade dos agravados, qual seja, o extenso lapso temporal na entrega do imóvel - 22 (vinte e dois) anos após o prazo previsto -, não havendo falar em mero inadimplemento, e a revisão desse entendimento implicaria a incidência do óbice das Súmulas 5 e 7/STJ.",
+        "número": "1972677",
+        "link": "https://processo.stj.jus.br/processo/ConsultaPublica/listView.seam?x=18415619&seam-action=seam:consulta-processo-publica-listView_listView_consultarProcesso&seam-viewId=listView_listView",
+        "processo": "AgInt no AgInt no AREsp 1972677 / RJ",
+        "relator": "MARCO AURÉLIO BELLIZZE",
+        "data_julgamento": "09/05/2022"
+    },
+    {
+        "query": "Em relação à aposentadoria de servidor público federal, qual é o marco inicial do prazo de cinco anos para o TCU analisar a legalidade da concessão, segundo o STF?",
+        "resposta": "O STF decidiu que o prazo de cinco anos para o TCU analisar a legalidade da concessão inicial de aposentadoria, reforma ou pensão começa a contar a partir da chegada do processo à Corte de Contas.",
+        "trecho_referencia": "O STF, em julgamento realizado sob a sistemática da repercussão geral, pacificou o entendimento de que, em atenção aos princípios da segurança jurídica e da confiança legítima, os Tribunais de Contas estão sujeitos ao prazo de 5 anos para o julgamento da legalidade do ato de concessão inicial de aposentadoria, reforma ou pensão, a contar da chegada do processo à respectiva Corte de Contas (Tema 445, RE 636.553/RS).",
+        "número": "357694",
+        "link": "https://processo.stj.jus.br/processo/revista/jsp/principal.jsp?processo=357694&numero=201301875231&origem=acessolivre",
+        "processo": "AREsp 357694 / PR",
+        "relator": "MAURO CAMPBELL MARQUES",
+        "data_julgamento": "03/05/2022"
+    }
+]
