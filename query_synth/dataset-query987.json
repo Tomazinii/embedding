@@ -1,4 +1,4 @@
-[
+{"data":[
     {
         "query": "Quais são os requisitos para a admissão de embargos de divergência no Superior Tribunal de Justiça?",
         "resposta": "Para a admissão dos embargos de divergência, é necessário comprovar a existência de dissídio jurisprudencial, com a demonstração de similitude fático-jurídica entre os acórdãos confrontados.",
@@ -10,7 +10,7 @@
         "data_julgamento": "31/05/2022"
     },
     {
-        "query": "Qual a natureza jurídica do prazo de 120 dias para impetração de mandado de segurança previsto no art. 23 da Lei 12.016/2009?",
+        "query": "Qual a natureza jurídica do prao de 120 dias para impetração de mandado de segurança previsto no art. 23 da Lei 12.016/2009?",
         "resposta": "O prazo de 120 dias para a impetração de mandado de segurança, previsto no art. 23 da Lei 12.016/2009, tem natureza decadencial. O seu descumprimento resulta na extinção do processo sem resolução do mérito, conforme entendimento sumulado pelo STF na Súmula 632/STF.",
         "trecho_referencia": "O prazo de 120 dias para impetração de mandado de segurança, previsto no art. 23 da Lei 12.016/2009, tem natureza decadencial, e seu descumprimento resulta na extinção do processo sem resolução do mérito, conforme entendimento sumulado pelo STF na Súmula 632/STF.",
         "número": "1492505",
@@ -979,4 +979,4 @@
         "relator": "MAURO CAMPBELL MARQUES",
         "data_julgamento": "03/05/2022"
     }
-]
+]}
