@@ -1,4 +1,4 @@
-[
+{"data":[
     {
         "query": "O relatório de auditoria constatou insuficiência na formação e capacitação dos servidores da Controladoria-Geral do Município (CGM) de Goianésia, especificamente voltada para a atividade de auditoria interna governamental, durante o período de 2019 a 2022?",
         "resposta": "Sim, o relatório constatou insuficiência de formação e capacitação especificamente voltada para a atividade de auditoria interna governamental. No período avaliado (2019 a 2022), foram realizados apenas três cursos gerais, nenhum deles focado nas atividades típicas de auditoria interna, evidenciando a falta de qualificação profissional continuada nesta área.",
@@ -912,4 +912,4 @@
             "doc_id": "8f118c2f-f25d-40d7-ad57-9ce93901cab8"
         }
     ]
-]
+]}
