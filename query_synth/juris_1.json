@@ -1,0 +1,878 @@
+[
+    {
+        "query": "O que acontece com uma tutela provisória quando o recurso principal, cujo efeito suspensivo ela visava garantir, é julgado?",
+        "resposta": "O julgamento do recurso principal implica a perda do objeto da tutela provisória que visava garantir o efeito suspensivo daquele recurso.",
+        "trecho_referencia": "Nos termos da jurisprudência do Superior Tribunal de Justiça, uma vez apreciado o recurso cujo efeito suspensivo se buscou garantir, ocorre a superveniente perda do objeto da medida cautelar.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A reincidência não específica é suficiente para impedir a substituição da pena privativa de liberdade por restritivas de direitos?",
+        "resposta": "Sim, a reincidência, mesmo que não específica, pode ser um fator determinante para impedir a substituição da pena privativa de liberdade por restritivas de direitos, especialmente quando a substituição não se mostrar socialmente recomendável.",
+        "trecho_referencia": "A presença da agravante da reincidência, ainda que não específica, pode tornar inviável a substituição da pena por restritiva de direitos, de acordo com o disposto no art. 44, § 3º, do CP, tendo em vista não ser medida socialmente recomendável. Precedentes.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ admite a aplicação do princípio da insignificância nos crimes de furto simples, em réus reincidentes?",
+        "resposta": "Não, o STJ não admite a aplicação do princípio da insignificância em crimes de furto simples quando há reiteração criminosa ou reincidência, pois a contumácia na prática de crimes da mesma natureza indica expressiva lesão ao bem jurídico tutelado, tornando a absolvição socialmente não recomendável.",
+        "trecho_referencia": "A contumácia (reiteração delitiva e reincidência) na prática de crime de mesma natureza impele a expressiva lesão ao bem jurídico tutelado, o que indica que a absolvição não seria socialmente recomendável no caso concreto, justificando o afastamento do princípio da insignificância.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em processos de apuração de ato infracional, a intimação da representante legal do adolescente por meio eletrônico para a audiência, é suficiente para garantir a validade do ato processual, ou é necessária a intimação direta do adolescente?",
+        "resposta": "A intimação da representante legal do adolescente por meio eletrônico é considerada válida para fins de comunicação em processos de ato infracional, desde que o adolescente esteja adequadamente representado pela Defensoria Pública e não haja demonstração de prejuízo concreto à sua defesa, conforme entendimento do STJ.",
+        "trecho_referencia": "A intimação da representante legal do adolescente, realizada por meio eletrônico, atende aos requisitos processuais e é válida para efeitos de comunicação nos casos de ato infracional, desde que o adolescente esteja adequadamente representado, o que foi assegurado no caso em tela.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válidas condenações anteriores ao período depurador de 5 anos para configurar maus antecedentes na dosimetria da pena?",
+        "resposta": "Sim, o STJ admite que condenações pretéritas sejam consideradas para configurar maus antecedentes, mesmo que ultrapassado o período depurador quinquenal, desde que a decisão seja fundamentada.",
+        "trecho_referencia": "A jurisprudência desta Corte admite a consideração de condenações pretéritas para a configuração de maus antecedentes, independentemente do período depurador quinquenal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o posicionamento do STJ quanto à possibilidade de desclassificação do crime de tráfico (art. 33, Lei 11.343/06) para o de uso pessoal (art. 28), com base no princípio *in dubio pro reo*, diante da apreensão de pequena quantidade de entorpecentes e ausência de provas seguras da destinação comercial?",
+        "resposta": "O STJ entende que, havendo dúvida sobre a destinação comercial da droga apreendida em pequena quantidade e faltando provas robustas do tráfico, deve-se aplicar o princípio *in dubio pro reo* e desclassificar a conduta para uso pessoal (art. 28 da Lei 11.343/06).",
+        "trecho_referencia": "Na ausência de provas robustas da destinação mercantil de entorpecentes, e havendo dúvida quanto à finalidade, aplica-se o princípio do in dubio pro reo, desclassificando-se o crime de tráfico para o de uso pessoal, especialmente quando a quantidade de droga apreendida é pequena.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É admitida pelo STJ a remição de pena por estudo na modalidade à distância (EAD) sem comprovação de fiscalização das horas de estudo pela autoridade prisional ou de credenciamento da instituição de ensino?",
+        "resposta": "Não. O STJ exige, para a concessão da remição por estudo à distância, a comprovação das horas estudadas, a fiscalização pela unidade prisional e o credenciamento do curso, sendo que a falta desses requisitos inviabiliza o benefício.",
+        "trecho_referencia": "A remição da pena por estudo à distância exige comprovação de horas estudadas, fiscalização pela unidade prisional e credenciamento do curso, sendo que a ausência de fiscalização e credenciamento adequado inviabiliza a concessão do benefício.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o posicionamento do STJ acerca da valoração da palavra da vítima em crimes de violência doméstica (art. 129, § 13, CP), especificamente quanto à possibilidade de relativização de sua retratação ou minimização dos fatos diante de outras provas consistentes nos autos, como laudos periciais e testemunhos?",
+        "resposta": "O STJ entende que a minimização dos fatos pela vítima em casos de violência doméstica, especialmente após reconciliação, deve ser relativizada se o conjunto probatório for consistente e apontar para a prática do delito, não impedindo a condenação.",
+        "trecho_referencia": "Em casos de violência doméstica, a minimização dos fatos pela vítima após reconciliação com o agressor é comum e deve ser relativizada quando o conjunto probatório aponta para a prática do delito.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Conforme jurisprudência do STJ, a combinação de denúncia prévia sobre transporte de drogas e a desobediência à ordem de parada policial configura fundada suspeita suficiente para legitimar a busca pessoal e veicular sem mandado judicial, nos termos do art. 244 do CPP?",
+        "resposta": "Sim, o STJ entende que a denúncia prévia sobre o uso de veículo para transporte de entorpecentes, aliada à desobediência à ordem de parada, configura fundada suspeita que valida a busca pessoal e veicular sem necessidade de mandado judicial.",
+        "trecho_referencia": "É válida a busca pessoal e veicular quando fundamentada em denúncia prévia de uso do veículo para transporte de entorpecentes e na desobediência à ordem de parada emitida pelos policiais, configurando fundada suspeita que legitima a atuação policial sem a necessidade de mandado judicial.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera que denúncia anônima específica, contendo detalhes como nome, endereço e atividade do suspeito, configura 'fundadas razões' suficientes para justificar o ingresso policial em domicílio sem mandado judicial em caso de flagrante delito?",
+        "resposta": "Sim, o STJ entende que uma denúncia anônima específica e detalhada constitui justa causa (fundadas razões) para o ingresso forçado em domicílio sem mandado judicial, validando a ação policial e as provas obtidas, em conformidade com o entendimento do STF em repercussão geral (RE n. 603.616/RO).",
+        "trecho_referencia": "6. As circunstâncias do caso - denúncia anônima específica com descrição do nome, do endereço e da função do envolvido - configuram justa causa para a busca domiciliar sem prévia expedição de mandado, sendo desnecessária a autorização judicial, conforme jurisprudência pacificada no STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Conforme o Tema Repetitivo 984/STJ, o magistrado pode fixar honorários para defensor dativo em valor inferior à tabela da OAB sem apresentar motivação específica sobre a desproporcionalidade entre o valor referencial e o trabalho efetivamente realizado?",
+        "resposta": "Não. Embora as tabelas da OAB sirvam apenas como referência e não vinculem o magistrado, caso ele fixe os honorários do defensor dativo em valor inferior ao referencial e considerado desproporcional ao trabalho realizado, deve apresentar motivação específica que justifique essa desproporcionalidade.",
+        "trecho_referencia": "A Terceira Seção do STJ, no julgamento do Recurso Especial n. 1.656.322/SC, sob o rito dos recursos repetitivos (Tema n. 984), firmou entendimento segundo o qual \"as tabelas de honorários elaboradas unilateralmente pelos Conselhos Seccionais da OAB não vinculam o magistrado no momento de arbitrar o valor da remuneração a que faz jus o defensor dativo que atua no processo penal; servem como referência para o estabelecimento de valor que seja justo e que reflita o labor despendido pelo advogado\". (...) Embora não vinculativos, nos casos em que o o juiz da causa considerar desproporcional a quantia indicada na tabela da OAB em relação aos esforços despendidos pelo defensor dativo para os atos processuais praticados, deverá, motivadamente, arbitrar outro valor, com a devida indicação dessa desproporcionalidade.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O Superior Tribunal de Justiça admite o conhecimento de Habeas Corpus impetrado diretamente contra decisão monocrática de Tribunal de origem, sem o prévio esgotamento da instância pela interposição de agravo regimental?",
+        "resposta": "Não, o STJ firmou o entendimento de que não possui competência para julgar Habeas Corpus impetrado contra decisão monocrática quando não houve a interposição de agravo regimental na origem, visto que tal omissão impede o esgotamento das instâncias ordinárias.",
+        "trecho_referencia": "O STJ não tem competência para julgar habeas corpus contra decisão monocrática se não houver interposição de agravo regimental na origem, impossibilitando o esgotamento das instâncias ordinárias.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a possibilidade de detração da pena utilizando período de prisão cautelar referente a fato criminoso anterior àquele que ensejou a condenação atual?",
+        "resposta": "O STJ firmou o entendimento de que não é possível a detração da pena utilizando tempo de prisão provisória referente a crime cometido em data anterior à do delito pelo qual o réu cumpre pena atualmente.",
+        "trecho_referencia": "Não é possível a detração da pena do tempo de prisão provisória referente a crime anterior ao que está sendo executado.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Configura cerceamento de defesa a decisão que indefere o pedido de reparação de danos decorrentes de cumprimento provisório de sentença, por ausência de prova, sem oportunizar a instrução probatória ao executado, conforme entendimento do STJ?",
+        "resposta": "Sim, de acordo com o STJ (AgInt no AREsp 2.570.493/SP), configura cerceamento de defesa negar o pedido de reparação por danos sofridos em cumprimento provisório (posteriormente extinto) com base na ausência de prova, sem antes permitir que a parte prejudicada produza as provas necessárias. A liquidação dos prejuízos, decorrentes da responsabilidade objetiva do exequente (art. 520, I, CPC/2015), deve ocorrer nos mesmos autos (art. 520, II, CPC/2015), assegurando-se o direito à instrução probatória.",
+        "trecho_referencia": "2.1. No caso concreto, a parte prejudicada não teve a oportunidade de fazer prova dos prejuízos que sofreu, e o pedido foi denegado ao fundamento de que não comprovados os danos. Tem-se, pois, inequívoca hipótese de cerceamento de defesa, afigurando-se impositivo cassar o acórdão e a sentença de primeiro grau para que seja previamente franqueada a oportunidade de a parte interessada demonstrar e fazer prova dos prejuízos que alega ter suportado em razão do cumprimento provisório extinto.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A recusa injustificada de cobertura de procedimento cirúrgico para neoplasia maligna por operadora de plano de saúde é considerada pelo STJ como conduta apta a gerar dano moral indenizável?",
+        "resposta": "Sim, o STJ possui jurisprudência consolidada no sentido de que a recusa indevida ou injustificada por parte da operadora de plano de saúde em autorizar a cobertura financeira de tratamento médico necessário, como cirurgia para neoplasia, configura dano moral passível de indenização, por agravar a situação de aflição psicológica e angústia do beneficiário.",
+        "trecho_referencia": "Consoante a jurisprudência do STJ, \"a recusa indevida/injustificada, pela operadora de plano de saúde, em autorizar a cobertura financeira de tratamento médico a que esteja legal ou contratualmente obrigada, enseja reparação a título de dano moral, por agravar a situação de aflição psicológica e de angústia no espírito do beneficiário\" (AgInt nos EDcl no REsp 1.963.420/SP, Relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 14/2/2022, DJe de 21/2/2022).",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a consumação do crime de tráfico de drogas (art. 33, Lei 11.343/06) quando a conduta se limita à solicitação da entrega do entorpecente, sem posse efetiva pelo agente?",
+        "resposta": "O Superior Tribunal de Justiça entende que a mera solicitação para entrega de entorpecentes, desacompanhada da posse efetiva ou prova de propriedade da droga, configura ato preparatório, o qual não é punível, não caracterizando o início da execução do crime de tráfico.",
+        "trecho_referencia": "A jurisprudência do Superior Tribunal de Justiça entende que a mera solicitação de entrega de entorpecentes, sem a efetiva posse ou comprovação de propriedade, configura ato preparatório e, portanto, impunível.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a necessidade de comprovação de prejuízo ao grupo pela administradora para a cobrança de cláusula penal compensatória do consorciado desistente ou excluído?",
+        "resposta": "O STJ firmou o entendimento de que a administradora de consórcio só pode cobrar a cláusula penal do consorciado desistente ou excluído se comprovar que a saída deste causou prejuízo efetivo ao grupo.",
+        "trecho_referencia": "É firme o entendimento desta Corte no sentido de que, em contrato de consórcio, a cobrança de cláusula penal exige a comprovação pela administradora de que a desistência do consorciado causou prejuízo ao grupo. Incidência da Súmula nº 83 do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o posicionamento do STJ acerca da adequação da via do mandado de segurança para obter a declaração do direito à compensação ou restituição de valores indevidamente recolhidos a título de DIFAL do ICMS, e qual o marco temporal aplicável?",
+        "resposta": "O Superior Tribunal de Justiça entende que o mandado de segurança é a via processual adequada para declarar o direito do contribuinte à compensação ou restituição, na esfera administrativa, dos valores indevidamente pagos como DIFAL do ICMS, limitados aos cinco anos anteriores à data da impetração do mandado.",
+        "trecho_referencia": "Conforme a jurisprudência do Superior Tribunal de Justiça, o mandado de segurança é via própria para a obtenção da declaração do direito de compensar ou restituir os valores indevidamente pagos a título de Difal, na via administrativa, contados dos últimos cinco anos da impetração do mandamus.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a admissibilidade de Habeas Corpus impetrado para discutir matéria idêntica àquela já submetida a julgamento por meio de Agravo em Execução?",
+        "resposta": "O STJ entende que o Habeas Corpus não é o meio processual adequado para impugnar uma decisão que já foi objeto de Agravo em Execução, quando ambos tratam do mesmo tema, pois o agravo permite uma análise mais ampla e aprofundada da questão.",
+        "trecho_referencia": "O habeas corpus não é o meio adequado para impugnar decisão que já foi objeto de agravo em execução, quando o tema é idêntico e o recurso próprio oferece espectro de conhecimento mais amplo e aprofundado.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a possibilidade de reexame do valor da indenização em desapropriação quando o Tribunal de origem conclui que a perícia judicial foi contemporânea à avaliação e observou os critérios técnicos aplicáveis (CAJUFA)?",
+        "resposta": "O STJ entende que rever a conclusão do Tribunal de origem sobre a contemporaneidade da avaliação e o atendimento aos critérios técnicos pela perícia judicial implicaria o reexame de fatos e provas, incidindo o óbice da Súmula 7/STJ.",
+        "trecho_referencia": "1. Entendimento diverso no que concerne à conclusão do Tribunal de origem sobre o fato de o valor da indenização ser contemporâneo à avaliação da perícia judicial que atendeu os elementos técnicos da Cajufa implicaria o reexame do contexto fático-probatório dos autos, circunstância que redundaria na formação de novo juízo acerca dos fatos e das provas. Incidência da Súmula 7 do Superior Tribunal de Justiça (STJ) no presente caso.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ admite a revisão de condenação transitada em julgado via habeas corpus para aplicar entendimento jurisprudencial posterior que veda a utilização de ações penais em curso para afastar a causa de diminuição de pena do art. 33, § 4º, da Lei de Drogas?",
+        "resposta": "Não. O STJ entende que mudanças jurisprudenciais posteriores ao trânsito em julgado, ainda que mais benéficas, não autorizam a revisão da condenação por meio de habeas corpus utilizado como substitutivo de revisão criminal, salvo em caso de flagrante ilegalidade. A vedação do uso de ações penais em curso para afastar a minorante não se aplica retroativamente a decisões finais.",
+        "trecho_referencia": "A utilização de ação penal em curso para afastar a minorante do art. 33, § 4º, da Lei de Drogas é vedada, conforme orientação firmada no STJ (REsp n. 1.977.027/PR). Entretanto, mudanças jurisprudenciais posteriores ao trânsito em julgado não têm aplicação retroativa, sendo inadmissível a revisão da condenação com base em entendimento superveniente.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível conhecer de Agravo em Recurso Especial (AREsp) que deixa de impugnar especificamente um dos fundamentos da decisão de inadmissibilidade do Recurso Especial proferida pelo Tribunal de origem, conforme entendimento do STJ?",
+        "resposta": "Não. Segundo o STJ, a ausência de impugnação específica a todos os fundamentos da decisão que inadmitiu o Recurso Especial impede o conhecimento integral do Agravo (AREsp), por incidência da Súmula 182/STJ.",
+        "trecho_referencia": "De acordo com a jurisprudência, \"a decisão de inadmissibilidade do recurso especial não é formada por capítulos autônomos, mas por um único dispositivo, de modo que se o agravante deixa de impugnar adequadamente qualquer um dos fundamentos de inadmissão, torna-se inviável o conhecimento do agravo em recurso especial em sua integralidade\" (STJ, AgRg nos EDcl no AREsp 1.785.474/SC, Relª. Minª. Laurita Vaz, Sexta Turma, DJe 3/5/2021).",
+        "doc_id": "null"
+    },
+    {
+        "query": "A jurisprudência do STJ considera que a fuga do suspeito para o interior do domicílio, combinada com o ato de se desfazer de um invólucro, configura 'fundadas razões' suficientes para autorizar o ingresso policial sem mandado judicial?",
+        "resposta": "Sim, o STJ considerou, neste julgado, que a combinação da fuga para o domicílio com o descarte de um invólucro ao avistar a guarnição policial pode constituir 'fundadas razões', conferindo objetividade e densidade suficientes para justificar o ingresso domiciliar sem mandado judicial.",
+        "trecho_referencia": "A fuga do indivíduo para o domicílio ao avistar a polícia, combinada com o descarte de um invólucro, pode configurar fundadas razões para o ingresso domiciliar sem mandado judicial.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o critério do STJ para revisar o valor de indenização por danos morais decorrente de assédio sexual praticado por preposto de estabelecimento comercial, conforme decidido no AgInt nos EDcl no AREsp 2504200/SE?",
+        "resposta": "O STJ somente reexamina o montante indenizatório por danos morais fixado nas instâncias ordinárias se o valor for considerado irrisório ou abusivo, afastando a Súmula nº 7/STJ nesses casos excepcionais.",
+        "trecho_referencia": "O Superior Tribunal de Justiça, afastando a incidência da Súmula nº 7/STJ, tem reexaminado o montante arbitrado a título de danos morais apenas quando irrisório ou abusivo, circunstâncias inexistentes no presente caso, em que estabelecida a condenação em R$ 5.000,00 (cinco mil reais).",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o prazo aplicável para a pretensão de abatimento de preço ou indenização decorrente de diferença de metragem em imóvel adquirido, e qual a relevância do nome atribuído à ação para a contagem desse prazo, segundo a Segunda Seção do STJ?",
+        "resposta": "O prazo aplicável é decadencial de 1 (um) ano, conforme o art. 501 do Código Civil, sendo irrelevante o nome dado à ação (nomen iuris), pois a natureza jurídica é definida pelo pedido e causa de pedir.",
+        "trecho_referencia": "2. O direito de abatimento no preço do imóvel, decorrente da diferença de metragem entre a área real do bem e a constante do contrato, decai em 1 (um) ano, conforme art. 501 do Código Civil.\n1. A natureza jurídica da ação é definida por meio do pedido e da causa de pedir, não tendo relevância o nomen iuris dado pela parte autora. Precedentes.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a prejudicialidade de Agravo Regimental em Recurso Especial (AREsp) quando a matéria de fundo, como a dosimetria da pena, já foi analisada e decidida em Habeas Corpus anterior?",
+        "resposta": "O STJ entende que o Agravo Regimental fica prejudicado (perde o objeto) se a questão de fundo já foi decidida em um Habeas Corpus anterior, pois configura reiteração de pedido.",
+        "trecho_referencia": "A reiteração de pedidos já analisados em habeas corpus anterior torna prejudicado o agravo regimental, conforme jurisprudência do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A utilização do Sistema Eletrônico de Execução Unificado (SEEU) altera a regra de competência da execução penal, permitindo a remessa integral do processo ao juízo do domicílio do apenado em cumprimento de pena restritiva de direitos, ou mantém-se a competência do juízo da condenação com a possibilidade de delegação da fiscalização via carta precatória?",
+        "resposta": "O STJ firmou entendimento de que a implantação do SEEU não modifica a competência para a execução penal, a qual pertence ao Juízo da condenação. A supervisão e o acompanhamento do cumprimento da pena podem ser deprecados ao Juízo do domicílio do apenado via carta precatória, sem que isso implique deslocamento da competência principal da execução.",
+        "trecho_referencia": "3. A implantação do Sistema Eletrônico de Execução Unificado (SEEU) proporciona facilidade de acesso aos autos e otimiza a prestação jurisdicional, contudo não altera a competência para a execução da pena fixada pela Lei de Execução Penal. Precedentes.\n1. A jurisprudência do Superior Tribunal de Justiça consolidou o entendimento de que \"a competência para a execução penal cabe ao Juízo da condenação, sendo deprecada ao Juízo do domicílio do apenado somente a supervisão e acompanhamento do cumprimento da pena determinada, inexistindo deslocamento de competência\" (CC n. 113.112/SC, relator Ministro Gilson Dipp, Terceira Seção, julgado em 9/11/2011, DJe de 17/11/2011.)",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o posicionamento do STJ quanto à competência da Justiça Eleitoral para julgar crimes comuns (corrupção, lavagem de dinheiro) conexos a delitos eleitorais, à luz do precedente do STF no INQ 4435/DF?",
+        "resposta": "O STJ, em linha com o entendimento consolidado pelo STF no INQ 4435/DF, reconhece que a existência de conexão entre delitos comuns (como corrupção passiva e lavagem de dinheiro) e crimes eleitorais atrai a competência da Justiça Eleitoral para processar e julgar todos os fatos relacionados.",
+        "trecho_referencia": "A denúncia e os elementos probatórios indicam conexão entre os delitos comuns (corrupção passiva, lavagem de dinheiro e organização criminosa) e possíveis crimes eleitorais, como doações ilegais e não declaradas a partidos políticos, o que atrai a competência da Justiça Eleitoral, conforme o art. 35, II, do Código Eleitoral e art. 78, IV, do CPP, em linha com o entendimento consolidado pelo STF no INQ 4435/DF.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O Superior Tribunal de Justiça exige a oitiva prévia do apenado para a suspensão cautelar do livramento condicional em caso de cometimento de novo delito durante o período de prova?",
+        "resposta": "Não, o STJ entende que a prática de nova infração penal durante o livramento condicional autoriza a suspensão cautelar do benefício, sendo prescindível a prévia oitiva do reeducando, bem como o trânsito em julgado de sentença condenatória pelo novo fato.",
+        "trecho_referencia": "A prática de nova infração penal durante o livramento condicional autoriza a suspensão cautelar do benefício, sem necessidade de prévia oitiva do reeducando ou de sentença condenatória transitada em julgado, sendo compatível com o artigo 145 da Lei de Execução Penal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre o prazo prescricional e seu termo inicial aplicáveis às ações revisionais de contratos bancários?",
+        "resposta": "O Superior Tribunal de Justiça (STJ) entende que o prazo prescricional para ações revisionais bancárias é de dez anos (decenal), e o marco inicial para a contagem desse prazo é a data em que o contrato foi assinado.",
+        "trecho_referencia": "O prazo prescricional aplicável em ações revisionais bancárias é decenal, com o termo inicial sendo a data da assinatura do contrato.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É cabível Recurso Especial para o STJ rediscutir a abusividade de juros remuneratórios fixados em contrato, quando o Tribunal de origem concluiu pela abusividade com base na análise das provas e das cláusulas contratuais?",
+        "resposta": "Não, segundo a jurisprudência do STJ, não cabe Recurso Especial para reexaminar a abusividade de juros remuneratórios se essa análise exigir o reexame de provas e cláusulas contratuais, conforme vedação das Súmulas 5 e 7/STJ.",
+        "trecho_referencia": "Não cabe recurso especial para reexaminar a abusividade de juros remuneratórios, quando tal análise demanda reexame de provas e cláusulas contratuais (Súmulas 5 e 7/STJ)...",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível, em sede de Recurso Especial, reavaliar a extensão da quitação conferida em acordo extrajudicial homologado judicialmente, ou tal análise encontra óbice nas Súmulas 5 e 7 do STJ?",
+        "resposta": "Não. A reavaliação da extensão da quitação plena de pleitos indenizatórios, decorrente de acordo extrajudicial homologado judicialmente, demanda reexame de fatos, provas e interpretação de cláusulas contratuais, o que é vedado em Recurso Especial pela incidência das Súmulas 5 e 7 do STJ.",
+        "trecho_referencia": "Alterar o decidido no acórdão impugnado no que se refere às teses relativas à alegação de violação às coisa julgada bem como quanto à quitação plena de pleitos indenizatórios ante a homologação judicial do acórdão extrajudicial, envolve o reexame de fatos e provas e a interpretação de cláusulas contratuais, o que é vedado em recurso especial pelas Súmulas 5 e 7 do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a negativa de substituição da pena privativa de liberdade por restritiva de direitos (art. 44, § 3º, CP) a réu reincidente, quando fundamentada na insuficiência da medida para reprovação e prevenção do delito?",
+        "resposta": "O STJ entende que a reincidência, mesmo não específica, aliada à constatação fundamentada de que a substituição da pena não seria socialmente recomendável ou suficiente para a reprovação e prevenção do crime, justifica a não aplicação da medida substitutiva, conforme o art. 44, § 3º, do Código Penal e a jurisprudência consolidada da Corte (Súmula 83/STJ).",
+        "trecho_referencia": "A reincidência, cumulada com a inadequação da substituição da pena privativa de liberdade por restritiva de direitos para a reprovação e prevenção do crime, justifica a negativa da substituição, conforme o art. 44, § 3º, do Código Penal e a jurisprudência do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A gravidade concreta da tentativa de homicídio qualificado por motivo fútil justifica a manutenção da prisão preventiva, afastando a aplicação de medidas cautelares diversas, conforme entendimento do STJ?",
+        "resposta": "Sim, o STJ entende que a gravidade concreta do crime de tentativa de homicídio qualificado, especialmente por motivo fútil, demonstra o 'periculum libertatis' e a necessidade de garantir a ordem pública, tornando inviável a substituição da prisão por medidas cautelares alternativas.",
+        "trecho_referencia": "A prisão preventiva se justifica pela gravidade concreta do crime de tentativa de homicídio qualificado, praticado por motivo fútil, evidenciando o periculum libertatis e a necessidade de resguardar a ordem pública, sendo inviável a aplicação de medidas cautelares diversas.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o prazo prescricional reconhecido pelo STJ para a exigibilidade de Cédula de Crédito Industrial, com base na Lei Uniforme?",
+        "resposta": "O Superior Tribunal de Justiça (STJ) entende que o prazo prescricional aplicável à Cédula de Crédito Industrial é de três anos, conforme estabelecido pela Lei Uniforme.",
+        "trecho_referencia": "Em se tratando de cédula de crédito industrial, o prazo prescricional incidente na espécie é o de três anos, previsto na Lei Uniforme. Precedentes do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a possibilidade de exasperação da pena-base no crime de tráfico de drogas (Lei 11.343/06, art. 42) com fundamento exclusivo na quantidade expressiva de entorpecente apreendido (ex: 290 kg de maconha) e se essa mesma circunstância impede a substituição da pena privativa de liberdade por restritiva de direitos (CP, art. 44)?",
+        "resposta": "O STJ entende que a quantidade expressiva de droga (290,6 kg de maconha) é fundamento idôneo para exasperar a pena-base, conforme o art. 42 da Lei 11.343/2006. Além disso, essa circunstância judicial negativa (quantidade da droga), somada ao quantum da pena fixada, inviabiliza a substituição da pena privativa de liberdade por restritivas de direitos, nos termos do art. 44, I, do Código Penal e da jurisprudência consolidada da Corte (Súmula 83/STJ).",
+        "trecho_referencia": "3. A exasperação da pena-base em razão da quantidade e natureza da droga apreendida está devidamente fundamentada, conforme o art. 42 da Lei n. 11.343/2006, uma vez que a quantidade de 290,6 kg de maconha configura circunstância apta a justificar a elevação da pena-base acima do mínimo legal. 4. A substituição da pena privativa de liberdade por penas restritivas de direitos é inviável, considerando a quantidade da pena e a presença de circunstância judicial negativada (quantidade de droga), nos termos do art. 44, I, do Código Penal. 5. O acórdão recorrido está em consonância com a jurisprudência consolidada desta Corte, atraindo a incidência da Súmula n. 83/STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de tráfico de drogas, qual o entendimento do STJ sobre a necessidade de comprovação de prejuízo efetivo para que a alegação de quebra da cadeia de custódia enseje a nulidade do flagrante?",
+        "resposta": "O STJ entende que a alegação de quebra da cadeia de custódia não é suficiente para declarar a nulidade do flagrante, sendo necessária a demonstração de prejuízo efetivo, conforme o princípio do \"pas de nullité sans grief\".",
+        "trecho_referencia": "A alegação de quebra da cadeia de custódia não é suficiente para declarar a nulidade do flagrante, uma vez que não houve demonstração de prejuízo efetivo, conforme o princípio do \"pas de nullité sans grief\".",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ acerca da utilização de embargos de declaração para rediscutir matérias já analisadas e devidamente fundamentadas em acórdão?",
+        "resposta": "O STJ entende que os embargos de declaração não são o meio adequado para rediscutir questões já tratadas e fundamentadas em acórdão, sendo admissíveis apenas para sanar obscuridade, contradição, omissão ou erro material.",
+        "trecho_referencia": "Os embargos de declaração objetivam sanar eventual existência de obscuridade, contradição, omissão e/ou erro material no julgado (CPC, art. 1022), sendo inadmissível a oposição para rediscutir questões tratadas e devidamente fundamentadas no acórdão embargado, mormente porque não são cabíveis para provocar novo julgamento da lide.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de estelionato, qual o entendimento do STJ sobre a validade da prisão preventiva fundamentada na reiteração delitiva e na gravidade concreta da conduta, após a citação por edital e suspensão do processo nos termos do art. 366 do CPP?",
+        "resposta": "O STJ entende que a prisão preventiva é justificada pela gravidade concreta do estelionato reiterado e pela necessidade de garantir a ordem pública, sendo válida a citação por edital após tentativas frustradas de citação pessoal, com a subsequente suspensão do processo e da prescrição, conforme o art. 366 do CPP, quando não demonstrado prejuízo ao réu.",
+        "trecho_referencia": "A prisão preventiva é justificada pela gravidade concreta das condutas atribuídas ao paciente, que envolvem a prática reiterada de estelionato e causam prejuízo considerável às vítimas, evidenciando risco à ordem pública e à aplicação da lei penal.\nA citação do paciente por edital foi realizada após tentativas frustradas de citação pessoal, seguida da suspensão do processo e da prescrição, conforme o art. 366 do CPP. Posteriormente, o paciente foi recolhido ao cárcere e constituiu advogado, não havendo demonstração de prejuízo.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de homicídio qualificado e associação para o tráfico, a fuga do réu por mais de três anos impede a alegação de excesso de prazo na prisão preventiva, mesmo após o desmembramento dos autos?",
+        "resposta": "Sim, o Superior Tribunal de Justiça entende que a fuga do réu por longo período impede a alegação de excesso de prazo na prisão preventiva, especialmente quando a custódia é justificada pela gravidade da conduta, periculosidade do agente e risco à ordem pública e à aplicação da lei penal. O atraso processual decorrente da conduta do réu não pode ser imputado ao juízo ou ao Ministério Público.",
+        "trecho_referencia": "Constatado que o recorrente está foragido há mais de três anos, o alegado excesso de prazo não pode ser atribuído ao juízo ou ao Ministério Público, pois a demora na tramitação processual decorre da própria conduta do réu, o que afasta a caracterização de constrangimento ilegal.\n\nA prisão preventiva está fundamentada na gravidade concreta das condutas atribuídas ao recorrente - imputado como líder de organização criminosa armada - e em sua periculosidade, evidenciada pela reiteração delitiva e pela permanência em fuga, o que justifica a custódia para garantia da ordem pública e para assegurar a aplicação da lei penal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos que envolvem a fixação de honorários por apreciação equitativa (art. 85, § 8º, do CPC), quando o tema é submetido a julgamento de uniformização jurisprudencial pelo STF (Tema 1.255), qual o procedimento a ser adotado pelo STJ?",
+        "resposta": "O STJ, ao verificar que a matéria tratada no recurso especial foi admitida para julgamento de uniformização jurisprudencial pelo STF (Tema 1.255), determina a devolução dos autos ao Tribunal de origem para que este proceda ao sobrestamento do recurso, declare-o prejudicado ou exerça o juízo de retratação, conforme o caso.",
+        "trecho_referencia": "Consoante a jurisprudência desta Corte, o reconhecimento da repercussão geral da matéria constitucional, nos termos dos art. 927, 1.036 e 1.040 do CPC/2015, justifica o sobrestamento dos recursos especiais, na instância ordinária, que tragam a mesma questão jurídica a ser definida pelo STF ou STJ. Também a admissão do recurso, como repetitivo por esta Corte, autoriza o sobrestamento. A mesma sistemática deve ser adotada para os casos de admissão de Procedimento de Uniformização de Jurisprudência.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A aprovação no ENCCEJA, sem comprovação de estudo no interior do presídio, garante ao apenado o direito à remição de pena, e o acréscimo de 1/3 sobre os dias remidos é aplicável quando o condenado conclui o ensino médio durante a execução da pena?",
+        "resposta": "Sim, a aprovação no ENCCEJA garante ao apenado o direito à remição de pena, independentemente da comprovação de estudo no presídio. Além disso, o acréscimo de 1/3 sobre os dias remidos é aplicável quando o condenado conclui o ensino médio durante a execução da pena.",
+        "trecho_referencia": "A aprovação no Exame Nacional para Certificação de Competências de Jovens e Adultos (ENCCEJA) garante ao apenado o direito à remição de pena, independentemente de comprovação de estudo no interior do presídio, sendo aplicável o acréscimo de 1/3 quando o condenado conclui o ensino médio durante a execução da pena.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de crime permanente, é válida a entrada em domicílio não especificado em mandado de busca e apreensão, caso haja fundadas razões e continuidade da investigação?",
+        "resposta": "Sim, a entrada em imóvel não especificado no mandado de busca é válida quando justificada por fundadas razões e continuidade de investigação de crimes permanentes, e a situação de flagrante delito permite a mitigação da inviolabilidade de domicílio.",
+        "trecho_referencia": "A entrada em imóvel não especificado no mandado de busca é válida quando justificada por fundadas razões e continuidade de investigação de crimes permanentes, sendo que a situação de flagrante delito permite a mitigação da inviolabilidade de domicílio.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de adoção simples realizada sob a égide do Código Civil de 1916, qual legislação rege o direito à herança: a vigente no momento da adoção ou a vigente na data da abertura da sucessão?",
+        "resposta": "O direito à herança é regido pelas normas vigentes à época da abertura da sucessão, independentemente de os direitos de filiação terem sido adquiridos sob a égide de legislação anterior. A Constituição Federal de 1988 não admite a distinção entre as relações familiares, garantindo isonomia entre os filhos no que diz respeito ao direito sucessório.",
+        "trecho_referencia": "1. O direito à herança é regido pelas normas vigentes à época da abertura da sucessão, independentemente de os direitos de filiação terem sido adquiridos sob a égide de legislação anterior.\n3. O artigo 227, § 6º, da Constituição Federal de 1988 não admite a distinção das relações familiares a partir de sua origem, o que impede a discriminação entre filhos no que diz respeito ao direito sucessório.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações a jurisprudência do STJ considera lícita a abertura de correspondência postal sem autorização judicial, à luz do art. 10 da Lei nº 6.538/78?",
+        "resposta": "O STJ entende que a abertura de correspondência postal sem autorização judicial é lícita quando há indícios de prática de atividade ilícita, conforme o art. 10 da Lei nº 6.538/78, especialmente quando a correspondência apresenta indícios de conter objetos ou substâncias de expedição, uso ou entrega proibidos.",
+        "trecho_referencia": "A abertura de correspondência postal sem autorização judicial é lícita quando há indícios de prática de atividade ilícita, conforme art. 10 da Lei nº 6.538/78.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de tráfico de drogas, qual o entendimento do STJ sobre a manutenção da prisão preventiva com base no risco de reiteração delitiva e histórico criminal do réu, mesmo após a superveniência de sentença condenatória?",
+        "resposta": "O STJ entende que a superveniência de sentença condenatória não torna prejudicada a análise da prisão preventiva, se a manutenção da prisão se basear nos mesmos fundamentos da decisão anterior, como a garantia da ordem pública em razão da reiteração delitiva e histórico criminal do réu.",
+        "trecho_referencia": "A sentença superveniente não enseja a prejudicialidade do reclamo no ponto relacionado à fundamentação da prisão preventiva quando os motivos que levaram à manutenção da preventiva forem os mesmos apontados por ocasião da decisão primeva.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera legal o cancelamento de plano de saúde por inadimplência se comprovado o envio de notificação prévia ao beneficiário?",
+        "resposta": "Sim, o STJ entende que o cancelamento de plano de saúde por inadimplência é legal quando comprovado o envio de notificação prévia ao beneficiário e não demonstrado o caráter abusivo dos valores cobrados.",
+        "trecho_referencia": "É legal o cancelamento do plano de saúde por inadimplência quando comprovado o envio de notificação prévia ao beneficiário e não demonstrado o caráter abusivo dos valores cobrados.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em crimes de descaminho, é imprescindível a apresentação de laudo merceológico para comprovar a origem estrangeira das mercadorias, ou outras provas são admitidas?",
+        "resposta": "O STJ entende que a origem estrangeira das mercadorias no crime de descaminho pode ser comprovada por exame pericial indireto, dispensando-se a realização de laudo merceológico.",
+        "trecho_referencia": "\"Segundo precedentes desta Corte, a origem estrangeira das mercadorias no crime de contrabando de cigarros pode ser comprovada por exame pericial indireto, dispensando-se a realização de laudo merceológico\" (AgRg no AREsp n. 1.291.992/RS, relator Ministro Antonio Saldanha Palheiro, Sexta Turma, julgado em 19/9/2019, DJe de 30/9/2019).",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em ações previdenciárias, qual o entendimento do STJ sobre a fixação da data inicial e dos efeitos financeiros do benefício quando os requisitos para a concessão são implementados após a conclusão do processo administrativo?",
+        "resposta": "O STJ entende que a data inicial e os efeitos financeiros do benefício devem ser fixados a contar da citação, quando os requisitos para a concessão são implementados somente após a conclusão do processo administrativo.",
+        "trecho_referencia": "O Tribunal de origem, mesmo depois de provocado por meio de embargos de declaração, não se manifestou sobre a alegação da autarquia recorrente, no sentido de que os requisitos para a concessão do benefício teriam sido implementados somente após a conclusão do processo administrativo, o que acarretaria na fixação de sua data inicial e respectivos efeitos financeiros a contar da citação.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É lícita a utilização, em Processo Administrativo Disciplinar, de mensagens extraídas de aplicativo de mensagens armazenadas em celular, quando o acesso é fornecido por um dos interlocutores da conversa?",
+        "resposta": "Sim, o STJ entende que é lícita a prova obtida em processo administrativo disciplinar quando o acesso às mensagens de aplicativo de mensagens armazenadas em celular é autorizado por um dos interlocutores da conversa.",
+        "trecho_referencia": "A jurisprudência desta Corte reconhece a licitude da prova quando o acesso às mensagens armazenadas no celular é autorizado por um dos interlocutores da conversa, exatamente como ocorrido no caso dos autos. Precedentes.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações a busca veicular é considerada válida, segundo o STJ, no contexto de investigação por tráfico de drogas, e qual o requisito fundamental para sua legalidade?",
+        "resposta": "O STJ entende que a busca veicular é válida quando precedida de fundada suspeita e investigação prévia, conforme reiteradas decisões. O requisito fundamental para a legalidade da busca é a existência de fundada suspeita, baseada em elementos concretos que justifiquem a diligência.",
+        "trecho_referencia": "1. A busca veicular é válida quando precedida de fundada suspeita e investigação prévia.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em matéria tributária, o STJ entende que a análise da ocorrência de coisa julgada demanda reexame de matéria fática, atraindo a aplicação da Súmula 7/STJ?",
+        "resposta": "Sim, o STJ não admite, em sede de recurso especial, o reexame dos elementos do processo para apurar a existência ou não de coisa julgada, com fundamento em análise das provas colhidas nos autos, incidindo o óbice da Súmula 7/STJ.",
+        "trecho_referencia": "Não se admite, em sede de recurso especial, o reexame dos elementos do processo a fim de apurar a existência ou não de coisa julgada, com fundamento em análise das provas colhidas nos autos, incidindo, assim, o óbice da Súmula 7/STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível reconhecer a reincidência se a condenação anterior tiver transitado em julgado após a data do fato criminoso em julgamento?",
+        "resposta": "Não, a reincidência não pode ser reconhecida quando a condenação utilizada como fundamento transitou em julgado após a data do fato criminoso em julgamento. No entanto, tal condenação pode caracterizar maus antecedentes, os quais influenciam na fixação da pena-base.",
+        "trecho_referencia": "A reincidência não pode ser reconhecida quando a condenação utilizada como fundamento transitou em julgado após a data do fato criminoso em julgamento. No entanto, tal condenação pode caracterizar maus antecedentes, os quais influenciam na fixação da pena-base.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válida a intimação do Estado por meio de publicação no Diário Eletrônico, mesmo sem intimação pessoal?",
+        "resposta": "Sim, o STJ entende que a intimação do Estado por meio de publicação no Diário Eletrônico é válida, desde que não demonstrado prejuízo à sua defesa.",
+        "trecho_referencia": "É válida a intimação do Estado por meio de publicação no Diário Eletrônico, sem necessidade de intimação pessoal, desde que não demonstrado prejuízo à sua defesa.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ entende que o descumprimento de ordem de emenda à inicial, por si só, é suficiente para a convolação da recuperação judicial em falência?",
+        "resposta": "Não. A jurisprudência do STJ estabelece que as hipóteses de convolação de recuperação judicial em falência previstas no art. 73 da Lei n. 11.101/2005 são taxativas, e o não cumprimento da ordem de emenda à inicial, por si só, não é motivo suficiente, salvo se configuradas as situações previstas no rol taxativo do art. 73 da Lei de Recuperações e Falências.",
+        "trecho_referencia": "A jurisprudência do STJ estabelece que as hipóteses de convolação de recuperação judicial em falência previstas no art. 73 da Lei n. 11.101/2005 são taxativas, devendo ser interpretadas de forma restritiva.\nO não cumprimento da ordem de emenda à inicial, por si só, não é hipótese suficiente para convolar a recuperação judicial em falência, salvo se configuradas as situações previstas no rol taxativo do art. 73 da Lei de Recuperações e Falências.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válido o uso de condenações alcançadas pelo período depurador do art. 64, I, do CP para fins de valoração negativa dos maus antecedentes na primeira fase da dosimetria da pena, em crimes de tráfico de drogas?",
+        "resposta": "Sim, o STJ considera válido o uso de condenações alcançadas pelo período depurador para fins de maus antecedentes, salvo em casos de condenações muito antigas. A data relevante é a da extinção da punibilidade, e não a do trânsito em julgado.",
+        "trecho_referencia": "A caracterização dos maus antecedentes não se sujeita ao prazo depurador previsto no art. 64, I, do CP, salvo para condenações muito antigas, sendo relevante a data da extinção da punibilidade, não a do trânsito em julgado.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações a não impugnação de fundamentos da decisão agravada, segundo o STJ, leva à preclusão da matéria, e qual a relação com a Súmula 182/STJ?",
+        "resposta": "A não impugnação dos fundamentos da decisão agravada acarreta a preclusão da matéria não impugnada, não incidindo a Súmula n. 182/STJ.",
+        "trecho_referencia": "A não impugnação dos fundamentos da decisão agravada quanto à incidência da Súmula n. 518, do Superior Tribunal de Justiça, bem como sobre a jurisprudência acerca do encargo do Decreto-Lei n. 1.025/1969, acarreta a preclusão da matéria não impugnada, não incidindo a Súmula n. 182/STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ admite o afastamento da trava de 30% para compensação de prejuízos fiscais de IRPJ e CSLL em casos de extinção de pessoa jurídica por incorporação?",
+        "resposta": "Não, o STJ entende que é inviável o afastamento da trava de 30% para compensação de prejuízos fiscais, mesmo em casos de extinção da pessoa jurídica por incorporação, dada a ausência de previsão legal expressa, sob pena de afronta ao art. 111, II, do CTN.",
+        "trecho_referencia": "É inviável o afastamento da trava de 30% para compensação de prejuízos fiscais, mesmo em casos de extinção da pessoa jurídica por incorporação, dada a ausência de previsão legal expressa, sob pena de afronta ao art. 111, II, do CTN.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações o STJ entende que a alegação de violação de domicílio, apresentada somente em sede de revisão criminal, não enseja nulidade das provas ou cerceamento de defesa?",
+        "resposta": "O STJ entende que a alegação de violação de domicílio, não apresentada ao juízo de origem e articulada apenas na revisão criminal, não enseja nulidade das provas ou cerceamento de defesa. Além disso, a busca domiciliar justificada por denúncia anônima especificada e diligência policial, caracteriza exercício regular da atividade investigativa e permite o ingresso no domicílio.",
+        "trecho_referencia": "A tese de violação de domicílio não formulada ao juízo de origem e articulada apenas na revisão criminal não enseja nulidade das provas ou cerceamento de defesa. A busca domiciliar justificada por denúncia anônima especificada e diligência policial caracteriza exercício regular da atividade investigativa e permite o ingresso no domicílio.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de roubo majorado pelo emprego de arma de fogo, é indispensável a apreensão e perícia da arma para a aplicação da majorante, ou outros meios de prova são suficientes?",
+        "resposta": "Não é indispensável a apreensão e perícia da arma de fogo para a incidência da majorante do roubo, quando existirem outros elementos de prova que evidenciem a sua utilização no crime, como o depoimento da vítima e filmagens.",
+        "trecho_referencia": "Consoante entendimento da Terceira Seção, é dispensável a apreensão e a perícia da arma de fogo, para a incidência da respectiva majorante, quando existirem, nos autos, outros elementos de prova que evidenciem a sua utilização no roubo, como no caso concreto, diante do depoimento da vítima e da filmagem.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de ação condenatória por dano moral, qual o entendimento do STJ sobre a possibilidade de revisão do valor da indenização fixada pelas instâncias ordinárias em recurso especial, considerando a Súmula 7/STJ?",
+        "resposta": "O STJ entende que a incidência da Súmula 7/STJ impede a revisão, em recurso especial, da convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral e a adequação do valor da indenização fixada.",
+        "trecho_referencia": "A incidência da Súmula 7/STJ impede a revisão, em recurso especial, da convicção formada nas instâncias ordinárias sobre a ocorrência de dano moral e a adequação do valor da indenização fixada.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É cabível Recurso Especial fundado em alegada violação de enunciado de Súmula?",
+        "resposta": "Não, de acordo com a Súmula 518 do STJ, não é cabível Recurso Especial fundado em alegada violação de enunciado de súmula.",
+        "trecho_referencia": "Em relação à alegação de ofensa à Súmula n. 626 do STJ, cabe ressaltar que, na dicção da Súmula n. 518 do STJ: \"Para fins do art. 105, III, a, da Constituição Federal, não é cabível recurso especial fundado em alegada violação de enunciado de súmula\".",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ exige a comprovação da maternidade e da imprescindibilidade dos cuidados maternos para a concessão de prisão domiciliar para cuidar de menor, e veda a dilação probatória em habeas corpus para tal fim?",
+        "resposta": "Sim, o STJ exige a comprovação da maternidade e da imprescindibilidade dos cuidados maternos para a concessão de prisão domiciliar e considera inviável a dilação probatória em habeas corpus para comprovar tais requisitos.",
+        "trecho_referencia": "A concessão de prisão domiciliar para cuidar de menor depende da comprovação da maternidade e da imprescindibilidade dos cuidados maternos, sendo inviável a dilação probatória em habeas corpus.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível a manutenção da prisão preventiva de um réu, integrante de associação criminosa, para interromper a atuação do grupo e evitar a reiteração delitiva, mesmo quando corréus tiveram a custódia revogada por motivos de caráter pessoal?",
+        "resposta": "Sim, é válida a manutenção da prisão preventiva para interromper a atuação de integrantes de associação criminosa e em razão do fundado risco de reiteração delitiva, sendo inviável a extensão de benefícios concedidos a corréus com base em requisitos de caráter pessoal, bem como a aplicação de medidas cautelares diversas diante da gravidade e periculosidade do agente.",
+        "trecho_referencia": "É válida a manutenção da prisão preventiva para interromper a atuação de integrantes de associação criminosa e em razão do fundado risco de reiteração delitiva, sendo inviável a extensão de benefícios concedidos a corréus com base em requisitos de caráter pessoal, bem como a aplicação de medidas cautelares diversas diante da gravidade e periculosidade do agente.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O oferecimento do Acordo de Não Persecução Penal (ANPP) em casos de tráfico de drogas é admissível mesmo após o início da ação penal, e quais os critérios para sua aplicação em réus primários?",
+        "resposta": "Sim, o ANPP pode ser oferecido até o trânsito em julgado da sentença, beneficiando réus primários em ações penais em curso por tráfico de drogas, desde que o crime não envolva violência e a quantidade de droga não seja relevante. A prescrição da pretensão punitiva extingue os efeitos de condenações anteriores, não podendo ser considerada para fins de reincidência.",
+        "trecho_referencia": "O ANPP pode ser oferecido até o trânsito em julgado, conforme entendimento do STF, beneficiando réus em ações penais em curso.\nO acusado era primário na data dos fatos, não havendo elementos que justifiquem a negativa do ANPP.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual a jurisprudência do STJ sobre a necessidade de impugnação específica de todos os fundamentos da decisão recorrida em Agravo Regimental, sob pena de não conhecimento do recurso?",
+        "resposta": "O STJ possui jurisprudência consolidada no sentido de que a impugnação em Agravo Regimental deve ser específica e pormenorizada quanto a todos os fundamentos da decisão recorrida, sob pena de não conhecimento do recurso, conforme a Súmula 182/STJ. Além disso, para afastar a incidência das Súmulas 83 e 7 do STJ, é necessário apresentar precedentes atuais divergentes e demonstrar que a análise do recurso não demanda reexame de provas, respectivamente.",
+        "trecho_referencia": "A jurisprudência consolidada do STJ determina que a impugnação deve ser específica e pormenorizada quanto a todos os fundamentos da decisão recorrida, sob pena de incidência da Súmula 182/STJ, o que não foi observado pela parte agravante.\nPara afastar a aplicação da Súmula 7/STJ, é necessário demonstrar que a análise do recurso não demanda reexame de provas, o que não foi demonstrado pela parte agravante, que se limitou a alegações genéricas.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O depoimento de policiais, por si só, é suficiente para fundamentar uma condenação por tráfico de drogas, ou necessita de outros elementos de prova para ser considerado válido?",
+        "resposta": "O depoimento de policiais, embora goze de presunção de veracidade no âmbito administrativo, necessita ser corroborado por outros elementos de prova para fins de condenação penal, conforme o sistema do livre convencimento motivado.",
+        "trecho_referencia": "Sobre o testemunho policial como standard probatório (ex vi do art. 202 do CP), esta Corte de Uniformização tem preconizado que, as palavras dos agentes policiais - conquanto gozem, pelo prisma administrativo, de presunção de veracidade, de imperatividade e autoexecutoriedade -, para fins de validade e eficácia probatória no bojo na persecução criminal, devem ser cotejadas e confirmadas pelo Estado-julgador (sob a égide do sistema do livre convencimento motivado) com as demais provas coligidas aos autos, para fins de condenação, porquanto despidas de qualquer hierarquia (legal) na topografia normativa adjacente ou distinção epistemológica, como ordinário meio probatório.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É necessária a cientificação do direito ao silêncio (Aviso de Miranda) no momento da abordagem policial para que a busca pessoal seja considerada legal e as provas obtidas lícitas?",
+        "resposta": "Não, a legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direito em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial.",
+        "trecho_referencia": "A legislação processual penal não exige que os policiais, no momento da abordagem, cientifiquem o abordado quanto ao seu direito em permanecer em silêncio (Aviso de Miranda), uma vez que tal prática somente é exigida nos interrogatórios policial e judicial",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de roubo majorado, o fato de o Ministério Público ter se manifestado pela aplicação de medidas cautelares diversas da prisão impede o magistrado de decretar a prisão preventiva, ou esta decisão configura atuação ex officio?",
+        "resposta": "Mesmo com manifestação prévia do Ministério Público pela aplicação de medidas cautelares diversas da prisão, o magistrado pode decretar a prisão preventiva, desde que a decisão seja fundamentada na gravidade da conduta e no modus operandi do delito, o que não configura atuação ex officio.",
+        "trecho_referencia": "A Sexta Turma desta Corte Superior fixou entendimento no seguinte sentido: ainda que, na audiência de custódia, o Ministério Público tenha requerido a substituição da prisão por medidas cautelares diversas, não há falar em decretação da prisão de ofício, haja vista que \"é possível ao magistrado decretar medida cautelar diversa daquela requerida pelo Ministério Público, no caso, a cautelar máxima de prisão preventiva, o que não representa atuação ex officio, inexistindo, portanto, constrangimento ilegal\" (AgRg no HC n. 764.022/SC, relatora Ministra Laurita Vaz, Sexta Turma, julgado em 27/3/2023, DJe de 31/3/2023).",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válida a fundamentação per relationem em decisões de busca e apreensão domiciliar, mesmo que a decisão referenciada seja a representação da autoridade policial?",
+        "resposta": "Sim, o STJ entende que a fundamentação per relationem é válida em decisões de busca e apreensão, desde que a manifestação processual referenciada (como a representação da autoridade policial) contenha fundamentação suficiente e seja acessível às partes.",
+        "trecho_referencia": "A fundamentação per relationem é válida, desde que a manifestação processual referenciada contenha fundamentação suficiente e seja acessível às partes.\nNo requerimento de busca e apreensão, a autoridade policial apresentou elementos fáticos claros e consistentes, demonstrando a necessidade da medida para a investigação.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A condenação pelo crime de associação para o tráfico (art. 35 da Lei 11.343/06) impede o reconhecimento da causa de diminuição de pena prevista no tráfico privilegiado (art. 33, § 4º, da Lei 11.343/06)?",
+        "resposta": "Sim, a jurisprudência do STJ é pacífica no sentido de que a condenação por associação para o tráfico impede o reconhecimento da causa de diminuição do tráfico privilegiado.",
+        "trecho_referencia": "A jurisprudência desta Corte é pacífica no sentido de que a condenação por associação para o tráfico impede o reconhecimento da causa de diminuição do tráfico privilegiado, nos termos do art. 33, § 4º, da Lei n. 11.343/06, atraindo a incidência da Súmula nº 83 do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Quais os critérios estabelecidos pelo STJ para que um plano de saúde seja obrigado a fornecer tratamento não previsto no rol da ANS, considerando o julgamento do EREsp 1.925.051/SP e o disposto no art. 10, § 13, I, da Lei 9.656/1998?",
+        "resposta": "O STJ, no julgamento do EREsp 1.925.051/SP, definiu que o plano de saúde é obrigado a fornecer tratamento não previsto no rol da ANS se forem comprovados os critérios para flexibilização do rol, conforme o art. 10, § 13, I, da Lei 9.656/1998.",
+        "trecho_referencia": "A Segunda Seção desta Corte Superior, no julgamento do EREsp 1.925.051/SP, de relatoria do Ministro João Otávio de Noronha, julgado em 18/4/2024, decidiu que, \"comprovado o preenchimento dos critérios para flexibilização do rol da ANS definidos na nova lei, cabe ao plano de saúde fornecer tratamento não previsto no rol da ANS\".\nDessa forma, faz-se necessário que a Corte local analise se estão presentes os requisitos para possibilitar a concessão do medicamento à luz do art. 10, § 13, I, da Lei 9.656/1998, incluído pela Lei 14.454/2022.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válida a determinação de exame criminológico para a progressão de regime quando fundamentada na prática recente de falta grave durante a execução da pena?",
+        "resposta": "Sim, o STJ entende que a determinação de exame criminológico para progressão de regime é válida quando fundamentada na prática recente de falta grave pelo condenado durante a execução da pena, justificando a avaliação do requisito subjetivo para concessão do benefício.",
+        "trecho_referencia": "A determinação de exame criminológico para progressão de regime é válida quando fundamentada na prática recente de falta grave pelo condenado durante a execução da pena, justificando a avaliação do requisito subjetivo para concessão do benefício.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações a omissão em um acórdão, mesmo após a oposição de embargos de declaração, configura ofensa ao art. 535 do CPC/73?",
+        "resposta": "A omissão em um acórdão recorrido, não sanada após a oposição de embargos de declaração, configura ofensa ao art. 535 do CPC/73, sendo causa para provimento de recurso especial.",
+        "trecho_referencia": "PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO. RECURSO ESPECIAL. OFENSA AO ART. 535 DO CPC/73 CONFIGURADA.\n1. Verificada a existência de manifesto vício no acórdão recorrido, o qual não foi sanado mesmo após a oposição de embargos de declaração, fica configurada ofensa ao art. 535 do CPC/73.\n2. Agravo interno provido para desde logo prover o recurso especial.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível utilizar a revisão criminal, com fundamento em alteração jurisprudencial posterior ao trânsito em julgado da sentença condenatória, para obter a absolvição em caso de tráfico de drogas, quando não houve apreensão da substância entorpecente?",
+        "resposta": "Não, a alteração de entendimento jurisprudencial posterior ao trânsito em julgado da sentença condenatória não autoriza a desconstituição da coisa julgada via revisão criminal, em respeito aos princípios da coisa julgada e da segurança jurídica, sendo inviável a reanálise de fatos e provas já decididos.",
+        "trecho_referencia": "A jurisprudência pacificada desta Corte impede o uso de revisão criminal com base em mudança de entendimento jurisprudencial posterior ao trânsito em julgado, em respeito aos princípios da coisa julgada e da segurança jurídica (Súmula 83/STJ).\n\nA revisão criminal não pode ser utilizada para reanálise de fatos e provas já decididos em instâncias ordinárias, salvo nas hipóteses estritas previstas no art. 621 do Código de Processo Penal, o que não ocorre no presente caso.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ possui jurisprudência consolidada sobre a possibilidade de exclusão dos valores repassados a terceiros (credenciados) da base de cálculo da COFINS para operadoras de planos de saúde, considerando o disposto no art. 3º, § 2º, III, da Lei n. 9.718/98?",
+        "resposta": "O STJ entende que a exclusão dos valores repassados a credenciados da base de cálculo da COFINS para operadoras de planos de saúde, com base no art. 3º, § 2º, III, da Lei n. 9.718/98, depende de regulamentação do Poder Executivo, a qual não foi implementada.",
+        "trecho_referencia": "A decisão agravada registrou estar harmônico com a jurisprudência de ambas as Turmas da Primeira Seção o acórdão recorrido, no que reconheceu a inviabilidade, com fulcro no art. 3º, § 2º, III, da Lei n. 9.718/98, de se excluírem da base de cálculo da COFINS os valores repassados aos credenciados, tendo em vista estar a dita exclusão condicionada a regulamento do Poder Executivo, o qual não foi implementado.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em ações de saúde que envolvem medicamentos não incorporados ao SUS, mas registrados na ANVISA, qual o juízo competente para processamento e julgamento da demanda após a decisão do STF no RE 1.366.243/SC (Tema 1.234) e o julgamento do IAC 14/STJ, e como se define 'medicamento não incorporado'?",
+        "resposta": "Após o julgamento do IAC 14/STJ e a decisão do STF no RE 1.366.243/SC (Tema 1.234), em ações relativas a medicamentos não incorporados ao SUS, o processo deve ser processado e julgado no juízo (estadual ou federal) onde a ação foi proposta, sendo vedada a declinação da competência ou a inclusão da União no polo passivo. O STF define 'medicamentos não incorporados' como aqueles que não constam na política pública do SUS, estão previstos nos PCDTs para outras finalidades, não possuem registro na ANVISA, ou são usados off label sem PCDT ou não integram listas do componente básico.",
+        "trecho_referencia": "Nas demandas judiciais relativas a medicamentos não incorporados ao SUS: devem ser processadas e julgadas pelo Juízo, estadual ou federal, em que foram propostas pelo cidadão, sendo vedada, até o julgamento definitivo do Tema 1.234 da repercussão geral, a declinação da competência ou a determinação de inclusão da União no polo passivo; (iii) diante da necessidade de evitar cenário de insegurança jurídica, esses parâmetros devem ser observados pelos processos sem sentença prolatada; [...] A Suprema Corte definiu como \"medicamentos não incorporados\" aqueles que: a) não constam na política pública do SUS, b) estejam previstos nos PCDTs para outras finalidades, c) sem registro na ANVISA, e d) seja usados off label sem PCDT ou que não integrem listas do componente básico.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações o STJ não admite embargos de divergência?",
+        "resposta": "O STJ não admite embargos de divergência quando o recurso especial não é conhecido (Súmula 315) ou quando não há demonstração de similitude fático-processual entre o acórdão embargado e o paradigma por meio de cotejo analítico.",
+        "trecho_referencia": "1. A análise do mérito da decisão recorrida e paradigma é pressuposto dos embargos de divergência, motivo pelo qual não são admitidos quando os recursos não são conhecidos, conforme orientação da Súmula 315 deste STJ (\"não cabem embargos de divergência no âmbito do agravo de instrumento que não admite recurso especial\").\n2. Não são cabíveis embargos de divergência quando não demonstrado, por meio de cotejo analítico, similitude fático-processual entre o acórdão embargado e o paradigma, nos termos do art. 1.043 do CPC, devendo ser mantido o seu indeferimento liminar.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É cabível habeas corpus contra decisão de autoridade judiciária que indefere pedido de inclusão de terceiro no polo passivo de ação penal?",
+        "resposta": "Não, não é cabível habeas corpus contra autoridade judiciária para inclusão de terceiro no polo passivo de ação penal, pois compete ao Ministério Público decidir quem denunciar.",
+        "trecho_referencia": "não é cabível habeas corpus contra autoridade judiciária no intuito de inclusão de terceiro no polo passivo de ação penal, pois compete ao Ministério Público, na condição de dominus litis, formar a opinio delicti e decidir quem denunciar em caso de ação penal pública",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em execuções fiscais, é possível alegar imunidade tributária por meio de exceção de pré-executividade? Qual o entendimento do STJ sobre a necessidade de dilação probatória para comprovar tal imunidade?",
+        "resposta": "O STJ, por meio da Súmula 393, entende que a exceção de pré-executividade é admissível na execução fiscal em relação a matérias conhecíveis de ofício que não demandem dilação probatória. A análise de imunidade tributária que exige dilação probatória é inviável em sede de exceção de pré-executividade.",
+        "trecho_referencia": "De acordo com a Súmula 393/STJ, \"a exceção de pré-executividade é admissível na execução fiscal relativamente às matérias conhecíveis de ofício que não demandem dilação probatória\".",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera legal a revogação do livramento condicional se a suspensão cautelar do benefício ocorreu antes do término do período de prova, mesmo que a revogação propriamente dita ocorra após o término?",
+        "resposta": "Sim, o STJ entende que não há ilegalidade na revogação do livramento condicional se o Juiz da VEC suspendeu cautelarmente o benefício antes do término do período de prova, quando ainda não expirado o prazo de sua vigência, conforme o art. 86, I, do CP.",
+        "trecho_referencia": "Não há ilegalidade na revogação do livramento condicional, conforme o estabelecido no art. 86, I, do CP, se o Juiz da VEC suspendeu cautelarmente o benefício antes do término do período de prova, quando ainda não expirado o prazo de sua vigência.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em ações de indenização por danos morais, qual o entendimento do STJ sobre a possibilidade de reexame do valor fixado a título de indenização por danos morais em recurso especial, quando a análise da configuração do ato ilícito e do valor da indenização demanda o reexame de provas?",
+        "resposta": "O STJ entende que a análise da configuração de ato ilícito e o reexame do valor fixado a título de indenização por danos morais demandariam o reexame de provas, o que é vedado pela Súmula 7 do STJ em sede de recurso especial. Além disso, a existência de óbice processual impede o conhecimento de questão suscitada pela alínea 'a' da Constituição, prejudicando a análise da divergência jurisprudencial sobre o tema.",
+        "trecho_referencia": "A partir da análise dos elementos fático-probatórios dos autos, concluiu pela caracterização da responsabilidade civil da agravante e adequação do valor arbitrado a título de indenização por danos morais, em R$ 40.000,00 (quarenta mil reais). Alterar a conclusão do acórdão recorrido, seria necessário o reexame de provas, providência descabida no âmbito do recurso especial, nos termos da Súmula n. 7 desta Corte Superior.\nEm relação ao dissenso pretoriano, cabe ressaltar que, segundo entendimento desta Corte Superior, a existência de óbice processual impendido conhecimento de questão suscitada pela alínea a, da previsão constitucional, prejudica a análise da divergência jurisprudencial acerca do tema.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em contratos de adesão de consumo, qual o entendimento do STJ sobre a validade da cláusula compromissória de arbitragem quando o consumidor demonstra discordância ao ajuizar ação no Poder Judiciário?",
+        "resposta": "O STJ entende que, em contratos de adesão caracterizados por relação de consumo, a validade da cláusula compromissória está condicionada à efetiva concordância do consumidor no momento da instauração do litígio. O ajuizamento de ação judicial pelo consumidor caracteriza sua discordância em submeter-se ao Juízo Arbitral, não prevalecendo a cláusula.",
+        "trecho_referencia": "Nos termos da jurisprudência do STJ, a validade da cláusula compromissória, em contrato de adesão caracterizado por relação de consumo, está condicionada à efetiva concordância do consumidor no momento da instauração do litígio entre as partes, consolidando-se o entendimento de que o ajuizamento, por ele, de ação perante o Poder Judiciário caracteriza-se a sua discordância em submeter-se ao Juízo Arbitral, não podendo prevalecer a cláusula que impõe a sua utilização.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de tráfico privilegiado de drogas, qual o entendimento do STJ sobre a aplicação da fração máxima de diminuição de pena (2/3) prevista no art. 33, § 4º, da Lei n. 11.343/2006, quando há indícios de vínculo do réu com organização criminosa?",
+        "resposta": "O STJ entende que a vinculação eventual do agente com organização criminosa constitui fundamento concreto que justifica a aplicação da causa de diminuição de pena do tráfico privilegiado em patamar inferior ao máximo (2/3).",
+        "trecho_referencia": "A aplicação da causa de diminuição de pena prevista no art. 33, § 4º, da Lei n. 11.343/2006 em patamar diverso do máximo permitido é justificada por fundamentos concretos, como a eventual vinculação do agente com organização criminosa.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações o STJ considera válida a busca pessoal realizada com base em denúncia anônima, e quais os requisitos para que essa busca não seja considerada nula?",
+        "resposta": "O STJ entende que a busca pessoal realizada com base em denúncia anônima especificada, que apresente detalhes e seja confirmada por diligências policiais prévias, gerando fundada suspeita de posse de drogas ou outros objetos ilícitos, é válida e não configura nulidade.",
+        "trecho_referencia": "A abordagem dos policiais somente ocorreu em razão de informações anônimas especificadas, com descrição detalhada de que dois indivíduos com as características da agravante e do corréu estavam traficando drogas e foram flagrados com 370g de maconha, denúncia esta que fora minimamente confirmada pela diligência policial, o que caracteriza exercício regular da atividade investigativa promovida por esta autoridade.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera que há negativa de prestação jurisdicional quando a questão tida por omitida é arguida somente nos embargos de declaração, e não em momento anterior no processo?",
+        "resposta": "Não, o STJ entende que não há negativa de prestação jurisdicional se a questão omitida foi arguida somente nos embargos de declaração e não em momento anterior, como nas contrarrazões de apelação.",
+        "trecho_referencia": "A arguição da questão tida por omitida somente nos embargos de declaração e não nas contrarrazões de apelação, peça, no caso, sequer apresentada na origem, manifesta inovação recursal, situação em que o Superior Tribunal de Justiça entende não haver negativa de prestação jurisdicional. Precedentes.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É cabível recurso especial por alegação de violação a decreto regulamentar?",
+        "resposta": "Não. A alegação de violação de decreto regulamentar não enseja a análise da controvérsia em recurso especial, por não se enquadrar no conceito de tratado ou lei federal.",
+        "trecho_referencia": "Consoante a pacífica jurisprudência desta Corte Superior, o conceito de tratado ou lei federal, inserto no art. 105, inciso III, alínea a, da Constituição Federal, deve ser considerado em seu sentido estrito para fins de cabimento de recurso especial. No caso em exame, a parte recorrente alegou violação do art. 186 do Decreto regulamentar 10.854/2021, ato normativo que não se enquadra no conceito de tratado ou lei federal, inviabilizando a análise da controvérsia em recurso especial.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em um caso de homicídio, a ausência de fatos novos ou contemporâneos pode impedir a decretação ou manutenção da prisão preventiva?",
+        "resposta": "Sim, a prisão preventiva deve ser fundamentada em fatos novos ou contemporâneos que justifiquem a medida. A ausência de contemporaneidade e de fatos novos torna a prisão preventiva ilegal.",
+        "trecho_referencia": "A prisão preventiva deve ser fundamentada em fatos novos ou contemporâneos que justifiquem a medida. A ausência de contemporaneidade e de fatos novos torna a prisão preventiva ilegal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível desclassificar o crime de extravio culposo de armamento (art. 265 e 266 do CPM) para o crime de peculato culposo, em face do princípio da especialidade?",
+        "resposta": "Não, a tipificação nos artigos 265 e 266 do Código Penal Militar (CPM) se sobrepõe à de peculato culposo pela especialidade, considerando-se a gravidade e a essencialidade do armamento para a função militar.",
+        "trecho_referencia": "A desclassificação da conduta de extravio de armamento para peculato culposo é inviável, pois a tipificação nos artigos 265 e 266 do Código Penal Militar (CPM) se sobrepõe pela especialidade, considerando-se a gravidade e a essencialidade do armamento para a função militar.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em um caso de furto qualificado com continuidade delitiva, qual a orientação do STJ sobre a necessidade de indicação expressa do dispositivo constitucional que autoriza a interposição de recurso especial?",
+        "resposta": "O STJ entende que a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial implica seu não conhecimento, salvo se as razões recursais demonstrarem, de forma inequívoca, a hipótese de seu cabimento.",
+        "trecho_referencia": "A jurisprudência do STJ estabelece que a falta de indicação expressa da norma constitucional que autoriza a interposição do recurso especial implica seu não conhecimento, salvo se as razões recursais demonstrarem, de forma inequívoca, a hipótese de seu cabimento.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o entendimento do STJ sobre a responsabilidade e o valor da indenização por danos morais em casos de erro médico decorrente de alta hospitalar precoce que leva ao agravamento do quadro clínico do paciente, como perfuração intestinal e peritonite?",
+        "resposta": "O STJ entende que é devida indenização por danos morais quando o paciente tem seu quadro clínico agravado por falha na prestação de serviço médico, como alta hospitalar precoce e indevida, resultando em perfuração intestinal, peritonite e necessidade de nova cirurgia. O valor da indenização deve ser proporcional ao dano, sendo mantido o montante de R$ 20.000,00 quando não se mostra exorbitante diante da conduta do médico em dar alta ao paciente mesmo com relatos de dor.",
+        "trecho_referencia": "CONSUMIDOR. AGRAVO INTERNO NO RECURSO ESPECIAL. AÇÃO DE INDENIZAÇÃO. FALHA NA PRESTAÇÃO DE SERVIÇOS. PÓS-OPERATÓRIO. AGRAVAMENTO DO QUADRO CLÍNICO. ALTA MÉDICA PRECOCE E INDEVIDA. APENDICITE. PERFURAÇÃO INTESTINAL. PERITONITE. QUANTUM INDENIZATÓRIO. PROPORCIONALIDADE. AGRAVO INTERNO DESPROVIDO.\n2. Na espécie, o montante de R$ 20.000,00 (vinte mil reais), fixado a título de compensação por danos morais, não se mostra exorbitante, razão pela qual deve ser mantido, notadamente pela conduta do agravante de dar alta médica ao paciente, mesmo com intensos relatos de dor.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de múltiplos advogados habilitados, a intimação é considerada nula se realizada em nome de apenas um deles, mesmo que não haja solicitação prévia para intimação exclusiva em nome de um patrono específico?",
+        "resposta": "Não, o STJ entende que, havendo vários advogados habilitados a receber intimações, é válida a publicação realizada na pessoa de apenas um deles, a menos que haja requerimento prévio para que sejam feitas exclusivamente em nome de determinado patrono.",
+        "trecho_referencia": "O Superior Tribunal de Justiça, há muito, consagrou o entendimento de que, havendo vários advogados habilitados a receber intimações, é válida a publicação realizada na pessoa de apenas um deles. A nulidade das intimações só se verifica quando há requerimento prévio para que sejam feitas exclusivamente em nome de determinado patrono.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É cabível a interposição de embargos de divergência quando o acórdão embargado não analisa o mérito do recurso especial, restringindo-se à análise dos requisitos de admissibilidade?",
+        "resposta": "Não, não se admite a interposição de embargos de divergência quando o acórdão embargado não analisa o mérito do recurso especial, limitando-se a discutir requisitos de admissibilidade, conforme a Súmula 315/STJ.",
+        "trecho_referencia": "Não se admite a interposição de embargos de divergência, quando não tiver sido apreciado o mérito do recurso especial, a teor do que dispõe a Súmula 315/STJ, cujo entendimento se alinha ao disposto no art. 1.043, I e III do CPC/2015. Precedentes.",
+        "doc_id": "null"
+    },
+    {
+        "query": "No crime de estupro de vulnerável, a utilização da tenra idade da vítima como circunstância judicial desfavorável na primeira fase da dosimetria da pena configura bis in idem, considerando a elementar do tipo penal?",
+        "resposta": "O STJ entende que a tenra idade da vítima (ex: quatro anos) no crime de estupro de vulnerável é uma circunstância legítima para exasperar a pena-base, não configurando bis in idem, pois quanto mais jovem a criança, maior o grau de vulnerabilidade e, por conseguinte, maior a reprovabilidade da conduta.",
+        "trecho_referencia": "Conforme abordado na decisão agravada, no que diz respeito às circunstâncias do crime, o Tribunal de Justiça estadual agiu na mais absoluta congruência com a jurisprudência desta Corte, sedimentada no sentido de que a tenra idade (quatro anos) é uma circunstância legítima a ensejar a exasperação da pena-base, em observância ao princípio da proporcionalidade. Pois, quanto mais jovem a criança, maior o grau de vulnerabilidade e, por conseguinte, maior a reprovabilidade da conduta. Precedentes.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível a manutenção da prisão preventiva para garantia da ordem pública em casos de tráfico de drogas, quando o réu é reincidente, mesmo após a superveniência de sentença condenatória fixando o regime semiaberto?",
+        "resposta": "Sim, a reincidência justifica a manutenção da prisão preventiva para garantia da ordem pública, mesmo após a superveniência de sentença condenatória que estabelece o regime semiaberto, desde que haja compatibilização da prisão preventiva com as regras do regime intermediário.",
+        "trecho_referencia": "A reincidência justifica a manutenção da prisão preventiva para garantia da ordem pública, sendo esta compatível com o regime semiaberto, desde que haja compatibilização com as regras do regime intermediário.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em caso de roubo majorado pelo concurso de agentes e uso de arma branca, qual o entendimento do STJ sobre a necessidade de fundamentação concreta para a aplicação cumulativa das causas de aumento na terceira fase da dosimetria da pena, considerando a Súmula 443 do STJ?",
+        "resposta": "O STJ entende que a aplicação cumulativa das majorantes de concurso de agentes e uso de arma branca no crime de roubo é válida, desde que devidamente fundamentada na maior reprovabilidade da conduta, evidenciada pelas peculiaridades concretas do delito, como o número de agentes e a utilização de armas. A fundamentação deve ir além da mera indicação do número de majorantes, conforme a Súmula 443 do STJ.",
+        "trecho_referencia": "No caso, a elevação da pena em 1/2 foi fundamentada nas peculiaridades concretas do delito, notadamente a participação de três agentes e o uso de duas armas brancas (faca e machadinha), evidenciando a maior reprovabilidade da conduta, o que justifica o aumento cumulativo das majorantes na terceira fase da dosimetria.\nNos termos da Súmula 443 do STJ, o aumento da pena no crime de roubo circunstanciado exige fundamentação concreta, não sendo suficiente a mera indicação do número de majorantes. O julgador justificou adequadamente a fração de aumento com base na superioridade numérica dos agentes e na utilização das armas, observando o princípio da individualização da pena.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ entende que o pedido de gratuidade da justiça pode ser feito em qualquer momento do processo, inclusive em sede de recurso especial?",
+        "resposta": "Sim, o STJ entende que o pedido de gratuidade da justiça pode ser formulado em qualquer momento do processo, havendo presunção juris tantum de hipossuficiência em favor da pessoa física.",
+        "trecho_referencia": "O pedido de Justiça gratuita pode ser formulado em qualquer momento do processo. Para fins de concessão, há presunção juris tantum de que a pessoa física requerente não possui condições de arcar com as despesas do processo sem comprometer o próprio sustento ou de sua família, podendo o magistrado indeferir o requerimento se encontrar elementos que infirmem a alegada hipossuficiência.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ tem jurisprudência consolidada sobre a aplicação do princípio da insignificância em casos de furto, quando o réu é reincidente e o valor da res furtiva é inferior a 20% do salário mínimo?",
+        "resposta": "Sim, o STJ entende que a reincidência e a habitualidade delitiva do réu afastam a aplicação do princípio da insignificância, mesmo que o valor da res furtiva seja considerado baixo (no caso, cerca de 20% do salário mínimo). A análise do valor da res furtiva deve ser feita em conjunto com a conduta social do agente.",
+        "trecho_referencia": "4. A reincidência e a habitualidade delitiva do agravante demonstram elevado grau de reprovabilidade da conduta, afastando a aplicação do princípio da insignificância.\n5. O valor da res furtivae equivalente a cerca de 20% do salário mínimo vigente, não caracteriza lesão patrimonial irrelevante.\nTese de julgamento: \"1. A reincidência e a habitualidade delitiva afastam a aplicação do princípio da insignificância. 2. O valor da res furtiva deve ser considerado em conjunto com a conduta social do agente para a aplicação do princípio da insignificância.\"",
+        "doc_id": "null"
+    },
+    {
+        "query": "Após a Lei nº 14.230/2021, é necessária a comprovação de dolo específico para a condenação por improbidade administrativa em casos de frustração do caráter concorrencial de licitação e prejuízo ao erário, ou a mera demonstração de dolo genérico é suficiente?",
+        "resposta": "É necessária a comprovação de dolo específico na conduta do agente público, consistente em frustrar o caráter concorrencial de licitação para beneficiar empresa contratada por valores superiores aos de mercado, para manter a condenação por improbidade administrativa, mesmo à luz da Lei n. 14.230/2021, com fundamento nos arts. 10, VIII, e 11, V, da LIA.",
+        "trecho_referencia": "No caso em testilha, de acordo com o quadro fático delineado pelo Tribunal de origem, foram comprovados o prejuízo ao erário e o dolo específico na conduta do então alcaide, consistente em frustrar, em ofensa à imparcialidade, o caráter concorrencial de procedimento licitatório, com vistas a beneficiar a empresa que foi contratada para o fornecimento de produto mediante o pagamento de valores muito superiores àqueles praticados no mercado.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de roubo majorado, o fato de o crime ter sido cometido contra agência bancária com forte esquema de segurança e a fuga ter envolvido troca de tiros com policiais justifica a elevação da pena-base acima do mínimo legal?",
+        "resposta": "Sim, o STJ entende que a audácia e periculosidade do agente, demonstradas no assalto a agência bancária com forte esquema de segurança e na fuga com troca de tiros com policiais, justificam a elevação da pena-base acima do mínimo legal.",
+        "trecho_referencia": "No caso concreto, não se verifica ilegalidade flagrante que justifique a concessão da ordem de ofício, pois extrai-se da sentença que \"[a] conduta dos réus, que se animaram a encetar roubo contra uma agência bancária, estabelecimento notoriamente protegido por diversos aparatos de segurança (inclusive vigilantes armados), denota audácia e periculosidade acentuada, demandando maior reprovabilidade. Ademais, quando empreenderam fuga, chegaram a disparar, em via pública, contra viatura policial que os perseguiam, colocando, assim, em risco a integridade física dos transeuntes\".",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em cumprimento de sentença, a execução de um montante expressamente reconhecido em acórdão transitado em julgado configura violação à coisa julgada?",
+        "resposta": "Não, o STJ entende que não há violação à coisa julgada quando o cumprimento de sentença busca executar o montante expressamente reconhecido em acórdão transitado em julgado.",
+        "trecho_referencia": "Não há falar em violação à coisa julgada se, no cumprimento de sentença, o montante executado é aquele que, expressamente, foi reconhecido pelo acórdão que decidiu a controvérsia (indenização securitária) e contra o qual não cabe mais recurso.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível a utilização de acórdão da mesma Turma julgadora como paradigma para embargos de divergência, considerando a alteração na composição do colegiado entre os julgamentos?",
+        "resposta": "Não é possível a indicação de acórdão da mesma Turma julgadora como paradigma de divergência, se, entre a data do julgamento do acórdão paradigma e a data do julgamento do acórdão recorrido, não houve alteração de mais da metade dos membros do órgão colegiado. A ausência de membros na sessão de julgamento não implica alteração da composição da Turma.",
+        "trecho_referencia": "Mesmo com a permissão contida no § 3º do art. 1.043 do novo CPC, é inviável a indicação de acórdão da mesma Turma julgadora como paradigma de divergência, se, entre a data do julgamento do acórdão paradigma e a data do julgamento do acórdão recorrido, não houve alteração de mais da metade dos membros do órgão colegiado. A eventual ausência de um ou mais membros na sessão de julgamento não implica em alteração da composição da Turma julgadora apta a justificar o preenchimento do requisito do § 3º do art. 1.043 do novo CPC.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de tráfico de drogas, quais são os critérios utilizados pelo STJ para validar a entrada em domicílio sem mandado judicial, e como a Teoria dos Frutos da Árvore Envenenada é aplicada nesses casos?",
+        "resposta": "O STJ entende que a entrada em domicílio sem mandado judicial é válida quando há fundadas razões que indiquem flagrante delito, especialmente em crimes permanentes como o tráfico de drogas. Nesses casos, a Teoria dos Frutos da Árvore Envenenada pode ser relativizada para preservar a segurança pública e a efetividade da persecução penal, desde que as circunstâncias evidenciem a existência de crime em curso.",
+        "trecho_referencia": "A entrada em domicílio sem mandado judicial é válida quando há fundadas razões que indiquem flagrante delito, conforme jurisprudência do STF e STJ.\n A relativização da Teoria dos Frutos da Árvore Envenenada, em casos como o presente, visa preservar a segurança pública e a efetividade da persecução penal, quando as circunstâncias evidenciam a existência de crime em curso e justificam a mitigação do direito à inviolabilidade do domicílio.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de homicídio qualificado, qual o entendimento do STJ sobre o método de cálculo do aumento da pena-base quando há circunstâncias judiciais negativas, especificamente em relação ao uso do percentual de 1/8 sobre a diferença entre as penas máxima e mínima?",
+        "resposta": "O STJ entende que é válido o ajuste da pena-base em casos de homicídio qualificado, com o aumento de 1/8 para cada circunstância judicial negativa, utilizando como parâmetro a diferença entre as penas máxima e mínima, desde que a decisão seja devidamente fundamentada, respeitando os princípios da proporcionalidade e razoabilidade.",
+        "trecho_referencia": "A pena-base foi ajustada para 21 anos de reclusão, considerando o aumento de 1/8 para cada circunstância judicial negativa, conforme parâmetros aceitos pela jurisprudência do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de roubo majorado pelo concurso de agentes e emprego de arma branca, é possível utilizar a majorante do concurso de agentes para exasperar a pena-base, e quais os requisitos para a comprovação da qualificadora do emprego de arma branca?",
+        "resposta": "Sim, é válida a utilização da majorante do concurso de agentes para exasperar a pena-base em casos de roubo majorado. A qualificadora do emprego de arma branca pode ser comprovada pelo relato da vítima e pela apreensão do artefato, sendo incabível o revolvimento fático-probatório em sede de habeas corpus para seu afastamento.",
+        "trecho_referencia": "Não há ilegalidade na utilização de majorante sobejante (concurso de agentes) para a exasperação da pena-base.\nA qualificadora do emprego de arma restou comprovada pelo relato da vítima e pela apreensão do artefato, de modo que para o seu afastamento seria necessário o revolvimento fático-probatório dos autos, incabível nesta via.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em crimes de corrupção ativa e passiva, o Superior Tribunal de Justiça (STJ) considera válida a decretação da prisão preventiva para garantir a instrução processual, caso haja indícios de ameaças ou intimidações a testemunhas por parte do investigado?",
+        "resposta": "Sim, o STJ entende que a prisão preventiva é válida para garantir a instrução processual quando há indícios de que o investigado está ameaçando ou intimidando testemunhas, especialmente se houver previsão de reavaliação da necessidade da prisão após o encerramento da fase de investigação.",
+        "trecho_referencia": "Para o colegiado, que referendou a decisão monocrática do Relator, a prisão preventiva foi mantida porque o paciente estaria interferindo de forma clara e direta junto a testemunhas. Precisamente: \"o investigado, ao retomar suas funções como magistrado, entrou em contato com testemunhas oculares dos supostos delitos em investigação, gerando nelas temor e receio reverenciais\". Ademais, o Relator do caso se comprometeu em reavaliar a necessidade da prisão preventiva do paciente por ocasião da decisão de recebimento ou não da denúncia.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Quais os requisitos para a configuração da usucapião extraordinária, segundo o entendimento do STJ, especialmente no que se refere ao lapso temporal e à natureza da posse?",
+        "resposta": "O STJ entende que a usucapião extraordinária, nos termos do art. 1.238 do Código Civil, exige o prazo de 15 anos (salvo exceções), posse mansa, pacífica e ininterrupta, independentemente de justo título e boa-fé. O não preenchimento desses requisitos inviabiliza a usucapião.",
+        "trecho_referencia": "A usucapião extraordinária, nos termos do art. 1.238 do CC/2002, exige, além da fluência do prazo de 15 (quinze) anos, salvo exceções legais, posse mansa, pacífica e ininterrupta, independentemente de justo título e boa-fé, requisitos estes não preenchidos.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A reincidência do réu, somada à suspeita de participação em organização criminosa e à prática de crimes durante o livramento condicional, são fundamentos suficientes para a decretação e manutenção da prisão preventiva, mesmo diante da alegação de bons predicados pessoais?",
+        "resposta": "Sim, a jurisprudência entende que a reincidência, o suposto pertencimento a organização criminosa e a prática de crimes durante o livramento condicional reforçam a necessidade da custódia cautelar para garantir a ordem pública, e que bons predicados pessoais não afastam essa necessidade.",
+        "trecho_referencia": "A reincidência do paciente, seu suposto pertencimento a organização criminosa e a prática de crimes durante o livramento condicional reforçam a necessidade da custódia cautelar para garantir a ordem pública.\n5. A jurisprudência do tribunal sustenta que bons predicados pessoais não afastam a necessidade da prisão quando há risco à ordem pública.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações o STJ entende que a apreensão de balança de precisão, invólucros de drogas e mensagens incriminatórias justificam a condenação por tráfico de drogas, sem a possibilidade de desclassificação para uso?",
+        "resposta": "O STJ entende que a apreensão de balança de precisão, invólucros de drogas e mensagens incriminatórias são indicativos da mercancia de entorpecentes, o que justifica a condenação por tráfico de drogas e impede a desclassificação para uso.",
+        "trecho_referencia": "Não se admite a desclassificação para uso de drogas, pois as circunstâncias do caso, incluindo a apreensão de balança de precisão, invólucros de drogas e mensagens incriminatórias, indicam a mercancia de entorpecentes, em consonância com a jurisprudência do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em matéria penal, qual o prazo para a oposição dos embargos de declaração e qual a consequência do não cumprimento desse prazo?",
+        "resposta": "Em matéria penal, o prazo para a oposição dos embargos de declaração é de 2 dias, conforme o art. 619 do CPP. O não cumprimento desse prazo leva ao não conhecimento dos embargos por intempestividade.",
+        "trecho_referencia": "Em matéria penal, o prazo para a oposição dos embargos de declaração é de 2 dias, nos termos do art. 619, do CPP.\n2. Na hipótese, o decisum embargado foi disponibilizado no Diário da Justiça Eletrônico/STJ em 18/11/2024 (segunda-feira), considerando-se publicado em 19/11/2024 (terça-feira). Iniciado o decurso do prazo em 21/11/2024 (quinta-feira), primeiro dia útil seguinte ao feriado nacional do Dia Nacional de Zumbi e da Consciência Negra, instituído pela Lei n. 14.759/2023, seu término ocorreu em 22/11/2024 (sexta-feira), conforme certificado à e-STJ fl. 427. Os embargos de declaração ora apreciados (e-STJ fls. 420/425), contudo, foram opostos somente em 27/11/2024 (quarta-feira), quando já ultrapassado o prazo legal de 2 (dois) dias, sendo, assim, extemporâneos.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de desvio de verbas do FUNDEB, PNAE ou SUS, qual é o entendimento do STJ sobre a competência para julgamento: Justiça Federal ou Estadual, mesmo que haja complementação de recursos por parte dos estados ou municípios?",
+        "resposta": "O STJ entende que a Justiça Federal é competente para julgar crimes de malversação de verbas federais destinadas ao FUNDEB, PNAE e SUS, em razão do caráter nacional desses programas, sendo irrelevante a complementação de recursos pela União.",
+        "trecho_referencia": "Nos termos do art. 109, IV, da CF, a Justiça Federal é competente para julgar crimes que envolvam malversação de verbas federais, sendo irrelevante a complementação de recursos pela União, uma vez que os programas FUNDEB, PNAE e SUS têm caráter nacional, atraindo a competência federal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ admite a aplicação retroativa de alteração jurisprudencial, mesmo em processos em curso, quando não se trata de modificação normativa?",
+        "resposta": "Sim, o STJ entende que a alteração jurisprudencial se aplica imediatamente aos processos em curso, sendo possível a retroatividade do novo entendimento, uma vez que não se trata de modificação normativa.",
+        "trecho_referencia": "A jurisprudência desta Corte é no sentido de que a \"alteração jurisprudencial no âmbito desta Corte de Justiça se aplica imediatamente aos processos em curso, sendo possível a retroatividade do novo entendimento jurisprudencial por não se tratar de modificação normativa\" (AgInt no AgInt nos E Dcl no AR Esp n. 2.452.234/PR, relator Ministro Marco Aurélio Bellizze, Terceira Turma, julgado em 27/5/2024, D Je de 29/5/2024).",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de estupro de vulnerável, o conhecimento prévio por parte do agente de que a vítima já sofreu abuso sexual anteriormente justifica a negativação da personalidade na dosimetria da pena? Qual a fração correta de aumento da pena em razão da continuidade delitiva para 5 crimes?",
+        "resposta": "Sim, o conhecimento prévio de abuso sexual anterior sofrido pela vítima justifica a negativação da personalidade do agente. No entanto, o aumento da pena pela continuidade delitiva deve ser de 1/3 para 5 crimes, conforme entendimento jurisprudencial.",
+        "trecho_referencia": "Não se afigura ilegal a negativação da personalidade, diante da indicação de que o paciente, era casado com a tia da vítima e tinha conhecimento de que ela havia sido alvo de estupro praticado pelo próprio pai, tendo de modo frio a submetido a novos abusos sexuais.\n6. O aumento de 2/3 pela continuidade delitiva para 5 crimes está em desacordo com o entendimento jurisprudencial, que prevê aumento de 1/3.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Qual o procedimento a ser adotado em recursos especiais que versam sobre a exclusão de verbas da base de cálculo da contribuição previdenciária patronal e de terceiros (Tema 1174/STJ), tendo em vista a determinação de suspensão nacional dos processos?",
+        "resposta": "Em casos que envolvem a matéria afetada ao Tema 1174/STJ, o STJ determina a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, o acórdão recorrido seja reexaminado e a admissibilidade do recurso especial seja revista.",
+        "trecho_referencia": "Nesse panorama, cabe ao Ministro relator, no Superior Tribunal de Justiça, determinar a devolução dos autos ao Tribunal de origem para que, após o julgamento do paradigma, seja reexaminado o acórdão recorrido e realizada a superveniente admissibilidade do recurso especial.",
+        "doc_id": "null"
+    },
+    {
+        "query": "No crime de tráfico de drogas, o STJ entende que é possível utilizar condenações anteriores distintas para fins de valoração dos maus antecedentes na primeira fase da dosimetria da pena e para fins de reconhecimento da reincidência na segunda fase, sem que isso configure bis in idem?",
+        "resposta": "Sim, o STJ entende que não há bis in idem na utilização de condenações anteriores distintas para valorar os maus antecedentes e a reincidência, uma vez que as condenações utilizadas se referem a fatos distintos.",
+        "trecho_referencia": "Não há bis in idem na consideração de condenações anteriores para valorar os maus antecedentes e a reincidência, uma vez que as condenações utilizadas se referem a fatos distintos, o que é permitido pela jurisprudência consolidada do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A desobediência à ordem de parada por um indivíduo em fuga para evitar prisão em flagrante configura crime de desobediência?",
+        "resposta": "A desobediência à ordem de parada, quando o agente visa evitar sua autoincriminação e preservar seu status libertatis, não configura dolo de desobedecer, caracterizando a atipicidade da conduta, não configurando crime de desobediência.",
+        "trecho_referencia": "A desobediência à ordem de parada, quando o agente visa evitar sua autoincriminação e preservar seu status libertatis, não configura dolo de desobedecer, caracterizando a atipicidade da conduta.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válido o indeferimento da substituição da pena privativa de liberdade por restritivas de direitos (art. 44 do CP) com base em condenações por fatos posteriores ao crime em análise?",
+        "resposta": "Não, o STJ possui jurisprudência firme no sentido de que a condenação por fatos praticados posteriormente ao crime em análise não pode ser utilizada como fundamento idôneo para impedir a aplicação do art. 44 do Código Penal. A primariedade do réu no delito atual e o cumprimento dos demais requisitos legais tornam possível a substituição da pena.",
+        "trecho_referencia": "Contudo, a jurisprudência do Superior Tribunal de Justiça (STJ) é firme no sentido de que a condenação por fatos praticados posteriormente ao crime em análise não pode ser utilizada como fundamento idôneo para impedir a aplicação do art. 44 do Código Penal. A primariedade do réu e o cumprimento dos demais requisitos legais tornam possível a substituição da pena, desde que suficiente para a reprovação do crime (HC n. 534.671/RJ, Rel. Min. Ribeiro Dantas).",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de apreensão de pequena quantidade de droga (6,7 gramas de cocaína), a ausência de outros elementos concretos que indiquem a prática de traficância é suficiente para desclassificar o crime de tráfico para posse para consumo pessoal, aplicando-se o princípio do in dubio pro reo?",
+        "resposta": "Sim, a apreensão de 6,7 gramas de cocaína, por si só, não configura o delito de tráfico de drogas na modalidade de 'ter em depósito', especialmente na ausência de outros elementos concretos que indiquem a prática de traficância. Nesses casos, aplica-se o princípio do in dubio pro reo, prevalecendo a presunção de consumo pessoal.",
+        "trecho_referencia": "A apreensão de 6,7 gramas de cocaína, conforme a jurisprudência do Superior Tribunal de Justiça, não configura, por si só, o delito de tráfico de drogas na modalidade de \"ter em depósito\", especialmente na ausência de outros elementos concretos que indiquem a prática de traficância.\nEm casos de dúvida sobre a finalidade da droga, deve prevalecer a presunção de consumo pessoal, conforme entendimento consolidado no STF, que prescreve parâmetros para diferenciar usuário e traficante (Tema 506).",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ possui jurisprudência consolidada sobre a legalidade do condicionamento do recebimento de pedidos de restituição e declarações de compensação (PER/DCOMP) à prévia entrega da Escrituração Contábil Fiscal (ECF), conforme estabelecido pela Instrução Normativa RFB n. 1.765/2017?",
+        "resposta": "Sim, o STJ entende que não há ilegalidade no condicionamento do recebimento de pedidos de restituição e declarações de compensação à transmissão da Escrituração Fiscal Contábil (ECF), estabelecido pela Instrução Normativa RFB n. 1.765/2017, conforme autorização contida no art. 74, § 13, da Lei n. 9.430/1996.",
+        "trecho_referencia": "A questão submetida à análise não é nova na Corte, tendo a Primeira Seção do Superior Tribunal de Justiça decidido nas duas Turmas de Direito Público, que não há óbice para regulamentação da declaração de compensação por instrução normativa da Receita Federal, bem assim que não há ilegalidade no condicionamento de recebimento de pedidos de restituição e declarações de compensação à transmissão da Escrituração Fiscal Contábil (ECF), estabelecido pela Instrução Normativa RFB n. 1.765/2017, conforme autorização contida no art. 74, § 13, da Lei n. 9.430/1996.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera a passagem de Aspirante a Oficial para 2º Tenente como nomeação ou promoção para fins de aplicação de regra de transição em promoções militares?",
+        "resposta": "O STJ entende que a passagem da graduação de Aspirante a Oficial para o posto de 2º Tenente caracteriza ato de nomeação, e não de promoção, para fins de aplicação da regra de transição quanto ao interstício na primeira promoção do militar.",
+        "trecho_referencia": "A controvérsia restringe-se em definir se a passagem da graduação de Aspirante a Oficial ao posto de 2º Tenente caracteriza ato de nomeação ou de promoção, para fins de aplicação da regra de transição quanto ao interstício na primeira promoção do militar.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Para a configuração do crime de colaboração como informante para o tráfico de drogas (art. 37 da Lei 11.343/2006), é imprescindível a comprovação de que a colaboração se destina a um grupo, organização ou associação criminosa, ou a simples atuação como 'olheiro' para indivíduos não identificados é suficiente para configurar o delito?",
+        "resposta": "A configuração do crime previsto no art. 37 da Lei 11.343/2006 exige que a colaboração do informante se destine a grupo, organização ou associação voltada para o tráfico de drogas. A ausência de comprovação da existência de tal entidade criminosa, com a colaboração sendo direcionada a indivíduos não identificados, configura a atipicidade da conduta.",
+        "trecho_referencia": "O art. 37 da Lei 11.343/2006 exige que a colaboração do informante se destine a grupo, organização ou associação voltada para o tráfico de drogas, e as provas constantes nos autos não confirmam a existência de tal entidade criminosa, limitando-se a indicar que o réu atuava como \"olheiro\" para indivíduos não identificados.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válida a utilização de condenações anteriores que não configuram reincidência para fins de valoração negativa dos maus antecedentes na fixação da pena-base?",
+        "resposta": "Sim, o STJ, em conformidade com o entendimento do STF (Tema 150), admite o uso de condenações antigas como maus antecedentes, mesmo que não configurem reincidência, para fins de exasperação da pena-base.",
+        "trecho_referencia": "O Tribunal de origem justificou adequadamente a exasperação da pena-base em razão dos maus antecedentes do paciente, em conformidade com a jurisprudência do STJ, que admite o uso de condenações antigas como maus antecedentes, mesmo que não configurem reincidência, conforme entendimento consolidado no RE n. 593.818 (Tema n. 150 - STF).",
+        "doc_id": "null"
+    },
+    {
+        "query": "O pedido de transferência de preso para estabelecimento penal próximo ao seu meio social e familiar é um direito absoluto do apenado, ou pode ser indeferido?",
+        "resposta": "A transferência de apenado para estabelecimento penal próximo ao seu meio social e familiar não é um direito absoluto, podendo o juiz ou tribunal indeferir o pedido de forma fundamentada, observada a conveniência da administração e a existência de vaga no local de destino.",
+        "trecho_referencia": "O entendimento do Tribunal de origem está em harmonia com o desta Corte, no sentido de que o pedido de transferência do apenado para cumprir pena em estabelecimento penal próximo ao seu meio social e familiar não é direito absoluto do réu, podendo o Juiz ou o Tribunal de origem indeferir o pleito, desde que de forma fundamentada",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em caso de falha na representação processual, a intimação para regularização deve ser direcionada ao advogado com representação irregular ou à parte?",
+        "resposta": "A intimação para regularização da representação processual deve ser dirigida à parte, e não ao advogado cuja representação se encontra irregular. A ausência de regularização no prazo legal impede o conhecimento do recurso, conforme a Súmula n. 115 do STJ.",
+        "trecho_referencia": "A jurisprudência do STJ estabelece que, constatada falha na representação processual, a intimação deve ser dirigida à parte, e não ao advogado cuja representação é defeituosa, conforme os arts. 76 e 932, parágrafo único, do Código de Processo Civil.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível o cômputo em dobro de pena já extinta, em razão de condições degradantes no sistema carcerário, como forma de remição na execução penal em andamento?",
+        "resposta": "Não, o cômputo em dobro de pena extinta não pode ser utilizado como remição em execução penal atual, pois o ordenamento jurídico não respalda a criação de um 'crédito de pena' contra a Justiça Criminal.",
+        "trecho_referencia": "O ordenamento jurídico não respalda o \"crédito de pena\" ou \"conta corrente\", sendo inadmissível o aproveitamento do cômputo em dobro de pena extinta para abatimento de nova pena.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações o STJ considera nulas as provas obtidas em abordagem policial, especialmente quando há alegação de agressão física por parte dos policiais e a existência de câmeras corporais que registraram a ação?",
+        "resposta": "O STJ, seguindo a Convenção Americana de Direitos Humanos e o Código de Processo Penal, considera nulas as provas obtidas mediante violência física, tortura ou tratamento cruel, desumano ou degradante. A abordagem policial sem fundada suspeita e com emprego de violência configura violação aos direitos humanos e invalida as provas obtidas, especialmente quando comprovada a agressão por meio de registros de câmeras corporais.",
+        "trecho_referencia": "Provas obtidas mediante violência física, tortura ou tratamento cruel, desumano ou degradante são nulas e devem ser desentranhadas do processo. A abordagem policial sem fundada suspeita e com emprego de violência configura violação aos direitos humanos e invalida as provas obtidas.",
+        "doc_id": "null"
+    },
+    {
+        "query": "A desídia do advogado constituído é causa suficiente para a reabertura do prazo recursal em sede de recurso especial?",
+        "resposta": "Não. A suposta desídia do patrono que interpôs intempestivamente o recurso especial não justifica a reabertura do prazo recursal.",
+        "trecho_referencia": "A suposta desídia do patrono que interpôs intempestivamente o recurso especial não é argumento hábil e, portanto, idôneo para o fim de justificar o pleito de reabertura do prazo recursal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ entende que a busca pessoal realizada por guardas municipais é válida apenas quando há correlação com a finalidade de proteção de bens, serviços e instalações municipais, e havendo fundada suspeita?",
+        "resposta": "Sim, o STJ possui jurisprudência consolidada no sentido de que a busca pessoal realizada por guardas municipais exige, além da fundada suspeita, a comprovação da pertinência com sua finalidade institucional, qual seja, a tutela da integridade de bens e instalações municipais, da adequada execução dos serviços municipais e a proteção dos respectivos usuários.",
+        "trecho_referencia": "A diligência realizada pelas guardas municipais exige, além da caracterização da fundada suspeita, a comprovação da pertinência com sua finalidade - tutela da integridade de bens e instalações municipais, da adequada execução dos serviços municipais e proteção dos respectivos usuários (HC n. 830.530/SP, rel. Min. Rogerio Schietti Cruz).",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ admite o uso de habeas corpus como substitutivo de recurso próprio ou revisão criminal?",
+        "resposta": "O STJ não admite o habeas corpus como substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade. A concessão da ordem exige a demonstração de atipicidade das condutas imputadas, causas de rejeição da denúncia ou flagrante constrangimento ilegal.",
+        "trecho_referencia": "A jurisprudência do STJ e do STF não admite o habeas corpus como substitutivo de recurso próprio, salvo em casos de flagrante ilegalidade.\n4. No caso concreto, não se verificou atipicidade das condutas imputadas, nem causas de rejeição da denúncia ou flagrante constrangimento ilegal.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O tempo de trabalho realizado pelo apenado em período anterior ao início da execução da pena pode ser considerado para fins de remição?",
+        "resposta": "Não, o STJ entende que a remição da pena pelo trabalho é restrita ao período de execução penal, não sendo possível computar o tempo de trabalho realizado antes do início da execução da pena para fins de remição.",
+        "trecho_referencia": "A remição da pena pelo trabalho é restrita ao período de execução penal, conforme dispõe o art. 126 da LEP, aplicável a condenados que cumprem pena em regime fechado ou semiaberto, ou eventualmente durante prisão cautelar.\nA jurisprudência consolidada do Superior Tribunal de Justiça exige que o tempo laborado seja posterior ao início da execução penal, vedando a contagem de trabalho realizado enquanto o condenado se encontrava em liberdade, sob pena de criar uma espécie de \"crédito de pena\" não previsto em lei.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ possui entendimento consolidado sobre a condenação do exequente em honorários sucumbenciais nos casos de reconhecimento da prescrição intercorrente, considerando o princípio da causalidade e a possível inércia do credor?",
+        "resposta": "Não cabe a condenação do exequente ao pagamento de honorários sucumbenciais em caso de prescrição intercorrente, mesmo diante da resistência do exequente ou sua inércia, em razão do princípio da causalidade. A causalidade está relacionada a quem motivou o ajuizamento da execução, ou seja, o devedor inadimplente.",
+        "trecho_referencia": "Em caso de prescrição intercorrente, não cabe a condenação do exequente ao pagamento de honorários sucumbenciais, em razão do princípio da causalidade. A resistência do exequente ao reconhecimento da prescrição e sua inércia durante o prazo prescricional não alteram a aplicação do princípio da causalidade.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de roubo majorado, qual o entendimento do STJ sobre a caracterização da participação de menor importância quando o agente auxilia na fuga e guarda os bens subtraídos?",
+        "resposta": "O STJ entende que não se configura participação de menor importância quando o agente tem envolvimento substancial no crime, como auxiliar na fuga dos corréus e guardar os bens subtraídos, pois demonstra uma participação relevante na execução do delito.",
+        "trecho_referencia": "A participação do agente não foi considerada de menor importância, pois houve envolvimento substancial na prática do crime ao levar, no próprio veículo, os corréus, dar-lhes fuga e ainda guardar os bens subtraídos.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de tráfico de drogas, o STJ entende que a realização de campana policial em propriedade de terceiros, sem mandado judicial, valida a prisão em flagrante ocorrida em via pública?",
+        "resposta": "Sim, o STJ entende que a campana policial em imóvel de terceiro, sem mandado judicial, é válida se o flagrante delito e a apreensão de drogas ocorrem em via pública.",
+        "trecho_referencia": "Não há nulidade a ser reconhecida, pois os policiais se valeram de imóvel de terceiro para a realização de campana, após a visualização de movimentação típica de mercancia ilícita, e o flagrante delito e a apreensão das drogas com o agravante ocorreu em plena via pública.",
+        "doc_id": "null"
+    },
+    {
+        "query": "No âmbito do direito previdenciário, qual o entendimento do STJ sobre a comprovação do afastamento da nocividade da exposição a agentes químicos, físicos ou biológicos em virtude do uso de Equipamento de Proteção Individual (EPI) eficaz, e a quem compete o ônus da prova dessa eficácia em caso de contestação judicial?",
+        "resposta": "O STJ afetou ao rito dos recursos repetitivos (Tema 1090) a controvérsia sobre se a anotação positiva no Perfil Profissiográfico Previdenciário (PPP) quanto ao uso do Equipamento de Proteção Individual (EPI) eficaz comprova o afastamento da nocividade da exposição a agentes químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física, e a qual das partes compete o ônus da prova da eficácia do EPI em caso de contestação judicial.",
+        "trecho_referencia": "Delimitação da controvérsia afetada:\n1) Saber se a anotação positiva no Perfil Profissiográfico Previdenciário (PPP) quanto ao uso do Equipamento de Proteção Individual (EPI) eficaz comprova o afastamento da nocividade da exposição aos agentes químicos, físicos, biológicos ou associação de agentes prejudiciais à saúde ou à integridade física.\n2) Saber a qual das partes compete o ônus da prova da eficácia do Equipamento de Proteção Individual (EPI), em caso de contestação judicial da anotação positiva no Perfil Profissiográfico Previdenciário (PPP).",
+        "doc_id": "null"
+    },
+    {
+        "query": "O não conhecimento ou a improcedência do agravo interno enseja a imposição automática da multa prevista no art. 1.021, § 4º, do Código de Processo Civil?",
+        "resposta": "O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a imposição automática da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.",
+        "trecho_referencia": "O Superior Tribunal de Justiça tem entendimento firmado no sentido de que o não conhecimento ou a improcedência do agravo interno não enseja a imposição automática da multa prevista no art. 1.021, § 4º, do Código de Processo Civil.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Como o STJ tem interpretado a obrigatoriedade de registro em conselho profissional e o pagamento de anuidades, especialmente em relação à atividade básica da empresa e à legislação vigente no momento do registro?",
+        "resposta": "O STJ entende que a obrigatoriedade de registro em conselho profissional e o pagamento de anuidades são determinados pela atividade básica da empresa, conforme a legislação vigente à época do registro. Se a atividade não estiver sujeita à fiscalização do conselho, a cobrança é considerada indevida.",
+        "trecho_referencia": "Consoante se verifica dos excertos colacionados do aresto recorrido, a Corte Regional, fundamentada nos elementos fáticos dos autos, concluiu que o registro da empresa recorrida no conselho recorrente teria ocorrido em 27/8/1991, época em que a legislação regente do tema (Lei n. 6.839/1980) dispunha que a obrigação de registro, perante o conselho e, consequentemente, o pagamento de anuidades, eram determinados pela atividade efetivamente desenvolvida pela empresa, sendo que, apenas a partir da Lei n. 12.514/2011, houve a alteração do fato gerador da anuidade, que passou a ser a inscrição no respectivo conselho, pelo que entendeu não ser descabida a cobrança das respectivas anuidades.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de tráfico de drogas, o STJ considera legal a busca pessoal baseada em fundada suspeita, mesmo que o indivíduo esteja em local conhecido por tráfico?",
+        "resposta": "O STJ entende que a busca pessoal é legal se houver fundada suspeita, especialmente em locais conhecidos por tráfico de drogas, não configurando, por si só, ilegalidade que justifique a concessão de habeas corpus.",
+        "trecho_referencia": "Não se verificou flagrante ilegalidade na busca pessoal, pois havia fundada suspeita justificada pelo comportamento do paciente em local conhecido por tráfico.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de extinção do processo por perda superveniente do objeto, como o STJ tem aplicado o princípio da causalidade para fins de condenação em honorários advocatícios sucumbenciais?",
+        "resposta": "O STJ entende que, em casos de extinção do processo sem resolução do mérito por perda do objeto, a análise da causalidade para condenação em honorários sucumbenciais deve considerar quem deu causa à propositura da ação, e não quem deu causa à extinção do processo.",
+        "trecho_referencia": "Nos termos da jurisprudência do Superior Tribunal de Justiça, \"a análise da causalidade para condenação em honorários sucumbenciais nas hipóteses de perda de objeto, não se faz a partir da perquirição de quem deu causa à extinção do processo, mas sim de quem deu causa à sua propositura\" (AgInt no AREsp n. 2.315.883/RN, relator Ministro Herman Benjamin, Segunda Turma, julgado em 25/9/2023, DJe de 18/12/2023).",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ admite embargos de declaração em habeas corpus quando há reiteração de pedido já apreciado em impetração anterior?",
+        "resposta": "Não, o STJ não admite embargos de declaração em habeas corpus quando configuram mera reiteração de pedido já apreciado em habeas corpus anterior, sem apontar vícios específicos no acórdão, e visam rediscutir matéria já decidida.",
+        "trecho_referencia": "A jurisprudência do Superior Tribunal de Justiça veda a reiteração de habeas corpus com idêntica causa de pedir e pedido, quando a matéria já foi analisada e decidida de forma definitiva, nos termos do art. 210 do RISTJ.\n\nNo caso concreto, o embargante não aponta qualquer vício específico no acórdão, limitando-se a reiterar argumentos sobre a suposta inocência, os quais já foram devidamente analisados e rejeitados no HC 839024/SP.\n\nA oposição de embargos de declaração como forma de rediscutir matéria já decidida caracteriza insatisfação com o resultado do julgamento, não configurando vício processual que justifique sua admissibilidade.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ considera válida a juntada de procuração em data posterior à interposição do recurso para fins de regularização da representação processual, mesmo que exista procuração nos autos principais?",
+        "resposta": "Não. O STJ entende que é imprescindível que a outorga de poderes ao advogado seja anterior à interposição do recurso para regularizar a representação processual, sendo irrelevante a existência de mandato nos autos principais.",
+        "trecho_referencia": "Imprescindível para regularização da representação processual que a outorga de poderes tenha sido efetuada em data anterior à da interposição do recurso. Irrelevante a existência de instrumento de mandato nos autos principais, porque cabe à parte providenciar a juntada de documento hábil a comprovar sua capacidade postulatória no processo em que pretende interpor recurso.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O depósito judicial integral para garantia do juízo em cumprimento provisório de sentença afasta a aplicação da multa prevista no art. 523, § 1º, do CPC/2015, conforme entendimento do STJ?",
+        "resposta": "Sim, o STJ possui jurisprudência no sentido de que o depósito judicial integral do valor executado em cumprimento provisório de sentença, realizado para garantia do juízo, é suficiente para afastar a multa prevista no art. 523, § 1º, do CPC/2015. Tal depósito não se confunde com pagamento voluntário.",
+        "trecho_referencia": "O depósito judicial em cumprimento provisório de sentença não se confunde com pagamento voluntário, mas é suficiente para afastar a multa do art. 523, § 1º, do CPC/2015, conforme jurisprudência do STJ.",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em casos de cumprimento de sentença referente a acordo de não persecução penal (ANPP) extinto sem cumprimento integral, qual justiça (Estadual ou Federal) é competente para processar a execução, considerando que a dívida confessada no ANPP não envolve ente federal na lide?",
+        "resposta": "A competência para a execução de sentença decorrente de acordo de não persecução penal é da Justiça Estadual, quando não há ente federal envolvido na lide, mesmo que a obrigação tenha origem penal. A natureza da relação jurídica litigiosa é civil, o que atrai a competência da Justiça Estadual na ausência de ente federal.",
+        "trecho_referencia": "Tese de julgamento: \"1. A competência para execução de sentença de acordo de não persecução penal é determinada pela natureza civil da relação jurídica litigiosa. 2. A origem penal da obrigação não altera a competência para execução, que deve ser processada na Justiça Estadual na ausência de ente federal na lide\".",
+        "doc_id": "null"
+    },
+    {
+        "query": "Em quais situações o STJ entende que não há identidade fático-processual que justifique a extensão dos efeitos de um relaxamento de prisão por excesso de prazo a corréus?",
+        "resposta": "O STJ entende que não há identidade fático-processual que justifique a extensão dos efeitos de um relaxamento de prisão por excesso de prazo a corréus quando, apesar de a prisão de todos ter sido decretada pela mesma decisão e pelas mesmas práticas delituosas, os mandados de prisão dos corréus foram cumpridos, enquanto o requerente permanece foragido.",
+        "trecho_referencia": "Não há identidade fática entre o agravante e os corréus, pois, a despeito de a prisão de todos os réus haver sido decretada por meio da mesma decisão e de lhes haver sido imputadas as mesmas práticas delituosas, os mandados de prisão expedidos em desfavor dos coacusados foram cumpridos, enquanto Gleison permanece na condição de foragido até a presente data.",
+        "doc_id": "null"
+    },
+    {
+        "query": "É possível a revisão da dosimetria da pena por meio de habeas corpus em casos de tráfico de drogas, especificamente quanto à valoração negativa de antecedentes criminais e aplicação de causas de aumento e diminuição da pena?",
+        "resposta": "Não é cabível a revisão da dosimetria da pena por meio de habeas corpus, salvo em casos de flagrante ilegalidade. A valoração negativa de antecedentes criminais é válida, mesmo com condenações antigas, e o afastamento da minorante do art. 33, §4º, da Lei 11.343/2006 é justificado quando comprovada a dedicação a atividades criminosas. A aplicação da causa de aumento do art. 40, III, da mesma lei independe do período de férias escolares.",
+        "trecho_referencia": "O habeas corpus não é substitutivo de recurso próprio ou revisão criminal, salvo em casos de flagrante ilegalidade.\n4. A valoração negativa dos antecedentes foi considerada correta, mesmo com condenações antigas.\n5. A minorante do art. 33, §4º, da Lei 11.343/2006 foi afastada devido à dedicação dos pacientes a atividades criminosas.\n6. A causa de aumento do art. 40, III, da Lei 11.343/2006 foi aplicada corretamente, independentemente do período de férias escolares.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ possui entendimento consolidado sobre a possibilidade de cumulação da causa de aumento de pena do repouso noturno com a qualificadora do furto?",
+        "resposta": "O STJ, no julgamento de recursos repetitivos (Tema 1087), firmou o entendimento de que a causa de aumento de pena prevista no § 1º do art. 155 do Código Penal (repouso noturno) não incide no furto qualificado (§ 4º), sob pena de gerar uma resposta penal desproporcional.",
+        "trecho_referencia": "Consoante o Tema 1.087 do Superior Tribunal de Justiça, a causa de aumento prevista no § 1º do art. 155 do Código Penal (furto no período noturno) não incide em casos de furto qualificado (§ 4º), pois a aplicação cumulativa das disposições resultaria em resposta penal desproporcional, superior à cominada para o crime de roubo.\n5. Em observância ao entendimento firmado no julgamento dos Recursos Especiais 1888756/SP, 1890981/SP e 1891007/RJ, sob a sistemática dos recursos repetitivos, a causa de aumento do repouso noturno deve ser afastada nos casos de furto qualificado, com a consequente readequação da pena.",
+        "doc_id": "null"
+    },
+    {
+        "query": "O STJ entende que a alteração da tipificação do crime de tráfico de drogas, com base no art. 33, § 1º, III, da Lei nº 11.343/06, configura bis in idem em relação ao crime de associação para o tráfico?",
+        "resposta": "Não, o STJ possui entendimento consolidado de que os crimes de tráfico e de associação para o tráfico são autônomos, possuindo elementares distintas e podendo ser punidos cumulativamente, não configurando bis in idem.",
+        "trecho_referencia": "Não há que se falar em bis in idem, uma vez que os crimes de tráfico e de associação para o tráfico são autônomos, possuindo elementares distintas e podendo ser punidos cumulativamente. A jurisprudência pacífica desta Corte e do STF afasta essa alegação quando os crimes envolvem desígnios independentes.",
+        "doc_id": "null"
+    }
+]
